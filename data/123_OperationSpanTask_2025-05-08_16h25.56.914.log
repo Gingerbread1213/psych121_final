@@ -1,0 +1,58 @@
+4.9160 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+4.9174 	INFO 	Loaded monitor calibration from ['2025_04_02 00:13']
+5.1813 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fe49938d8e0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fe49938d820>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fe4993b52e0>, multiSample=False, name='window1', numSamples=2, pos=[464.0, 258.5], screen=0, size=array([1600, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='norm', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.1814 	EXP 	window1: backgroundImage = ''
+5.1814 	EXP 	window1: backgroundFit = 'none'
+5.1981 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.1987 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.1994 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2004 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2012 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2021 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2030 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2034 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2038 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2041 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2049 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2058 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2062 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2067 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2073 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2080 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2086 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2091 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2097 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2103 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2111 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2119 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2125 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2132 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2138 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2144 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2153 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2155 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2158 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.2204 	DEBUG 	Upload of Texture Font fontname complete
+5.2273 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2281 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2283 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.2304 	DEBUG 	Upload of Texture Font fontname complete
+6.0126 	INFO 	keyboard.Keyboard is using ptb backend.
+6.1276 	INFO 	keyboard.Keyboard is using ptb backend.
+6.2083 	INFO 	keyboard.Keyboard is using ptb backend.
+6.2895 	INFO 	keyboard.Keyboard is using ptb backend.
+6.3682 	INFO 	keyboard.Keyboard is using ptb backend.
+6.4464 	INFO 	keyboard.Keyboard is using ptb backend.
+6.5251 	INFO 	keyboard.Keyboard is using ptb backend.
+6.5252 	EXP 	OperationSpanTask: status = STARTED
+6.5862 	EXP 	Created nback_inst = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='nback_inst', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+6.5982 	DEBUG 	Saving data for OperationSpanTask ExperimentHandler
+6.5991 	INFO 	saved data to /Users/liuhaojie/Downloads/ospan/ospan/data/123_OperationSpanTask_2025-05-08_16h25.56.914.psydat
+6.5993 	INFO 	saved data to '/Users/liuhaojie/Downloads/ospan/ospan/data/123_OperationSpanTask_2025-05-08_16h25.56.914.csv'
+6.6017 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+6.6017 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+6.6018 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+6.6018 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+6.6018 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+6.6018 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+6.6018 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.

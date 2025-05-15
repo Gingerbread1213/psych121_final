@@ -1,0 +1,464 @@
+9.4919 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+9.5026 	INFO 	Loaded monitor calibration from ['2025_04_03 15:02']
+10.0508 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001EA3C092440>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001EA3C0923E0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001EA3C117280>, multiSample=False, name='window1', numSamples=2, pos=[283.0, 84.0], screen=0, size=array([800, 600]), stencilBits=8, stereo=False, title='PsychoPy', units='norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+10.0509 	EXP 	window1: backgroundImage = ''
+10.0509 	EXP 	window1: backgroundFit = 'none'
+10.0646 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0654 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0666 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0682 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0697 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0712 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0727 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0735 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0740 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0745 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0759 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0777 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0791 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0803 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0814 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0828 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0840 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0851 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0862 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0874 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0889 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0903 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0915 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0929 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0955 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0968 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0984 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0990 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0994 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.1140 	DEBUG 	Upload of Texture Font fontname complete
+10.1254 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1271 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1278 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.1413 	DEBUG 	Upload of Texture Font fontname complete
+10.1924 	INFO 	keyboard.Keyboard is using ptb backend.
+10.1926 	INFO 	keyboard.Keyboard is using ptb backend.
+10.1928 	INFO 	keyboard.Keyboard is using ptb backend.
+10.1929 	INFO 	keyboard.Keyboard is using ptb backend.
+10.1930 	INFO 	keyboard.Keyboard is using ptb backend.
+10.1931 	INFO 	keyboard.Keyboard is using ptb backend.
+10.1932 	INFO 	keyboard.Keyboard is using ptb backend.
+10.1932 	INFO 	keyboard.Keyboard is using ptb backend.
+10.1932 	EXP 	OperationSpanTask: status = STARTED
+10.3448 	EXP 	Created sound_question_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='sound_question_text', opacity=1, ori=0.0, pos=array([0.  , 0.25]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+10.3945 	EXP 	Created nback_inst = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='nback_inst', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+10.3964 	EXP 	Created nback_stim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='nback_stim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+10.4586 	EXP 	Created inst_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='inst_text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+10.4766 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_6', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='This is a practice trial.', units='norm', win=Window(...), wrapWidth=1)
+10.4796 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+10.4812 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+10.5132 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+10.5421 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+10.5433 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+10.5448 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+10.5559 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+10.5655 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+10.5669 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+10.5681 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+10.5766 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+10.5860 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+10.5875 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+10.5890 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+10.5977 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+10.6061 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+10.6074 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+10.6086 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+10.6176 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+10.6261 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+10.6275 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+10.6289 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+10.6374 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+10.6463 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+10.6477 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+10.6490 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+10.6578 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+0.0771 	EXP 	sound_question_textbox: autoLog = True
+0.0847 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.7216 	EXP 	Sound  reached end of file
+0.7217 	EXP 	Sound  started
+0.7255 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.7262 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.7266 	DEBUG 	Uploading Texture Font fontname to graphics card
+0.7282 	DEBUG 	Upload of Texture Font fontname complete
+0.7292 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.7300 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.7307 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.7314 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.7321 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.7327 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.7333 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.7337 	DEBUG 	Uploading Texture Font fontname to graphics card
+0.7484 	DEBUG 	Upload of Texture Font fontname complete
+0.7738 	INFO 	Keyboard events cleared
+0.7736 	EXP 	sound_question_textbox: placeholder = 'Type here...'
+0.7736 	EXP 	sound_question_text: autoDraw = True
+0.7736 	EXP 	sound_question_textbox: autoDraw = True
+5.1055 	DATA 	Keypress: b
+5.1086 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.1098 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.1115 	DEBUG 	Upload of Texture Font fontname complete
+5.3100 	DATA 	Keypress: i
+5.3127 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.3139 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.3156 	DEBUG 	Upload of Texture Font fontname complete
+5.5457 	DATA 	Keypress: n
+5.5488 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5499 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.5518 	DEBUG 	Upload of Texture Font fontname complete
+5.6957 	DATA 	Keypress: a
+5.6989 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7001 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.7020 	DEBUG 	Upload of Texture Font fontname complete
+5.8448 	DATA 	Keypress: u
+5.8480 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.8491 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.8509 	DEBUG 	Upload of Texture Font fontname complete
+6.0620 	DATA 	Keypress: r
+6.1951 	DATA 	Keypress: a
+6.3609 	DATA 	Keypress: l
+6.3639 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3650 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.3669 	DEBUG 	Upload of Texture Font fontname complete
+7.0937 	DATA 	Keypress: return
+7.1054 	EXP 	sound_question_text: autoDraw = False
+7.1054 	EXP 	sound_question_textbox: autoDraw = False
+7.1054 	EXP 	nback_inst: autoDraw = True
+7.6079 	INFO 	Keyboard events cleared
+8.0486 	DEBUG 	Read excel file with openpyxl: resources/n-back/letters1.xlsx
+8.0519 	EXP 	Imported resources/n-back/letters1.xlsx as conditions, 29 conditions, 2 params
+8.0530 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'letter': 'M', 'correct': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+8.0658 	DATA 	Keypress: space
+8.0887 	EXP 	nback_inst: autoDraw = False
+8.0887 	EXP 	nback_stim: height = 0.3
+8.0887 	EXP 	nback_stim: height = 0.3
+8.0887 	EXP 	nback_stim: height = 0.3
+8.0887 	EXP 	nback_stim: text = 'M'
+9.5051 	INFO 	Keyboard events cleared
+9.5049 	EXP 	nback_stim: autoDraw = True
+10.4929 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'letter': 'O', 'correct': None, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+10.5040 	EXP 	nback_stim: autoDraw = False
+10.5040 	EXP 	nback_stim: autoDraw = False
+10.5040 	EXP 	nback_stim: height = 0.3
+10.5040 	EXP 	nback_stim: height = 0.3
+10.5040 	EXP 	nback_stim: height = 0.3
+10.5040 	EXP 	nback_stim: text = 'O'
+12.0227 	INFO 	Keyboard events cleared
+12.0225 	EXP 	nback_stim: autoDraw = True
+13.0090 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'letter': 'X', 'correct': None, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+13.0362 	EXP 	nback_stim: autoDraw = False
+13.0362 	EXP 	nback_stim: height = 0.3
+13.0362 	EXP 	nback_stim: height = 0.3
+13.0362 	EXP 	nback_stim: height = 0.3
+13.0362 	EXP 	nback_stim: text = 'X'
+14.5049 	INFO 	Keyboard events cleared
+14.5048 	EXP 	nback_stim: autoDraw = True
+15.4924 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'letter': 'P', 'correct': None, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+15.5191 	EXP 	nback_stim: autoDraw = False
+15.5191 	EXP 	nback_stim: autoDraw = False
+15.5191 	EXP 	nback_stim: height = 0.3
+15.5191 	EXP 	nback_stim: height = 0.3
+15.5191 	EXP 	nback_stim: height = 0.3
+15.5191 	EXP 	nback_stim: text = 'P'
+17.0039 	INFO 	Keyboard events cleared
+17.0038 	EXP 	nback_stim: autoDraw = True
+17.9936 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'letter': 'X', 'correct': None, 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+18.0037 	EXP 	nback_stim: autoDraw = False
+18.0037 	EXP 	nback_stim: autoDraw = False
+18.0037 	EXP 	nback_stim: height = 0.3
+18.0037 	EXP 	nback_stim: height = 0.3
+18.0037 	EXP 	nback_stim: height = 0.3
+18.0037 	EXP 	nback_stim: text = 'X'
+19.5036 	INFO 	Keyboard events cleared
+19.5035 	EXP 	nback_stim: autoDraw = True
+20.4913 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'letter': 'L', 'correct': None, 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+20.5193 	EXP 	nback_stim: autoDraw = False
+20.5193 	EXP 	nback_stim: autoDraw = False
+20.5193 	EXP 	nback_stim: height = 0.3
+20.5193 	EXP 	nback_stim: height = 0.3
+20.5193 	EXP 	nback_stim: height = 0.3
+20.5193 	EXP 	nback_stim: text = 'L'
+22.0027 	INFO 	Keyboard events cleared
+22.0026 	EXP 	nback_stim: autoDraw = True
+22.9905 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'letter': 'P', 'correct': 'space', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+23.0022 	EXP 	nback_stim: autoDraw = False
+23.0022 	EXP 	nback_stim: autoDraw = False
+23.0022 	EXP 	nback_stim: height = 0.3
+23.0022 	EXP 	nback_stim: height = 0.3
+23.0022 	EXP 	nback_stim: height = 0.3
+23.0022 	EXP 	nback_stim: text = 'P'
+24.5027 	INFO 	Keyboard events cleared
+24.5025 	EXP 	nback_stim: autoDraw = True
+25.4925 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'letter': 'A', 'correct': None, 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+25.5197 	EXP 	nback_stim: autoDraw = False
+25.5197 	EXP 	nback_stim: autoDraw = False
+25.5197 	EXP 	nback_stim: height = 0.3
+25.5197 	EXP 	nback_stim: height = 0.3
+25.5197 	EXP 	nback_stim: height = 0.3
+25.5197 	EXP 	nback_stim: text = 'A'
+27.0190 	INFO 	Keyboard events cleared
+27.0188 	EXP 	nback_stim: autoDraw = True
+28.0118 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'letter': 'R', 'correct': None, 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+28.0346 	EXP 	nback_stim: autoDraw = False
+28.0346 	EXP 	nback_stim: height = 0.3
+28.0346 	EXP 	nback_stim: height = 0.3
+28.0346 	EXP 	nback_stim: height = 0.3
+28.0346 	EXP 	nback_stim: text = 'R'
+29.5183 	INFO 	Keyboard events cleared
+29.5181 	EXP 	nback_stim: autoDraw = True
+30.5109 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'letter': 'K', 'correct': None, 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+30.5507 	EXP 	nback_stim: autoDraw = False
+30.5507 	EXP 	nback_stim: height = 0.3
+30.5507 	EXP 	nback_stim: height = 0.3
+30.5507 	EXP 	nback_stim: height = 0.3
+30.5507 	EXP 	nback_stim: text = 'K'
+32.0179 	INFO 	Keyboard events cleared
+32.0177 	EXP 	nback_stim: autoDraw = True
+33.0043 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'letter': 'A', 'correct': 'space', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+33.0172 	EXP 	nback_stim: autoDraw = False
+33.0172 	EXP 	nback_stim: height = 0.3
+33.0172 	EXP 	nback_stim: height = 0.3
+33.0172 	EXP 	nback_stim: height = 0.3
+33.0172 	EXP 	nback_stim: text = 'A'
+34.5005 	INFO 	Keyboard events cleared
+34.5003 	EXP 	nback_stim: autoDraw = True
+35.4996 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'letter': 'R', 'correct': 'space', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+35.5164 	EXP 	nback_stim: autoDraw = False
+35.5164 	EXP 	nback_stim: autoDraw = False
+35.5164 	EXP 	nback_stim: height = 0.3
+35.5164 	EXP 	nback_stim: height = 0.3
+35.5164 	EXP 	nback_stim: height = 0.3
+35.5164 	EXP 	nback_stim: text = 'R'
+37.0331 	INFO 	Keyboard events cleared
+37.0329 	EXP 	nback_stim: autoDraw = True
+38.0260 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'letter': 'B', 'correct': None, 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+38.0490 	EXP 	nback_stim: autoDraw = False
+38.0490 	EXP 	nback_stim: height = 0.3
+38.0490 	EXP 	nback_stim: height = 0.3
+38.0490 	EXP 	nback_stim: height = 0.3
+38.0490 	EXP 	nback_stim: text = 'B'
+39.4995 	INFO 	Keyboard events cleared
+39.4993 	EXP 	nback_stim: autoDraw = True
+40.4887 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'letter': 'N', 'correct': None, 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+40.5142 	EXP 	nback_stim: autoDraw = False
+40.5142 	EXP 	nback_stim: autoDraw = False
+40.5142 	EXP 	nback_stim: height = 0.3
+40.5142 	EXP 	nback_stim: height = 0.3
+40.5142 	EXP 	nback_stim: height = 0.3
+40.5142 	EXP 	nback_stim: text = 'N'
+42.0155 	INFO 	Keyboard events cleared
+42.0154 	EXP 	nback_stim: autoDraw = True
+43.0046 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'letter': 'T', 'correct': None, 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+43.0311 	EXP 	nback_stim: autoDraw = False
+43.0311 	EXP 	nback_stim: height = 0.3
+43.0311 	EXP 	nback_stim: height = 0.3
+43.0311 	EXP 	nback_stim: height = 0.3
+43.0311 	EXP 	nback_stim: text = 'T'
+44.5149 	INFO 	Keyboard events cleared
+44.5147 	EXP 	nback_stim: autoDraw = True
+45.5081 	EXP 	New trial (rep=0, index=15): <Trial 15 (15 in rep 0) data={'letter': 'T', 'correct': None, 'thisN': 15, 'thisTrialN': 15, 'thisRepN': 0}>
+45.5312 	EXP 	nback_stim: autoDraw = False
+45.5312 	EXP 	nback_stim: text = 'T'
+47.0143 	INFO 	Keyboard events cleared
+47.0142 	EXP 	nback_stim: autoDraw = True
+48.0030 	EXP 	New trial (rep=0, index=16): <Trial 16 (16 in rep 0) data={'letter': 'N', 'correct': 'space', 'thisN': 16, 'thisTrialN': 16, 'thisRepN': 0}>
+48.0139 	EXP 	nback_stim: autoDraw = False
+48.0139 	EXP 	nback_stim: height = 0.3
+48.0139 	EXP 	nback_stim: height = 0.3
+48.0139 	EXP 	nback_stim: height = 0.3
+48.0139 	EXP 	nback_stim: text = 'N'
+49.5305 	INFO 	Keyboard events cleared
+49.5303 	EXP 	nback_stim: autoDraw = True
+50.5079 	EXP 	New trial (rep=0, index=17): <Trial 17 (17 in rep 0) data={'letter': 'Y', 'correct': None, 'thisN': 17, 'thisTrialN': 17, 'thisRepN': 0}>
+50.5293 	EXP 	nback_stim: autoDraw = False
+50.5293 	EXP 	nback_stim: height = 0.3
+50.5293 	EXP 	nback_stim: height = 0.3
+50.5293 	EXP 	nback_stim: height = 0.3
+50.5293 	EXP 	nback_stim: text = 'Y'
+52.0137 	INFO 	Keyboard events cleared
+52.0135 	EXP 	nback_stim: autoDraw = True
+53.0020 	EXP 	New trial (rep=0, index=18): <Trial 18 (18 in rep 0) data={'letter': 'S', 'correct': None, 'thisN': 18, 'thisTrialN': 18, 'thisRepN': 0}>
+53.0278 	EXP 	nback_stim: autoDraw = False
+53.0278 	EXP 	nback_stim: height = 0.3
+53.0278 	EXP 	nback_stim: height = 0.3
+53.0278 	EXP 	nback_stim: height = 0.3
+53.0278 	EXP 	nback_stim: text = 'S'
+54.5128 	INFO 	Keyboard events cleared
+54.5126 	EXP 	nback_stim: autoDraw = True
+55.5016 	EXP 	New trial (rep=0, index=19): <Trial 19 (19 in rep 0) data={'letter': 'R', 'correct': None, 'thisN': 19, 'thisTrialN': 19, 'thisRepN': 0}>
+55.5280 	EXP 	nback_stim: autoDraw = False
+55.5280 	EXP 	nback_stim: height = 0.3
+55.5280 	EXP 	nback_stim: height = 0.3
+55.5280 	EXP 	nback_stim: height = 0.3
+55.5280 	EXP 	nback_stim: text = 'R'
+57.0289 	INFO 	Keyboard events cleared
+57.0287 	EXP 	nback_stim: autoDraw = True
+58.0061 	EXP 	New trial (rep=0, index=20): <Trial 20 (20 in rep 0) data={'letter': 'Y', 'correct': 'space', 'thisN': 20, 'thisTrialN': 20, 'thisRepN': 0}>
+58.0290 	EXP 	nback_stim: autoDraw = False
+58.0290 	EXP 	nback_stim: height = 0.3
+58.0290 	EXP 	nback_stim: height = 0.3
+58.0290 	EXP 	nback_stim: height = 0.3
+58.0290 	EXP 	nback_stim: text = 'Y'
+59.5280 	INFO 	Keyboard events cleared
+59.5278 	EXP 	nback_stim: autoDraw = True
+60.5208 	EXP 	New trial (rep=0, index=21): <Trial 21 (21 in rep 0) data={'letter': 'F', 'correct': None, 'thisN': 21, 'thisTrialN': 21, 'thisRepN': 0}>
+60.5437 	EXP 	nback_stim: autoDraw = False
+60.5437 	EXP 	nback_stim: height = 0.3
+60.5437 	EXP 	nback_stim: height = 0.3
+60.5437 	EXP 	nback_stim: height = 0.3
+60.5437 	EXP 	nback_stim: text = 'F'
+62.0276 	INFO 	Keyboard events cleared
+62.0274 	EXP 	nback_stim: autoDraw = True
+63.0205 	EXP 	New trial (rep=0, index=22): <Trial 22 (22 in rep 0) data={'letter': 'R', 'correct': 'space', 'thisN': 22, 'thisTrialN': 22, 'thisRepN': 0}>
+63.0437 	EXP 	nback_stim: autoDraw = False
+63.0437 	EXP 	nback_stim: height = 0.3
+63.0437 	EXP 	nback_stim: height = 0.3
+63.0437 	EXP 	nback_stim: height = 0.3
+63.0437 	EXP 	nback_stim: text = 'R'
+64.5269 	INFO 	Keyboard events cleared
+64.5267 	EXP 	nback_stim: autoDraw = True
+65.5033 	EXP 	New trial (rep=0, index=23): <Trial 23 (23 in rep 0) data={'letter': 'A', 'correct': None, 'thisN': 23, 'thisTrialN': 23, 'thisRepN': 0}>
+65.5265 	EXP 	nback_stim: autoDraw = False
+65.5265 	EXP 	nback_stim: height = 0.3
+65.5265 	EXP 	nback_stim: height = 0.3
+65.5265 	EXP 	nback_stim: height = 0.3
+65.5265 	EXP 	nback_stim: text = 'A'
+67.0265 	INFO 	Keyboard events cleared
+67.0263 	EXP 	nback_stim: autoDraw = True
+68.0027 	EXP 	New trial (rep=0, index=24): <Trial 24 (24 in rep 0) data={'letter': 'K', 'correct': None, 'thisN': 24, 'thisTrialN': 24, 'thisRepN': 0}>
+68.0259 	EXP 	nback_stim: autoDraw = False
+68.0259 	EXP 	nback_stim: height = 0.3
+68.0259 	EXP 	nback_stim: height = 0.3
+68.0259 	EXP 	nback_stim: height = 0.3
+68.0259 	EXP 	nback_stim: text = 'K'
+69.5088 	INFO 	Keyboard events cleared
+69.5087 	EXP 	nback_stim: autoDraw = True
+70.5023 	EXP 	New trial (rep=0, index=25): <Trial 25 (25 in rep 0) data={'letter': 'F', 'correct': None, 'thisN': 25, 'thisTrialN': 25, 'thisRepN': 0}>
+70.5254 	EXP 	nback_stim: autoDraw = False
+70.5254 	EXP 	nback_stim: height = 0.3
+70.5254 	EXP 	nback_stim: height = 0.3
+70.5254 	EXP 	nback_stim: height = 0.3
+70.5254 	EXP 	nback_stim: text = 'F'
+72.0085 	INFO 	Keyboard events cleared
+72.0083 	EXP 	nback_stim: autoDraw = True
+72.9981 	EXP 	New trial (rep=0, index=26): <Trial 26 (26 in rep 0) data={'letter': 'B', 'correct': None, 'thisN': 26, 'thisTrialN': 26, 'thisRepN': 0}>
+73.0240 	EXP 	nback_stim: autoDraw = False
+73.0240 	EXP 	nback_stim: autoDraw = False
+73.0240 	EXP 	nback_stim: height = 0.3
+73.0240 	EXP 	nback_stim: height = 0.3
+73.0240 	EXP 	nback_stim: height = 0.3
+73.0240 	EXP 	nback_stim: text = 'B'
+74.5412 	INFO 	Keyboard events cleared
+74.5410 	EXP 	nback_stim: autoDraw = True
+75.5136 	EXP 	New trial (rep=0, index=27): <Trial 27 (27 in rep 0) data={'letter': 'K', 'correct': 'space', 'thisN': 27, 'thisTrialN': 27, 'thisRepN': 0}>
+75.5403 	EXP 	nback_stim: autoDraw = False
+75.5403 	EXP 	nback_stim: height = 0.3
+75.5403 	EXP 	nback_stim: height = 0.3
+75.5403 	EXP 	nback_stim: height = 0.3
+75.5403 	EXP 	nback_stim: text = 'K'
+77.0072 	INFO 	Keyboard events cleared
+77.0071 	EXP 	nback_stim: autoDraw = True
+77.9965 	EXP 	New trial (rep=0, index=28): <Trial 28 (28 in rep 0) data={'letter': 'A', 'correct': None, 'thisN': 28, 'thisTrialN': 28, 'thisRepN': 0}>
+78.0231 	EXP 	nback_stim: autoDraw = False
+78.0231 	EXP 	nback_stim: autoDraw = False
+78.0231 	EXP 	nback_stim: height = 0.3
+78.0231 	EXP 	nback_stim: height = 0.3
+78.0231 	EXP 	nback_stim: height = 0.3
+78.0231 	EXP 	nback_stim: text = 'A'
+79.5233 	INFO 	Keyboard events cleared
+79.5231 	EXP 	nback_stim: autoDraw = True
+80.5238 	EXP 	nback_stim: autoDraw = False
+80.5238 	EXP 	inst_text: autoDraw = True
+81.5246 	INFO 	Keyboard events cleared
+83.2079 	DATA 	Keypress: space
+83.2237 	EXP 	inst_text: autoDraw = False
+83.2237 	EXP 	text_6: autoDraw = True
+85.2670 	DEBUG 	Read excel file with openpyxl: resources/ospan_block/Block4.xlsx
+85.2760 	EXP 	Imported resources/ospan_block/Block4.xlsx as conditions, 2 conditions, 6 params
+85.2765 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 'Example', 'Stimulus': '( 4 - 7 ) × 1 = -4', 'Response': 'left', 'Letter': 'X', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+85.3202 	EXP 	text_6: autoDraw = False
+85.3202 	EXP 	text: height = 0.1
+85.3202 	EXP 	text: height = 0.1
+85.3202 	EXP 	text: height = 0.1
+85.3202 	EXP 	text: text = '( 4 - 7 ) × 1 = -4'
+85.5223 	INFO 	Keyboard events cleared
+85.5221 	EXP 	text: autoDraw = True
+88.7956 	DATA 	Keypress: right
+88.8063 	EXP 	text: autoDraw = False
+88.8063 	EXP 	text_2: height = 0.3
+88.8063 	EXP 	text_2: height = 0.3
+88.8063 	EXP 	text_2: height = 0.3
+88.8063 	EXP 	text_2: text = 'X'
+88.8063 	EXP 	text_2: autoDraw = True
+89.7994 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 'Example', 'Stimulus': '( 9 + 5 ) × 1 = 15', 'Response': 'left', 'Letter': 'E', 'corrResp': ['x', 'e'], 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+89.8369 	EXP 	text_2: autoDraw = False
+89.8369 	EXP 	text: height = 0.1
+89.8369 	EXP 	text: height = 0.1
+89.8369 	EXP 	text: height = 0.1
+89.8369 	EXP 	text: text = '( 9 + 5 ) × 1 = 15'
+90.1044 	INFO 	Keyboard events cleared
+90.1042 	EXP 	text: autoDraw = True
+90.8817 	DATA 	Keypress: right
+90.9032 	EXP 	text: autoDraw = False
+90.9032 	EXP 	text_2: height = 0.3
+90.9032 	EXP 	text_2: height = 0.3
+90.9032 	EXP 	text_2: height = 0.3
+90.9032 	EXP 	text_2: text = 'E'
+90.9032 	EXP 	text_2: autoDraw = True
+91.8886 	INFO 	Keyboard events cleared
+91.8884 	EXP 	text_2: autoDraw = False
+91.8884 	EXP 	text_3: autoDraw = True
+92.3714 	INFO 	Keyboard events cleared
+93.5663 	DATA 	Keypress: right
+94.5561 	DATA 	Keypress: space
+94.6036 	EXP 	text_3: autoDraw = False
+94.6036 	EXP 	text_5: autoDraw = True
+97.1402 	DEBUG 	Read excel file with openpyxl: resources/ospan_block/Block6.xlsx
+97.1524 	EXP 	Imported resources/ospan_block/Block6.xlsx as conditions, 2 conditions, 6 params
+97.1529 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 2, 'Stimulus': '( 3 + 1 ) × 2 = 9', 'Response': 'left', 'Letter': 'S', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+97.1840 	EXP 	text_5: autoDraw = False
+97.1840 	EXP 	text: height = 0.1
+97.1840 	EXP 	text: height = 0.1
+97.1840 	EXP 	text: height = 0.1
+97.1840 	EXP 	text: text = '( 3 + 1 ) × 2 = 9'
+97.3867 	INFO 	Keyboard events cleared
+97.3865 	EXP 	text: autoDraw = True
+98.3426 	DATA 	Keypress: right
+98.3525 	EXP 	text: autoDraw = False
+98.3525 	EXP 	text_2: height = 0.3
+98.3525 	EXP 	text_2: height = 0.3
+98.3525 	EXP 	text_2: height = 0.3
+98.3525 	EXP 	text_2: text = 'S'
+98.3525 	EXP 	text_2: autoDraw = True
+98.6490 	DATA 	Keypress: right
+98.6800 	DATA 	Keypress: left
+98.8808 	DATA 	Keypress: right
+99.3427 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 2, 'Stimulus': '( 7 + 8 ) × 2 = 29', 'Response': 'left', 'Letter': 'J', 'corrResp': ['s', 'j'], 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+99.3564 	DATA 	Keypress: space
+99.3672 	EXP 	text_2: autoDraw = False
+99.3672 	EXP 	text: height = 0.1
+99.3672 	EXP 	text: height = 0.1
+99.3672 	EXP 	text: height = 0.1
+99.3672 	EXP 	text: text = '( 7 + 8 ) × 2 = 29'
+99.6355 	INFO 	Keyboard events cleared
+99.6353 	EXP 	text: autoDraw = True
+100.7590 	DATA 	Keypress: escape
+100.8585 	EXP 	OperationSpanTask: status = STOPPED
+100.8684 	EXP 	text: autoDraw = False
+100.8748 	EXP 	OperationSpanTask: status = STOPPED
+100.9096 	INFO 	saved data to 'C:\\Users\\Luca\\OneDrive\\Desktop\\Spring 25\\Psych 121\\Project\\ospan_with_random_sound\\ospan_with_random_sound\\data/1_OperationSpanTask_2025-05-13_16h21.12.970.csv'
+100.9139 	INFO 	saved data to C:\Users\Luca\OneDrive\Desktop\Spring 25\Psych 121\Project\ospan_with_random_sound\ospan_with_random_sound\data/1_OperationSpanTask_2025-05-13_16h21.12.970.psydat
+101.1085 	DEBUG 	Saving data for OperationSpanTask ExperimentHandler
+101.1112 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+101.1593 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+101.1594 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+101.1595 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+101.1595 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+101.1595 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+101.1596 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+101.1596 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.

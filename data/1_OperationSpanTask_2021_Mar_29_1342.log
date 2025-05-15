@@ -1,0 +1,785 @@
+1.2219 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+11.3055 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+14.0427 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F59FD17C18>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001F59FD3A198>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+14.0430 	EXP 	window1: mouseVisible = True
+14.0431 	EXP 	window1: recordFrameIntervals = False
+14.2089 	EXP 	window1: recordFrameIntervals = True
+14.3925 	EXP 	window1: recordFrameIntervals = False
+15.1488 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.07, italic=False, languageStyle='LTR', name='text_4', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+15.1729 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_6', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='Comienza una serie de ensayo', units='norm', win=Window(...), wrapWidth=1)
+15.1749 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+15.1772 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([-1, -1,  1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+15.1890 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+15.2166 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='¡Atención!\nComienza una nueva serie', units='norm', win=Window(...), wrapWidth=1)
+15.2174 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+15.2182 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([-1, -1,  1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+15.2208 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+15.2268 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='¡Atención!\nComienza una nueva serie', units='norm', win=Window(...), wrapWidth=1)
+15.2276 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+15.2283 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([-1, -1,  1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+15.2304 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+15.2371 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='¡Atención!\nComienza una nueva serie', units='norm', win=Window(...), wrapWidth=1)
+15.2379 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+15.2386 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([-1, -1,  1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+15.2407 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+15.2465 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='¡Atención!\nComienza una nueva serie', units='norm', win=Window(...), wrapWidth=1)
+15.2473 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+15.2480 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([-1, -1,  1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+15.2507 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+15.2577 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='¡Atención!\nComienza una nueva serie', units='norm', win=Window(...), wrapWidth=1)
+15.2585 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+15.2593 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([-1, -1,  1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+15.2615 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+15.2965 	EXP 	text_4: autoDraw = True
+47.8833 	EXP 	Imported Bloques.xlsx as conditions, 2 conditions, 1 params
+47.8846 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+47.8849 	EXP 	New trial (rep=0, index=0): {'Eligebloque': 'Bloque1.xlsx'}
+47.8888 	DATA 	Keypress: space
+47.8947 	EXP 	text_4: autoDraw = False
+47.8947 	EXP 	text_6: autoDraw = True
+49.9107 	EXP 	Imported Bloque1.xlsx as conditions, 2 conditions, 6 params
+49.9111 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+49.9117 	EXP 	New trial (rep=0, index=0): {'Tipo': 'Operation', 'Span': 'Ejemplo', 'Estimulo': '( 3 - 1 ) × 2 = 4', 'Respuesta': 'right', 'Letra': 'D', 'CorRec': None}
+49.9454 	EXP 	text_6: autoDraw = False
+49.9454 	EXP 	text: text = '( 3 - 1 ) × 2 = 4'
+50.2318 	EXP 	text: autoDraw = True
+59.0199 	DATA 	Keypress: right
+59.0673 	EXP 	text: autoDraw = False
+59.0673 	EXP 	text_2: text = 'D'
+59.0673 	EXP 	text_2: autoDraw = True
+60.0463 	EXP 	New trial (rep=0, index=1): {'Tipo': 'Operation', 'Span': 'Ejemplo', 'Estimulo': '( 3 + 6 ) × 2 = 16', 'Respuesta': 'left', 'Letra': 'T', 'CorRec': ['d', 't']}
+60.0776 	EXP 	text_2: autoDraw = False
+60.0776 	EXP 	text: text = '( 3 + 6 ) × 2 = 16'
+60.3625 	EXP 	text: autoDraw = True
+64.7574 	DATA 	Keypress: left
+64.7638 	EXP 	text: autoDraw = False
+64.7638 	EXP 	text_2: text = 'T'
+64.7638 	EXP 	text_2: autoDraw = True
+65.7661 	EXP 	text_2: autoDraw = False
+65.7661 	EXP 	text_3: autoDraw = True
+67.4086 	DATA 	Keypress: d
+67.9263 	DATA 	Keypress: t
+70.8625 	EXP 	New trial (rep=0, index=1): {'Eligebloque': 'Bloque2.xlsx'}
+70.8681 	DATA 	Keypress: space
+70.8738 	EXP 	text_3: autoDraw = False
+70.8738 	EXP 	text_6: autoDraw = True
+72.7809 	DATA 	Keypress: d
+72.9143 	EXP 	Imported Bloque2.xlsx as conditions, 2 conditions, 6 params
+72.9148 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+72.9153 	EXP 	New trial (rep=0, index=0): {'Tipo': 'Operation', 'Span': 'Ejemplo', 'Estimulo': '( 5 - 2 ) × 2 = 3', 'Respuesta': 'left', 'Letra': 'R', 'CorRec': None}
+72.9331 	EXP 	text_6: autoDraw = False
+72.9331 	EXP 	text_6: autoDraw = False
+72.9331 	EXP 	text: text = '( 5 - 2 ) × 2 = 3'
+73.2252 	EXP 	text: autoDraw = True
+78.3388 	DATA 	Keypress: left
+78.3826 	EXP 	text: autoDraw = False
+78.3826 	EXP 	text_2: text = 'R'
+78.3826 	EXP 	text_2: autoDraw = True
+79.3672 	EXP 	New trial (rep=0, index=1): {'Tipo': 'Operation', 'Span': 'Ejemplo', 'Estimulo': '( 4 + 1 ) × 1 = 5', 'Respuesta': 'right', 'Letra': 'V', 'CorRec': ['r', 'v']}
+79.3871 	EXP 	text_2: autoDraw = False
+79.3871 	EXP 	text: text = '( 4 + 1 ) × 1 = 5'
+79.6822 	EXP 	text: autoDraw = True
+82.2393 	DATA 	Keypress: right
+82.2725 	EXP 	text: autoDraw = False
+82.2725 	EXP 	text_2: text = 'V'
+82.2725 	EXP 	text_2: autoDraw = True
+83.2863 	EXP 	text_2: autoDraw = False
+83.2863 	EXP 	text_3: autoDraw = True
+84.6471 	DATA 	Keypress: r
+84.9794 	DATA 	Keypress: v
+91.2868 	DATA 	Keypress: r
+91.6203 	DATA 	Keypress: v
+92.0665 	EXP 	Imported Bloques.xlsx as conditions, 3 conditions, 1 params
+92.0669 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+92.0673 	EXP 	New trial (rep=0, index=0): {'Eligebloque': 'Bloque1.xlsx'}
+92.0711 	DATA 	Keypress: space
+92.0774 	EXP 	text_3: autoDraw = False
+92.0774 	EXP 	text_5: autoDraw = True
+93.5967 	EXP 	Imported Bloque1.xlsx as conditions, 2 conditions, 6 params
+93.5974 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+93.5982 	EXP 	New trial (rep=0, index=0): {'Tipo': 'Operation', 'Span': 2, 'Estimulo': '( 4 - 1 ) × 1 = 6', 'Respuesta': 'left', 'Letra': 'S', 'CorRec': None}
+93.6118 	EXP 	text_5: autoDraw = False
+93.6118 	EXP 	text: text = '( 4 - 1 ) × 1 = 6'
+93.8984 	EXP 	text: autoDraw = True
+99.8963 	DATA 	Keypress: left
+99.9375 	EXP 	text: autoDraw = False
+99.9375 	EXP 	text_2: text = 'S'
+99.9375 	EXP 	text_2: autoDraw = True
+100.9223 	EXP 	New trial (rep=0, index=1): {'Tipo': 'Operation', 'Span': 2, 'Estimulo': '( 3 + 1 ) × 3 = 12', 'Respuesta': 'right', 'Letra': 'B', 'CorRec': ['s', 'b']}
+100.9380 	EXP 	text_2: autoDraw = False
+100.9380 	EXP 	text: text = '( 3 + 1 ) × 3 = 12'
+101.2228 	EXP 	text: autoDraw = True
+104.6170 	DATA 	Keypress: right
+104.6228 	EXP 	text: autoDraw = False
+104.6228 	EXP 	text_2: text = 'B'
+104.6228 	EXP 	text_2: autoDraw = True
+105.6266 	EXP 	text_2: autoDraw = False
+105.6266 	EXP 	text_3: autoDraw = True
+107.1693 	DATA 	Keypress: s
+107.7697 	DATA 	Keypress: b
+112.5084 	DATA 	Keypress: capslock
+113.0254 	DATA 	Keypress: s
+113.4599 	DATA 	Keypress: b
+116.2564 	EXP 	New trial (rep=0, index=1): {'Eligebloque': 'Bloque2.xlsx'}
+116.2632 	DATA 	Keypress: space
+116.2705 	EXP 	text_3: autoDraw = False
+116.2705 	EXP 	text_5: autoDraw = True
+117.7772 	EXP 	Imported Bloque2.xlsx as conditions, 2 conditions, 6 params
+117.7775 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+117.7780 	EXP 	New trial (rep=0, index=0): {'Tipo': 'Operation', 'Span': 2, 'Estimulo': '( 4 - 2 ) × 2 = 6', 'Respuesta': 'left', 'Letra': 'T', 'CorRec': None}
+117.7894 	EXP 	text_5: autoDraw = False
+117.7894 	EXP 	text: text = '( 4 - 2 ) × 2 = 6'
+118.0757 	EXP 	text: autoDraw = True
+120.5155 	DATA 	Keypress: left
+120.5451 	EXP 	text: autoDraw = False
+120.5451 	EXP 	text_2: text = 'T'
+120.5451 	EXP 	text_2: autoDraw = True
+121.5317 	EXP 	New trial (rep=0, index=1): {'Tipo': 'Operation', 'Span': 2, 'Estimulo': '( 4 - 1 ) × 4 = 12', 'Respuesta': 'right', 'Letra': 'N', 'CorRec': ['t', 'n']}
+121.5501 	EXP 	text_2: autoDraw = False
+121.5501 	EXP 	text_2: autoDraw = False
+121.5501 	EXP 	text: text = '( 4 - 1 ) × 4 = 12'
+121.8466 	EXP 	text: autoDraw = True
+126.5289 	DATA 	Keypress: right
+126.5355 	EXP 	text: autoDraw = False
+126.5355 	EXP 	text_2: text = 'N'
+126.5355 	EXP 	text_2: autoDraw = True
+127.5355 	EXP 	text_2: autoDraw = False
+127.5355 	EXP 	text_3: autoDraw = True
+128.9337 	DATA 	Keypress: t
+129.3688 	DATA 	Keypress: n
+145.4780 	DATA 	Keypress: t
+145.8286 	DATA 	Keypress: n
+146.1334 	EXP 	New trial (rep=0, index=2): {'Eligebloque': 'Bloque3.xlsx'}
+146.1391 	DATA 	Keypress: space
+146.1454 	EXP 	text_3: autoDraw = False
+146.1454 	EXP 	text_5: autoDraw = True
+147.6775 	EXP 	Imported Bloque3.xlsx as conditions, 2 conditions, 6 params
+147.6778 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+147.6782 	EXP 	New trial (rep=0, index=0): {'Tipo': 'Operation', 'Span': 2, 'Estimulo': '( 3 + 6 ) × 4 = 36', 'Respuesta': 'right', 'Letra': 'P', 'CorRec': None}
+147.6886 	EXP 	text_5: autoDraw = False
+147.6886 	EXP 	text: text = '( 3 + 6 ) × 4 = 36'
+147.9729 	EXP 	text: autoDraw = True
+155.2886 	DATA 	Keypress: right
+155.2944 	EXP 	text: autoDraw = False
+155.2944 	EXP 	text_2: text = 'P'
+155.2944 	EXP 	text_2: autoDraw = True
+156.2854 	EXP 	New trial (rep=0, index=1): {'Tipo': 'Operation', 'Span': 2, 'Estimulo': '( 5 - 1 ) × 1 = 6', 'Respuesta': 'left', 'Letra': 'R', 'CorRec': ['p', 'r']}
+156.3046 	EXP 	text_2: autoDraw = False
+156.3046 	EXP 	text: text = '( 5 - 1 ) × 1 = 6'
+156.6043 	EXP 	text: autoDraw = True
+159.4293 	DATA 	Keypress: left
+159.4376 	EXP 	text: autoDraw = False
+159.4376 	EXP 	text_2: text = 'R'
+159.4376 	EXP 	text_2: autoDraw = True
+160.4369 	EXP 	text_2: autoDraw = False
+160.4369 	EXP 	text_2: autoDraw = False
+160.4369 	EXP 	text_3: autoDraw = True
+161.8125 	DATA 	Keypress: p
+162.5466 	DATA 	Keypress: r
+162.9910 	EXP 	Imported Bloques.xlsx as conditions, 3 conditions, 1 params
+162.9914 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+162.9917 	EXP 	New trial (rep=0, index=0): {'Eligebloque': 'Bloque1.xlsx'}
+162.9951 	DATA 	Keypress: space
+163.0016 	EXP 	text_3: autoDraw = False
+163.0016 	EXP 	text_5: autoDraw = True
+164.5093 	EXP 	Imported Bloque1.xlsx as conditions, 3 conditions, 6 params
+164.5097 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+164.5101 	EXP 	New trial (rep=0, index=0): {'Tipo': 'Operation', 'Span': 3, 'Estimulo': '( 4 + 2 ) × 2 = 8', 'Respuesta': 'left', 'Letra': 'C', 'CorRec': None}
+164.5244 	EXP 	text_5: autoDraw = False
+164.5244 	EXP 	text: text = '( 4 + 2 ) × 2 = 8'
+164.8085 	EXP 	text: autoDraw = True
+168.4839 	DATA 	Keypress: left
+168.5186 	EXP 	text: autoDraw = False
+168.5186 	EXP 	text_2: text = 'C'
+168.5186 	EXP 	text_2: autoDraw = True
+169.5162 	EXP 	New trial (rep=0, index=1): {'Tipo': 'Operation', 'Span': 3, 'Estimulo': '( 3 - 1 ) × 3 = 5', 'Respuesta': 'left', 'Letra': 'L', 'CorRec': None}
+169.5325 	EXP 	text_2: autoDraw = False
+169.5325 	EXP 	text: text = '( 3 - 1 ) × 3 = 5'
+169.8158 	EXP 	text: autoDraw = True
+172.2883 	DATA 	Keypress: left
+172.3204 	EXP 	text: autoDraw = False
+172.3204 	EXP 	text_2: text = 'L'
+172.3204 	EXP 	text_2: autoDraw = True
+173.3186 	EXP 	New trial (rep=0, index=2): {'Tipo': 'Operation', 'Span': 3, 'Estimulo': '( 5 - 1 ) × 5 = 20', 'Respuesta': 'right', 'Letra': 'G', 'CorRec': ['c', 'l', 'g']}
+173.3358 	EXP 	text_2: autoDraw = False
+173.3358 	EXP 	text: text = '( 5 - 1 ) × 5 = 20'
+173.6194 	EXP 	text: autoDraw = True
+176.9147 	DATA 	Keypress: right
+176.9207 	EXP 	text: autoDraw = False
+176.9207 	EXP 	text_2: text = 'G'
+176.9207 	EXP 	text_2: autoDraw = True
+177.9247 	EXP 	text_2: autoDraw = False
+177.9247 	EXP 	text_3: autoDraw = True
+179.2007 	DATA 	Keypress: c
+179.7229 	DATA 	Keypress: l
+180.4081 	DATA 	Keypress: g
+181.0673 	DATA 	Keypress: return
+182.0018 	EXP 	New trial (rep=0, index=1): {'Eligebloque': 'Bloque2.xlsx'}
+182.0073 	DATA 	Keypress: space
+182.0138 	EXP 	text_3: autoDraw = False
+182.0138 	EXP 	text_5: autoDraw = True
+183.5324 	EXP 	Imported Bloque2.xlsx as conditions, 3 conditions, 6 params
+183.5328 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+183.5332 	EXP 	New trial (rep=0, index=0): {'Tipo': 'Operation', 'Span': 3, 'Estimulo': '( 4 - 2 ) × 3 = 9', 'Respuesta': 'left', 'Letra': 'J', 'CorRec': None}
+183.5475 	EXP 	text_5: autoDraw = False
+183.5475 	EXP 	text: text = '( 4 - 2 ) × 3 = 9'
+183.8458 	EXP 	text: autoDraw = True
+190.3954 	DATA 	Keypress: left
+190.4371 	EXP 	text: autoDraw = False
+190.4371 	EXP 	text_2: text = 'J'
+190.4371 	EXP 	text_2: autoDraw = True
+191.4243 	EXP 	New trial (rep=0, index=1): {'Tipo': 'Operation', 'Span': 3, 'Estimulo': '( 3 + 8 ) × 5 = 53', 'Respuesta': 'left', 'Letra': 'M', 'CorRec': None}
+191.4415 	EXP 	text_2: autoDraw = False
+191.4415 	EXP 	text: text = '( 3 + 8 ) × 5 = 53'
+191.7395 	EXP 	text: autoDraw = True
+200.3103 	DATA 	Keypress: right
+200.3507 	EXP 	text: autoDraw = False
+200.3507 	EXP 	text_2: text = 'M'
+200.3507 	EXP 	text_2: autoDraw = True
+201.3349 	EXP 	New trial (rep=0, index=2): {'Tipo': 'Operation', 'Span': 3, 'Estimulo': '( 4 + 7 ) × 2 = 22', 'Respuesta': 'right', 'Letra': 'B', 'CorRec': ['j', 'm', 'b']}
+201.3626 	EXP 	text_2: autoDraw = False
+201.3626 	EXP 	text: text = '( 4 + 7 ) × 2 = 22'
+201.6509 	EXP 	text: autoDraw = True
+207.0150 	DATA 	Keypress: left
+207.0233 	EXP 	text: autoDraw = False
+207.0233 	EXP 	text_2: text = 'B'
+207.0233 	EXP 	text_2: autoDraw = True
+208.0241 	EXP 	text_2: autoDraw = False
+208.0241 	EXP 	text_2: autoDraw = False
+208.0241 	EXP 	text_3: autoDraw = True
+210.1492 	DATA 	Keypress: c
+210.4920 	DATA 	Keypress: b
+211.2831 	EXP 	New trial (rep=0, index=2): {'Eligebloque': 'Bloque3.xlsx'}
+211.2874 	DATA 	Keypress: space
+211.2951 	EXP 	text_3: autoDraw = False
+211.2951 	EXP 	text_5: autoDraw = True
+212.7966 	EXP 	Imported Bloque3.xlsx as conditions, 3 conditions, 6 params
+212.7970 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+212.7973 	EXP 	New trial (rep=0, index=0): {'Tipo': 'Operation', 'Span': 3, 'Estimulo': '( 3 + 6 ) × 5 = 43', 'Respuesta': 'right', 'Letra': 'Z', 'CorRec': None}
+212.8077 	EXP 	text_5: autoDraw = False
+212.8077 	EXP 	text_5: autoDraw = False
+212.8077 	EXP 	text: text = '( 3 + 6 ) × 5 = 43'
+213.0950 	EXP 	text: autoDraw = True
+221.5024 	DATA 	Keypress: left
+221.5082 	EXP 	text: autoDraw = False
+221.5082 	EXP 	text_2: text = 'Z'
+221.5082 	EXP 	text_2: autoDraw = True
+222.5064 	EXP 	New trial (rep=0, index=1): {'Tipo': 'Operation', 'Span': 3, 'Estimulo': '( 6 - 1 ) × 3 = 19', 'Respuesta': 'right', 'Letra': 'F', 'CorRec': None}
+222.5219 	EXP 	text_2: autoDraw = False
+222.5219 	EXP 	text: text = '( 6 - 1 ) × 3 = 19'
+222.8072 	EXP 	text: autoDraw = True
+225.9001 	DATA 	Keypress: left
+225.9364 	EXP 	text: autoDraw = False
+225.9364 	EXP 	text_2: text = 'F'
+225.9364 	EXP 	text_2: autoDraw = True
+226.9273 	EXP 	New trial (rep=0, index=2): {'Tipo': 'Operation', 'Span': 3, 'Estimulo': '( 4 + 2 ) × 4 = 23', 'Respuesta': 'right', 'Letra': 'T', 'CorRec': ['z', 'f', 't']}
+226.9435 	EXP 	text_2: autoDraw = False
+226.9435 	EXP 	text: text = '( 4 + 2 ) × 4 = 23'
+227.2272 	EXP 	text: autoDraw = True
+231.3753 	DATA 	Keypress: left
+231.3837 	EXP 	text: autoDraw = False
+231.3837 	EXP 	text_2: text = 'T'
+231.3837 	EXP 	text_2: autoDraw = True
+232.3830 	EXP 	text_2: autoDraw = False
+232.3830 	EXP 	text_2: autoDraw = False
+232.3830 	EXP 	text_3: autoDraw = True
+234.0680 	DATA 	Keypress: x
+234.5813 	DATA 	Keypress: f
+235.0952 	DATA 	Keypress: l
+235.6969 	DATA 	Keypress: t
+236.1172 	EXP 	Imported Bloques.xlsx as conditions, 3 conditions, 1 params
+236.1180 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+236.1188 	EXP 	New trial (rep=0, index=0): {'Eligebloque': 'Bloque1.xlsx'}
+236.1251 	DATA 	Keypress: space
+236.1317 	EXP 	text_3: autoDraw = False
+236.1317 	EXP 	text_5: autoDraw = True
+237.6249 	EXP 	Imported Bloque1.xlsx as conditions, 4 conditions, 6 params
+237.6252 	EXP 	Created sequence: sequential, trialTypes=4, nReps=1, seed=None
+237.6256 	EXP 	New trial (rep=0, index=0): {'Tipo': 'Operation', 'Span': 4, 'Estimulo': '( 6 + 2 ) × 1 = 8', 'Respuesta': 'right', 'Letra': 'D', 'CorRec': None}
+237.6366 	EXP 	text_5: autoDraw = False
+237.6366 	EXP 	text: text = '( 6 + 2 ) × 1 = 8'
+237.9226 	EXP 	text: autoDraw = True
+241.7570 	DATA 	Keypress: left
+241.7630 	EXP 	text: autoDraw = False
+241.7630 	EXP 	text_2: text = 'D'
+241.7630 	EXP 	text_2: autoDraw = True
+242.7617 	EXP 	New trial (rep=0, index=1): {'Tipo': 'Operation', 'Span': 4, 'Estimulo': '( 4 - 3 ) × 5 = 5', 'Respuesta': 'left', 'Letra': 'V', 'CorRec': None}
+242.7777 	EXP 	text_2: autoDraw = False
+242.7777 	EXP 	text: text = '( 4 - 3 ) × 5 = 5'
+243.0615 	EXP 	text: autoDraw = True
+246.6933 	DATA 	Keypress: right
+246.7006 	EXP 	text: autoDraw = False
+246.7006 	EXP 	text_2: text = 'V'
+246.7006 	EXP 	text_2: autoDraw = True
+247.7005 	EXP 	New trial (rep=0, index=2): {'Tipo': 'Operation', 'Span': 4, 'Estimulo': '( 3 - 1 ) × 5 = 10', 'Respuesta': 'left', 'Letra': 'M', 'CorRec': None}
+247.7164 	EXP 	text_2: autoDraw = False
+247.7164 	EXP 	text: text = '( 3 - 1 ) × 5 = 10'
+248.0015 	EXP 	text: autoDraw = True
+253.8167 	DATA 	Keypress: left
+253.8496 	EXP 	text: autoDraw = False
+253.8496 	EXP 	text_2: text = 'M'
+253.8496 	EXP 	text_2: autoDraw = True
+254.8418 	EXP 	New trial (rep=0, index=3): {'Tipo': 'Operation', 'Span': 4, 'Estimulo': '( 6 - 1 ) × 1 = 6', 'Respuesta': 'left', 'Letra': 'P', 'CorRec': ['d', 'v', 'm', 'p']}
+254.8577 	EXP 	text_2: autoDraw = False
+254.8577 	EXP 	text: text = '( 6 - 1 ) × 1 = 6'
+255.1414 	EXP 	text: autoDraw = True
+260.6522 	DATA 	Keypress: left
+260.6591 	EXP 	text: autoDraw = False
+260.6591 	EXP 	text_2: text = 'P'
+260.6591 	EXP 	text_2: autoDraw = True
+261.6653 	EXP 	text_2: autoDraw = False
+261.6653 	EXP 	text_3: autoDraw = True
+263.0239 	DATA 	Keypress: v
+263.5250 	DATA 	Keypress: p
+263.7921 	DATA 	Keypress: m
+264.0589 	DATA 	Keypress: return
+264.6264 	EXP 	New trial (rep=0, index=1): {'Eligebloque': 'Bloque2.xlsx'}
+264.6318 	DATA 	Keypress: space
+264.6382 	EXP 	text_3: autoDraw = False
+264.6382 	EXP 	text_5: autoDraw = True
+266.1613 	EXP 	Imported Bloque2.xlsx as conditions, 4 conditions, 6 params
+266.1620 	EXP 	Created sequence: sequential, trialTypes=4, nReps=1, seed=None
+266.1629 	EXP 	New trial (rep=0, index=0): {'Tipo': 'Operation', 'Span': 4, 'Estimulo': '( 3 - 2 ) × 1 = 1', 'Respuesta': 'right', 'Letra': 'G', 'CorRec': None}
+266.1740 	EXP 	text_5: autoDraw = False
+266.1740 	EXP 	text_5: autoDraw = False
+266.1740 	EXP 	text: text = '( 3 - 2 ) × 1 = 1'
+266.4721 	EXP 	text: autoDraw = True
+270.0287 	DATA 	Keypress: right
+270.0359 	EXP 	text: autoDraw = False
+270.0359 	EXP 	text_2: text = 'G'
+270.0359 	EXP 	text_2: autoDraw = True
+271.0264 	EXP 	New trial (rep=0, index=1): {'Tipo': 'Operation', 'Span': 4, 'Estimulo': '( 4 + 9 ) × 2 = 26', 'Respuesta': 'right', 'Letra': 'B', 'CorRec': None}
+271.0425 	EXP 	text_2: autoDraw = False
+271.0425 	EXP 	text: text = '( 4 + 9 ) × 2 = 26'
+271.3272 	EXP 	text: autoDraw = True
+278.6560 	DATA 	Keypress: right
+278.6987 	EXP 	text: autoDraw = False
+278.6987 	EXP 	text_2: text = 'B'
+278.6987 	EXP 	text_2: autoDraw = True
+279.6878 	EXP 	New trial (rep=0, index=2): {'Tipo': 'Operation', 'Span': 4, 'Estimulo': '( 3 + 9 ) × 1 = 12', 'Respuesta': 'right', 'Letra': 'Q', 'CorRec': None}
+279.7058 	EXP 	text_2: autoDraw = False
+279.7058 	EXP 	text: text = '( 3 + 9 ) × 1 = 12'
+280.0034 	EXP 	text: autoDraw = True
+288.5037 	DATA 	Keypress: right
+288.5447 	EXP 	text: autoDraw = False
+288.5447 	EXP 	text_2: text = 'Q'
+288.5447 	EXP 	text_2: autoDraw = True
+289.5318 	EXP 	New trial (rep=0, index=3): {'Tipo': 'Operation', 'Span': 4, 'Estimulo': '( 6 + 2 ) × 2 = 16', 'Respuesta': 'right', 'Letra': 'R', 'CorRec': ['g', 'b', 'q', 'r']}
+289.5485 	EXP 	text_2: autoDraw = False
+289.5485 	EXP 	text: text = '( 6 + 2 ) × 2 = 16'
+289.8309 	EXP 	text: autoDraw = True
+294.3540 	DATA 	Keypress: left
+294.3606 	EXP 	text: autoDraw = False
+294.3606 	EXP 	text_2: text = 'R'
+294.3606 	EXP 	text_2: autoDraw = True
+295.3701 	EXP 	text_2: autoDraw = False
+295.3701 	EXP 	text_3: autoDraw = True
+296.8123 	DATA 	Keypress: k
+297.3292 	DATA 	Keypress: r
+297.4952 	DATA 	Keypress: return
+298.1012 	EXP 	New trial (rep=0, index=2): {'Eligebloque': 'Bloque3.xlsx'}
+298.1074 	DATA 	Keypress: space
+298.1140 	EXP 	text_3: autoDraw = False
+298.1140 	EXP 	text_5: autoDraw = True
+299.6506 	EXP 	Imported Bloque3.xlsx as conditions, 4 conditions, 6 params
+299.6511 	EXP 	Created sequence: sequential, trialTypes=4, nReps=1, seed=None
+299.6516 	EXP 	New trial (rep=0, index=0): {'Tipo': 'Operation', 'Span': 4, 'Estimulo': '( 4 + 8 ) × 1 = 11', 'Respuesta': 'right', 'Letra': 'S', 'CorRec': None}
+299.6649 	EXP 	text_5: autoDraw = False
+299.6649 	EXP 	text: text = '( 4 + 8 ) × 1 = 11'
+299.9604 	EXP 	text: autoDraw = True
+304.4089 	DATA 	Keypress: left
+304.4148 	EXP 	text: autoDraw = False
+304.4148 	EXP 	text_2: text = 'S'
+304.4148 	EXP 	text_2: autoDraw = True
+305.4014 	EXP 	New trial (rep=0, index=1): {'Tipo': 'Operation', 'Span': 4, 'Estimulo': '( 3 - 2 ) × 1 = 4', 'Respuesta': 'right', 'Letra': 'J', 'CorRec': None}
+305.4212 	EXP 	text_2: autoDraw = False
+305.4212 	EXP 	text_2: autoDraw = False
+305.4212 	EXP 	text: text = '( 3 - 2 ) × 1 = 4'
+305.7151 	EXP 	text: autoDraw = True
+308.3138 	DATA 	Keypress: left
+308.3197 	EXP 	text: autoDraw = False
+308.3197 	EXP 	text_2: text = 'J'
+308.3197 	EXP 	text_2: autoDraw = True
+309.3055 	EXP 	New trial (rep=0, index=2): {'Tipo': 'Operation', 'Span': 4, 'Estimulo': '( 1 + 4 ) × 2 = 10', 'Respuesta': 'right', 'Letra': 'N', 'CorRec': None}
+309.3285 	EXP 	text_2: autoDraw = False
+309.3285 	EXP 	text_2: autoDraw = False
+309.3285 	EXP 	text: text = '( 1 + 4 ) × 2 = 10'
+309.6196 	EXP 	text: autoDraw = True
+312.1804 	DATA 	Keypress: right
+312.2133 	EXP 	text: autoDraw = False
+312.2133 	EXP 	text_2: text = 'N'
+312.2133 	EXP 	text_2: autoDraw = True
+313.2070 	EXP 	New trial (rep=0, index=3): {'Tipo': 'Operation', 'Span': 4, 'Estimulo': '( 3 + 7 ) × 1 = 10', 'Respuesta': 'left', 'Letra': 'T', 'CorRec': ['s', 'j', 'n', 't']}
+313.2225 	EXP 	text_2: autoDraw = False
+313.2225 	EXP 	text: text = '( 3 + 7 ) × 1 = 10'
+313.5071 	EXP 	text: autoDraw = True
+316.6192 	DATA 	Keypress: right
+316.6274 	EXP 	text: autoDraw = False
+316.6274 	EXP 	text_2: text = 'T'
+316.6274 	EXP 	text_2: autoDraw = True
+317.6268 	EXP 	text_2: autoDraw = False
+317.6268 	EXP 	text_2: autoDraw = False
+317.6268 	EXP 	text_3: autoDraw = True
+318.7030 	DATA 	Keypress: s
+318.9367 	DATA 	Keypress: j
+319.1374 	DATA 	Keypress: n
+319.4019 	DATA 	Keypress: t
+319.7041 	DATA 	Keypress: return
+320.8475 	EXP 	Imported Bloques.xlsx as conditions, 3 conditions, 1 params
+320.8479 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+320.8483 	EXP 	New trial (rep=0, index=0): {'Eligebloque': 'Bloque1.xlsx'}
+320.8519 	DATA 	Keypress: space
+320.8585 	EXP 	text_3: autoDraw = False
+320.8585 	EXP 	text_5: autoDraw = True
+322.3682 	EXP 	Imported Bloque1.xlsx as conditions, 5 conditions, 6 params
+322.3685 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+322.3689 	EXP 	New trial (rep=0, index=0): {'Tipo': 'Operation', 'Span': 5, 'Estimulo': '( 5 - 2 ) × 3 = 9', 'Respuesta': 'right', 'Letra': 'L', 'CorRec': None}
+322.3798 	EXP 	text_5: autoDraw = False
+322.3798 	EXP 	text: text = '( 5 - 2 ) × 3 = 9'
+322.6658 	EXP 	text: autoDraw = True
+335.8435 	DATA 	Keypress: right
+335.8497 	EXP 	text: autoDraw = False
+335.8497 	EXP 	text_2: text = 'L'
+335.8497 	EXP 	text_2: autoDraw = True
+336.8361 	EXP 	New trial (rep=0, index=1): {'Tipo': 'Operation', 'Span': 5, 'Estimulo': '( 3 + 2 ) × 1 = 5', 'Respuesta': 'right', 'Letra': 'V', 'CorRec': None}
+336.8554 	EXP 	text_2: autoDraw = False
+336.8554 	EXP 	text_2: autoDraw = False
+336.8554 	EXP 	text: text = '( 3 + 2 ) × 1 = 5'
+337.1496 	EXP 	text: autoDraw = True
+338.5923 	DATA 	Keypress: left
+338.6281 	EXP 	text: autoDraw = False
+338.6281 	EXP 	text_2: text = 'V'
+338.6281 	EXP 	text_2: autoDraw = True
+339.6206 	EXP 	New trial (rep=0, index=2): {'Tipo': 'Operation', 'Span': 5, 'Estimulo': '( 3 + 9 ) × 3 = 36', 'Respuesta': 'right', 'Letra': 'X', 'CorRec': None}
+339.6400 	EXP 	text_2: autoDraw = False
+339.6400 	EXP 	text: text = '( 3 + 9 ) × 3 = 36'
+339.9363 	EXP 	text: autoDraw = True
+345.0702 	DATA 	Keypress: right
+345.0764 	EXP 	text: autoDraw = False
+345.0764 	EXP 	text_2: text = 'X'
+345.0764 	EXP 	text_2: autoDraw = True
+346.0592 	EXP 	New trial (rep=0, index=3): {'Tipo': 'Operation', 'Span': 5, 'Estimulo': '( 5 + 3 ) × 1 = 8', 'Respuesta': 'right', 'Letra': 'P', 'CorRec': None}
+346.0750 	EXP 	text_2: autoDraw = False
+346.0750 	EXP 	text: text = '( 5 + 3 ) × 1 = 8'
+346.3586 	EXP 	text: autoDraw = True
+350.2745 	DATA 	Keypress: right
+350.3065 	EXP 	text: autoDraw = False
+350.3065 	EXP 	text_2: text = 'P'
+350.3065 	EXP 	text_2: autoDraw = True
+351.3002 	EXP 	New trial (rep=0, index=4): {'Tipo': 'Operation', 'Span': 5, 'Estimulo': '( 3 + 2 ) × 2 = 11', 'Respuesta': 'left', 'Letra': 'C', 'CorRec': ['l', 'v', 'x', 'p', 'c']}
+351.3184 	EXP 	text_2: autoDraw = False
+351.3184 	EXP 	text: text = '( 3 + 2 ) × 2 = 11'
+351.6155 	EXP 	text: autoDraw = True
+356.8958 	DATA 	Keypress: left
+356.9274 	EXP 	text: autoDraw = False
+356.9274 	EXP 	text_2: text = 'C'
+356.9274 	EXP 	text_2: autoDraw = True
+357.9392 	EXP 	text_2: autoDraw = False
+357.9392 	EXP 	text_3: autoDraw = True
+359.2317 	DATA 	Keypress: s
+359.4311 	DATA 	Keypress: l
+359.6154 	DATA 	Keypress: p
+359.9154 	DATA 	Keypress: m
+360.4185 	DATA 	Keypress: c
+360.7405 	DATA 	Keypress: return
+361.1320 	EXP 	New trial (rep=0, index=1): {'Eligebloque': 'Bloque2.xlsx'}
+361.1381 	DATA 	Keypress: space
+361.1443 	EXP 	text_3: autoDraw = False
+361.1443 	EXP 	text_5: autoDraw = True
+362.6572 	EXP 	Imported Bloque2.xlsx as conditions, 5 conditions, 6 params
+362.6577 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+362.6582 	EXP 	New trial (rep=0, index=0): {'Tipo': 'Operation', 'Span': 5, 'Estimulo': '( 5 + 3 ) × 2 = 20', 'Respuesta': 'left', 'Letra': 'R', 'CorRec': None}
+362.6700 	EXP 	text_5: autoDraw = False
+362.6700 	EXP 	text_5: autoDraw = False
+362.6700 	EXP 	text: text = '( 5 + 3 ) × 2 = 20'
+362.9621 	EXP 	text: autoDraw = True
+370.2602 	DATA 	Keypress: left
+370.2925 	EXP 	text: autoDraw = False
+370.2925 	EXP 	text_2: text = 'R'
+370.2925 	EXP 	text_2: autoDraw = True
+371.2889 	EXP 	New trial (rep=0, index=1): {'Tipo': 'Operation', 'Span': 5, 'Estimulo': '( 4 - 2 ) × 4 = 8', 'Respuesta': 'right', 'Letra': 'M', 'CorRec': None}
+371.3056 	EXP 	text_2: autoDraw = False
+371.3056 	EXP 	text: text = '( 4 - 2 ) × 4 = 8'
+371.5875 	EXP 	text: autoDraw = True
+377.0121 	DATA 	Keypress: right
+377.0183 	EXP 	text: autoDraw = False
+377.0183 	EXP 	text_2: text = 'M'
+377.0183 	EXP 	text_2: autoDraw = True
+378.0130 	EXP 	New trial (rep=0, index=2): {'Tipo': 'Operation', 'Span': 5, 'Estimulo': '( 4 + 8 ) × 4 = 48', 'Respuesta': 'right', 'Letra': 'T', 'CorRec': None}
+378.0284 	EXP 	text_2: autoDraw = False
+378.0284 	EXP 	text: text = '( 4 + 8 ) × 4 = 48'
+378.3105 	EXP 	text: autoDraw = True
+381.9232 	DATA 	Keypress: right
+381.9521 	EXP 	text: autoDraw = False
+381.9521 	EXP 	text_2: text = 'T'
+381.9521 	EXP 	text_2: autoDraw = True
+382.9499 	EXP 	New trial (rep=0, index=3): {'Tipo': 'Operation', 'Span': 5, 'Estimulo': '( 5 - 5 ) × 3 = 4', 'Respuesta': 'left', 'Letra': 'Z', 'CorRec': None}
+382.9655 	EXP 	text_2: autoDraw = False
+382.9655 	EXP 	text: text = '( 5 - 5 ) × 3 = 4'
+383.2505 	EXP 	text: autoDraw = True
+386.3292 	DATA 	Keypress: left
+386.3616 	EXP 	text: autoDraw = False
+386.3616 	EXP 	text_2: text = 'Z'
+386.3616 	EXP 	text_2: autoDraw = True
+387.3566 	EXP 	New trial (rep=0, index=4): {'Tipo': 'Operation', 'Span': 5, 'Estimulo': '( 3 - 2 ) × 4 = 6', 'Respuesta': 'left', 'Letra': 'B', 'CorRec': ['r', 'm', 't', 'z', 'b']}
+387.3748 	EXP 	text_2: autoDraw = False
+387.3748 	EXP 	text: text = '( 3 - 2 ) × 4 = 6'
+387.6722 	EXP 	text: autoDraw = True
+390.6916 	DATA 	Keypress: left
+390.6977 	EXP 	text: autoDraw = False
+390.6977 	EXP 	text_2: text = 'B'
+390.6977 	EXP 	text_2: autoDraw = True
+391.7091 	EXP 	text_2: autoDraw = False
+391.7091 	EXP 	text_3: autoDraw = True
+393.8860 	DATA 	Keypress: c
+394.2027 	DATA 	Keypress: m
+395.0698 	DATA 	Keypress: z
+395.7866 	DATA 	Keypress: t
+395.9208 	DATA 	Keypress: b
+396.5719 	EXP 	New trial (rep=0, index=2): {'Eligebloque': 'Bloque3.xlsx'}
+396.5773 	DATA 	Keypress: space
+396.5835 	EXP 	text_3: autoDraw = False
+396.5835 	EXP 	text_5: autoDraw = True
+398.0990 	EXP 	Imported Bloque3.xlsx as conditions, 5 conditions, 6 params
+398.0994 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+398.0998 	EXP 	New trial (rep=0, index=0): {'Tipo': 'Operation', 'Span': 5, 'Estimulo': '( 5 + 5 ) × 2 = 21', 'Respuesta': 'left', 'Letra': 'N', 'CorRec': None}
+398.1113 	EXP 	text_5: autoDraw = False
+398.1113 	EXP 	text: text = '( 5 + 5 ) × 2 = 21'
+398.4009 	EXP 	text: autoDraw = True
+401.0608 	DATA 	Keypress: left
+401.0898 	EXP 	text: autoDraw = False
+401.0898 	EXP 	text_2: text = 'N'
+401.0898 	EXP 	text_2: autoDraw = True
+402.0876 	EXP 	New trial (rep=0, index=1): {'Tipo': 'Operation', 'Span': 5, 'Estimulo': '( 4 - 3 ) × 1 = 1', 'Respuesta': 'right', 'Letra': 'G', 'CorRec': None}
+402.1030 	EXP 	text_2: autoDraw = False
+402.1030 	EXP 	text: text = '( 4 - 3 ) × 1 = 1'
+402.3883 	EXP 	text: autoDraw = True
+404.8040 	DATA 	Keypress: right
+404.8098 	EXP 	text: autoDraw = False
+404.8098 	EXP 	text_2: text = 'G'
+404.8098 	EXP 	text_2: autoDraw = True
+405.8101 	EXP 	New trial (rep=0, index=2): {'Tipo': 'Operation', 'Span': 5, 'Estimulo': '( 3 - 2 ) × 5 = 5', 'Respuesta': 'right', 'Letra': 'V', 'CorRec': None}
+405.8279 	EXP 	text_2: autoDraw = False
+405.8279 	EXP 	text: text = '( 3 - 2 ) × 5 = 5'
+406.1259 	EXP 	text: autoDraw = True
+412.6370 	DATA 	Keypress: left
+412.6667 	EXP 	text: autoDraw = False
+412.6667 	EXP 	text_2: text = 'V'
+412.6667 	EXP 	text_2: autoDraw = True
+413.6521 	EXP 	New trial (rep=0, index=3): {'Tipo': 'Operation', 'Span': 5, 'Estimulo': '( 3 + 8 ) × 2 = 17', 'Respuesta': 'left', 'Letra': 'X', 'CorRec': None}
+413.6666 	EXP 	text_2: autoDraw = False
+413.6666 	EXP 	text_2: autoDraw = False
+413.6666 	EXP 	text: text = '( 3 + 8 ) × 2 = 17'
+413.9513 	EXP 	text: autoDraw = True
+417.8078 	DATA 	Keypress: left
+417.8144 	EXP 	text: autoDraw = False
+417.8144 	EXP 	text_2: text = 'X'
+417.8144 	EXP 	text_2: autoDraw = True
+418.8079 	EXP 	New trial (rep=0, index=4): {'Tipo': 'Operation', 'Span': 5, 'Estimulo': '( 5 - 5 ) × 1 = 0', 'Respuesta': 'right', 'Letra': 'S', 'CorRec': ['n', 'g', 'v', 'x', 's']}
+418.8259 	EXP 	text_2: autoDraw = False
+418.8259 	EXP 	text: text = '( 5 - 5 ) × 1 = 0'
+419.1235 	EXP 	text: autoDraw = True
+422.6307 	DATA 	Keypress: right
+422.6373 	EXP 	text: autoDraw = False
+422.6373 	EXP 	text_2: text = 'S'
+422.6373 	EXP 	text_2: autoDraw = True
+423.6455 	EXP 	text_2: autoDraw = False
+423.6455 	EXP 	text_3: autoDraw = True
+425.3195 	DATA 	Keypress: n
+425.6369 	DATA 	Keypress: g
+426.1210 	DATA 	Keypress: v
+426.5706 	DATA 	Keypress: x
+428.4751 	DATA 	Keypress: s
+429.0496 	EXP 	Imported Bloques.xlsx as conditions, 3 conditions, 1 params
+429.0499 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+429.0502 	EXP 	New trial (rep=0, index=0): {'Eligebloque': 'Bloque1.xlsx'}
+429.0541 	DATA 	Keypress: space
+429.0605 	EXP 	text_3: autoDraw = False
+429.0605 	EXP 	text_5: autoDraw = True
+430.5803 	EXP 	Imported Bloque1.xlsx as conditions, 6 conditions, 6 params
+430.5807 	EXP 	Created sequence: sequential, trialTypes=6, nReps=1, seed=None
+430.5813 	EXP 	New trial (rep=0, index=0): {'Tipo': 'Operation', 'Span': 6, 'Estimulo': '( 5 + 4 ) × 5 = 45', 'Respuesta': 'right', 'Letra': 'J', 'CorRec': None}
+430.5937 	EXP 	text_5: autoDraw = False
+430.5937 	EXP 	text: text = '( 5 + 4 ) × 5 = 45'
+430.8700 	EXP 	text: autoDraw = True
+434.8108 	DATA 	Keypress: right
+434.8408 	EXP 	text: autoDraw = False
+434.8408 	EXP 	text_2: text = 'J'
+434.8408 	EXP 	text_2: autoDraw = True
+435.8290 	EXP 	New trial (rep=0, index=1): {'Tipo': 'Operation', 'Span': 6, 'Estimulo': '( 3 - 3 ) × 2 = 0', 'Respuesta': 'right', 'Letra': 'P', 'CorRec': None}
+435.8488 	EXP 	text_2: autoDraw = False
+435.8488 	EXP 	text_2: autoDraw = False
+435.8488 	EXP 	text: text = '( 3 - 3 ) × 2 = 0'
+436.1409 	EXP 	text: autoDraw = True
+437.7186 	DATA 	Keypress: left
+437.7273 	EXP 	text: autoDraw = False
+437.7273 	EXP 	text_2: text = 'P'
+437.7273 	EXP 	text_2: autoDraw = True
+438.7118 	EXP 	New trial (rep=0, index=2): {'Tipo': 'Operation', 'Span': 6, 'Estimulo': '( 4 - 3 ) × 3 = 3', 'Respuesta': 'right', 'Letra': 'K', 'CorRec': None}
+438.7264 	EXP 	text_2: autoDraw = False
+438.7264 	EXP 	text_2: autoDraw = False
+438.7264 	EXP 	text: text = '( 4 - 3 ) × 3 = 3'
+439.0106 	EXP 	text: autoDraw = True
+444.7040 	DATA 	Keypress: right
+444.7099 	EXP 	text: autoDraw = False
+444.7099 	EXP 	text_2: text = 'K'
+444.7099 	EXP 	text_2: autoDraw = True
+445.7024 	EXP 	New trial (rep=0, index=3): {'Tipo': 'Operation', 'Span': 6, 'Estimulo': '( 3 + 7 ) × 5 = 50', 'Respuesta': 'right', 'Letra': 'L', 'CorRec': None}
+445.7185 	EXP 	text_2: autoDraw = False
+445.7185 	EXP 	text: text = '( 3 + 7 ) × 5 = 50'
+446.0019 	EXP 	text: autoDraw = True
+449.4091 	DATA 	Keypress: right
+449.4160 	EXP 	text: autoDraw = False
+449.4160 	EXP 	text_2: text = 'L'
+449.4160 	EXP 	text_2: autoDraw = True
+450.4096 	EXP 	New trial (rep=0, index=4): {'Tipo': 'Operation', 'Span': 6, 'Estimulo': '( 4 + 7 ) × 3 = 30', 'Respuesta': 'left', 'Letra': 'T', 'CorRec': None}
+450.4291 	EXP 	text_2: autoDraw = False
+450.4291 	EXP 	text: text = '( 4 + 7 ) × 3 = 30'
+450.7234 	EXP 	text: autoDraw = True
+457.1072 	DATA 	Keypress: left
+457.1161 	EXP 	text: autoDraw = False
+457.1161 	EXP 	text_2: text = 'T'
+457.1161 	EXP 	text_2: autoDraw = True
+458.1154 	EXP 	New trial (rep=0, index=5): {'Tipo': 'Operation', 'Span': 6, 'Estimulo': '( 5 - 4 ) × 4 = 4', 'Respuesta': 'right', 'Letra': 'D', 'CorRec': ['j', 'p', 'k', 'l', 't', 'd']}
+458.1314 	EXP 	text_2: autoDraw = False
+458.1314 	EXP 	text: text = '( 5 - 4 ) × 4 = 4'
+458.4177 	EXP 	text: autoDraw = True
+460.8253 	DATA 	Keypress: right
+460.8552 	EXP 	text: autoDraw = False
+460.8552 	EXP 	text_2: text = 'D'
+460.8552 	EXP 	text_2: autoDraw = True
+461.8700 	EXP 	text_2: autoDraw = False
+461.8700 	EXP 	text_3: autoDraw = True
+464.1336 	DATA 	Keypress: n
+464.6655 	DATA 	Keypress: d
+464.8492 	EXP 	New trial (rep=0, index=1): {'Eligebloque': 'Bloque2.xlsx'}
+464.8545 	DATA 	Keypress: space
+464.8608 	EXP 	text_3: autoDraw = False
+464.8608 	EXP 	text_5: autoDraw = True
+466.3767 	EXP 	Imported Bloque2.xlsx as conditions, 6 conditions, 6 params
+466.3771 	EXP 	Created sequence: sequential, trialTypes=6, nReps=1, seed=None
+466.3774 	EXP 	New trial (rep=0, index=0): {'Tipo': 'Operation', 'Span': 6, 'Estimulo': '( 3 + 3 ) × 3 = 15', 'Respuesta': 'left', 'Letra': 'C', 'CorRec': None}
+466.3888 	EXP 	text_5: autoDraw = False
+466.3888 	EXP 	text: text = '( 3 + 3 ) × 3 = 15'
+466.6775 	EXP 	text: autoDraw = True
+471.3712 	DATA 	Keypress: left
+471.4045 	EXP 	text: autoDraw = False
+471.4045 	EXP 	text_2: text = 'C'
+471.4045 	EXP 	text_2: autoDraw = True
+472.4002 	EXP 	New trial (rep=0, index=1): {'Tipo': 'Operation', 'Span': 6, 'Estimulo': '( 3 + 9 ) × 4 = 48', 'Respuesta': 'right', 'Letra': 'M', 'CorRec': None}
+472.4169 	EXP 	text_2: autoDraw = False
+472.4169 	EXP 	text: text = '( 3 + 9 ) × 4 = 48'
+472.7159 	EXP 	text: autoDraw = True
+485.0145 	DATA 	Keypress: right
+485.0202 	EXP 	text: autoDraw = False
+485.0202 	EXP 	text_2: text = 'M'
+485.0202 	EXP 	text_2: autoDraw = True
+486.0149 	EXP 	New trial (rep=0, index=2): {'Tipo': 'Operation', 'Span': 6, 'Estimulo': '( 3 - 3 ) × 5 = 1', 'Respuesta': 'left', 'Letra': 'B', 'CorRec': None}
+486.0445 	EXP 	text_2: autoDraw = False
+486.0445 	EXP 	text: text = '( 3 - 3 ) × 5 = 1'
+486.3153 	EXP 	text: autoDraw = True
+488.1540 	DATA 	Keypress: left
+488.1832 	EXP 	text: autoDraw = False
+488.1832 	EXP 	text_2: text = 'B'
+488.1832 	EXP 	text_2: autoDraw = True
+489.1689 	EXP 	New trial (rep=0, index=3): {'Tipo': 'Operation', 'Span': 6, 'Estimulo': '( 4 - 3 ) × 3 = 6', 'Respuesta': 'left', 'Letra': 'R', 'CorRec': None}
+489.1831 	EXP 	text_2: autoDraw = False
+489.1831 	EXP 	text_2: autoDraw = False
+489.1831 	EXP 	text: text = '( 4 - 3 ) × 3 = 6'
+489.4660 	EXP 	text: autoDraw = True
+491.8979 	DATA 	Keypress: left
+491.9044 	EXP 	text: autoDraw = False
+491.9044 	EXP 	text_2: text = 'R'
+491.9044 	EXP 	text_2: autoDraw = True
+492.8914 	EXP 	New trial (rep=0, index=4): {'Tipo': 'Operation', 'Span': 6, 'Estimulo': '( 3 + 4 ) × 2 = 14', 'Respuesta': 'right', 'Letra': 'Q', 'CorRec': None}
+492.9106 	EXP 	text_2: autoDraw = False
+492.9106 	EXP 	text_2: autoDraw = False
+492.9106 	EXP 	text: text = '( 3 + 4 ) × 2 = 14'
+493.2052 	EXP 	text: autoDraw = True
+496.7342 	DATA 	Keypress: right
+496.7428 	EXP 	text: autoDraw = False
+496.7428 	EXP 	text_2: text = 'Q'
+496.7428 	EXP 	text_2: autoDraw = True
+497.7296 	EXP 	New trial (rep=0, index=5): {'Tipo': 'Operation', 'Span': 6, 'Estimulo': '( 4 + 3 ) × 4 = 28', 'Respuesta': 'right', 'Letra': 'S', 'CorRec': ['c', 'm', 'b', 'r', 'q', 's']}
+497.7485 	EXP 	text_2: autoDraw = False
+497.7485 	EXP 	text_2: autoDraw = False
+497.7485 	EXP 	text: text = '( 4 + 3 ) × 4 = 28'
+498.0438 	EXP 	text: autoDraw = True
+505.4468 	DATA 	Keypress: right
+505.4530 	EXP 	text: autoDraw = False
+505.4530 	EXP 	text_2: text = 'S'
+505.4530 	EXP 	text_2: autoDraw = True
+506.4532 	EXP 	text_2: autoDraw = False
+506.4532 	EXP 	text_2: autoDraw = False
+506.4532 	EXP 	text_3: autoDraw = True
+507.6643 	DATA 	Keypress: c
+507.8612 	DATA 	Keypress: m
+508.1851 	DATA 	Keypress: b
+508.5481 	DATA 	Keypress: r
+510.3028 	DATA 	Keypress: q
+510.5647 	DATA 	Keypress: s
+510.8470 	DATA 	Keypress: return
+511.3480 	EXP 	New trial (rep=0, index=2): {'Eligebloque': 'Bloque3.xlsx'}
+511.3531 	DATA 	Keypress: space
+511.3593 	EXP 	text_3: autoDraw = False
+511.3593 	EXP 	text_5: autoDraw = True
+512.8856 	EXP 	Imported Bloque3.xlsx as conditions, 6 conditions, 6 params
+512.8861 	EXP 	Created sequence: sequential, trialTypes=6, nReps=1, seed=None
+512.8866 	EXP 	New trial (rep=0, index=0): {'Tipo': 'Operation', 'Span': 6, 'Estimulo': '( 5 - 4 ) × 1 = 5', 'Respuesta': 'left', 'Letra': 'F', 'CorRec': None}
+512.8986 	EXP 	text_5: autoDraw = False
+512.8986 	EXP 	text_5: autoDraw = False
+512.8986 	EXP 	text: text = '( 5 - 4 ) × 1 = 5'
+513.1931 	EXP 	text: autoDraw = True
+515.4878 	DATA 	Keypress: left
+515.5231 	EXP 	text: autoDraw = False
+515.5231 	EXP 	text_2: text = 'F'
+515.5231 	EXP 	text_2: autoDraw = True
+516.5162 	EXP 	New trial (rep=0, index=1): {'Tipo': 'Operation', 'Span': 6, 'Estimulo': '( 3 + 4 ) × 4 = 23', 'Respuesta': 'left', 'Letra': 'V', 'CorRec': None}
+516.5343 	EXP 	text_2: autoDraw = False
+516.5343 	EXP 	text: text = '( 3 + 4 ) × 4 = 23'
+516.8309 	EXP 	text: autoDraw = True
+519.4478 	DATA 	Keypress: right
+519.4537 	EXP 	text: autoDraw = False
+519.4537 	EXP 	text_2: text = 'V'
+519.4537 	EXP 	text_2: autoDraw = True
+520.4531 	EXP 	New trial (rep=0, index=2): {'Tipo': 'Operation', 'Span': 6, 'Estimulo': '( 1 + 1 ) × 3 = 4', 'Respuesta': 'left', 'Letra': 'Z', 'CorRec': None}
+520.4704 	EXP 	text_2: autoDraw = False
+520.4704 	EXP 	text: text = '( 1 + 1 ) × 3 = 4'
+520.7526 	EXP 	text: autoDraw = True
+523.0110 	DATA 	Keypress: left
+523.0409 	EXP 	text: autoDraw = False
+523.0409 	EXP 	text_2: text = 'Z'
+523.0409 	EXP 	text_2: autoDraw = True
+524.0402 	EXP 	New trial (rep=0, index=3): {'Tipo': 'Operation', 'Span': 6, 'Estimulo': '( 9 - 4 ) × 2 = 10', 'Respuesta': 'right', 'Letra': 'N', 'CorRec': None}
+524.0575 	EXP 	text_2: autoDraw = False
+524.0575 	EXP 	text: text = '( 9 - 4 ) × 2 = 10'
+524.3392 	EXP 	text: autoDraw = True
+536.9218 	DATA 	Keypress: right
+536.9281 	EXP 	text: autoDraw = False
+536.9281 	EXP 	text_2: text = 'N'
+536.9281 	EXP 	text_2: autoDraw = True
+537.9226 	EXP 	New trial (rep=0, index=4): {'Tipo': 'Operation', 'Span': 6, 'Estimulo': '( 3 + 5 ) × 1 = 3', 'Respuesta': 'left', 'Letra': 'P', 'CorRec': None}
+537.9408 	EXP 	text_2: autoDraw = False
+537.9408 	EXP 	text: text = '( 3 + 5 ) × 1 = 3'
+538.2379 	EXP 	text: autoDraw = True
+542.9235 	DATA 	Keypress: left
+542.9295 	EXP 	text: autoDraw = False
+542.9295 	EXP 	text_2: text = 'P'
+542.9295 	EXP 	text_2: autoDraw = True
+543.9289 	EXP 	New trial (rep=0, index=5): {'Tipo': 'Operation', 'Span': 6, 'Estimulo': '( 5 + 3 ) × 3 = 24', 'Respuesta': 'right', 'Letra': 'X', 'CorRec': ['f', 'v', 'z', 'n', 'p', 'x']}
+543.9456 	EXP 	text_2: autoDraw = False
+543.9456 	EXP 	text: text = '( 5 + 3 ) × 3 = 24'
+544.2444 	EXP 	text: autoDraw = True
+548.9014 	DATA 	Keypress: left
+548.9075 	EXP 	text: autoDraw = False
+548.9075 	EXP 	text_2: text = 'X'
+548.9075 	EXP 	text_2: autoDraw = True
+549.9162 	EXP 	text_2: autoDraw = False
+549.9162 	EXP 	text_3: autoDraw = True
+551.6485 	DATA 	Keypress: d
+551.8925 	DATA 	Keypress: c
+552.4431 	DATA 	Keypress: b
+553.3111 	DATA 	Keypress: x
+553.6110 	DATA 	Keypress: space
+553.6204 	EXP 	text_3: autoDraw = False
+553.7847 	EXP 	window1: mouseVisible = True

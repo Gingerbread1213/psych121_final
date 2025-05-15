@@ -1,0 +1,2732 @@
+3.7018 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+3.7026 	INFO 	Loaded monitor calibration from ['2025_04_02 00:13']
+3.9291 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fa80c39c9d0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fa80c39c8e0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fa80c3c6430>, multiSample=False, name='window1', numSamples=2, pos=[464.0, 258.5], screen=0, size=array([1600, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='norm', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.9292 	EXP 	window1: backgroundImage = ''
+3.9292 	EXP 	window1: backgroundFit = 'none'
+3.9408 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9412 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9418 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9427 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9435 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9443 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9451 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9455 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9457 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9460 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9467 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9475 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9478 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9484 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9489 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9496 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9502 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9507 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9513 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9519 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9527 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9534 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9540 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9548 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9554 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9559 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9568 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9570 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9572 	DEBUG 	Uploading Texture Font fontname to graphics card
+3.9614 	DEBUG 	Upload of Texture Font fontname complete
+3.9682 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9690 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9692 	DEBUG 	Uploading Texture Font fontname to graphics card
+3.9714 	DEBUG 	Upload of Texture Font fontname complete
+4.4358 	INFO 	keyboard.Keyboard is using ptb backend.
+4.5605 	INFO 	keyboard.Keyboard is using ptb backend.
+4.6403 	INFO 	keyboard.Keyboard is using ptb backend.
+4.7190 	INFO 	keyboard.Keyboard is using ptb backend.
+4.7977 	INFO 	keyboard.Keyboard is using ptb backend.
+4.8768 	INFO 	keyboard.Keyboard is using ptb backend.
+4.9552 	INFO 	keyboard.Keyboard is using ptb backend.
+4.9553 	EXP 	OperationSpanTask: status = STARTED
+5.0106 	EXP 	Created nback_inst = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='nback_inst', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+5.0115 	EXP 	Created nback_stim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='nback_stim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+5.0455 	EXP 	Created inst_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='inst_text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+5.0543 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_6', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='This is a practice trial.', units='norm', win=Window(...), wrapWidth=1)
+5.0553 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+5.0560 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+5.0590 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+5.0726 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+5.0734 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+5.0741 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+5.0759 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+5.0807 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+5.0814 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+5.0821 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+5.0837 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+5.0883 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+5.0890 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+5.0897 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+5.0913 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+5.0959 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+5.0966 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+5.0972 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+5.0987 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+5.1032 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+5.1039 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+5.1046 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+5.1061 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.25, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+0.0292 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.4648 	EXP 	Sound  reached end of file
+0.4648 	EXP 	Sound  started
+0.4758 	EXP 	nback_inst: autoDraw = True
+0.9620 	INFO 	Keyboard events cleared
+2.3070 	DEBUG 	Read excel file with openpyxl: letters1.xlsx
+2.3080 	EXP 	Imported letters1.xlsx as conditions, 29 conditions, 2 params
+2.3085 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'letter': 'M', 'correct': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+2.3147 	DATA 	Keypress: space
+2.3166 	EXP 	nback_inst: autoDraw = False
+2.3166 	EXP 	nback_stim: height = 0.3
+2.3166 	EXP 	nback_stim: height = 0.3
+2.3166 	EXP 	nback_stim: height = 0.3
+2.3166 	EXP 	nback_stim: text = 'M'
+3.7953 	INFO 	Keyboard events cleared
+3.7952 	EXP 	nback_stim: autoDraw = True
+4.6827 	DATA 	Keypress: d
+4.7806 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'letter': 'O', 'correct': None, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+4.7847 	EXP 	nback_stim: autoDraw = False
+4.7847 	EXP 	nback_stim: autoDraw = False
+4.7847 	EXP 	nback_stim: height = 0.3
+4.7847 	EXP 	nback_stim: height = 0.3
+4.7847 	EXP 	nback_stim: height = 0.3
+4.7847 	EXP 	nback_stim: text = 'O'
+5.0033 	DATA 	Keypress: d
+6.2953 	INFO 	Keyboard events cleared
+6.2952 	EXP 	nback_stim: autoDraw = True
+7.2826 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'letter': 'X', 'correct': None, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+7.2865 	EXP 	nback_stim: autoDraw = False
+7.2865 	EXP 	nback_stim: autoDraw = False
+7.2865 	EXP 	nback_stim: height = 0.3
+7.2865 	EXP 	nback_stim: height = 0.3
+7.2865 	EXP 	nback_stim: height = 0.3
+7.2865 	EXP 	nback_stim: text = 'X'
+8.7953 	INFO 	Keyboard events cleared
+8.7953 	EXP 	nback_stim: autoDraw = True
+9.7861 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'letter': 'P', 'correct': None, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+9.7953 	EXP 	nback_stim: autoDraw = False
+9.7953 	EXP 	nback_stim: autoDraw = False
+9.7953 	EXP 	nback_stim: height = 0.3
+9.7953 	EXP 	nback_stim: height = 0.3
+9.7953 	EXP 	nback_stim: height = 0.3
+9.7953 	EXP 	nback_stim: text = 'P'
+11.2865 	INFO 	Keyboard events cleared
+11.2865 	EXP 	nback_stim: autoDraw = True
+12.2805 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'letter': 'X', 'correct': None, 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+12.2837 	EXP 	nback_stim: autoDraw = False
+12.2837 	EXP 	nback_stim: autoDraw = False
+12.2837 	EXP 	nback_stim: height = 0.3
+12.2837 	EXP 	nback_stim: height = 0.3
+12.2837 	EXP 	nback_stim: height = 0.3
+12.2837 	EXP 	nback_stim: text = 'X'
+13.7983 	INFO 	Keyboard events cleared
+13.7981 	EXP 	nback_stim: autoDraw = True
+14.7866 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'letter': 'L', 'correct': None, 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+14.7952 	EXP 	nback_stim: autoDraw = False
+14.7952 	EXP 	nback_stim: autoDraw = False
+14.7952 	EXP 	nback_stim: height = 0.3
+14.7952 	EXP 	nback_stim: height = 0.3
+14.7952 	EXP 	nback_stim: height = 0.3
+14.7952 	EXP 	nback_stim: text = 'L'
+16.2965 	INFO 	Keyboard events cleared
+16.2965 	EXP 	nback_stim: autoDraw = True
+17.2843 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'letter': 'P', 'correct': 'space', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+17.2875 	EXP 	nback_stim: autoDraw = False
+17.2875 	EXP 	nback_stim: autoDraw = False
+17.2875 	EXP 	nback_stim: height = 0.3
+17.2875 	EXP 	nback_stim: height = 0.3
+17.2875 	EXP 	nback_stim: height = 0.3
+17.2875 	EXP 	nback_stim: text = 'P'
+18.7976 	INFO 	Keyboard events cleared
+18.7973 	EXP 	nback_stim: autoDraw = True
+19.7842 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'letter': 'A', 'correct': None, 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+19.7952 	EXP 	nback_stim: autoDraw = False
+19.7952 	EXP 	nback_stim: autoDraw = False
+19.7952 	EXP 	nback_stim: height = 0.3
+19.7952 	EXP 	nback_stim: height = 0.3
+19.7952 	EXP 	nback_stim: height = 0.3
+19.7952 	EXP 	nback_stim: text = 'A'
+21.2952 	INFO 	Keyboard events cleared
+21.2952 	EXP 	nback_stim: autoDraw = True
+22.2805 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'letter': 'R', 'correct': None, 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+22.2844 	EXP 	nback_stim: autoDraw = False
+22.2844 	EXP 	nback_stim: autoDraw = False
+22.2844 	EXP 	nback_stim: height = 0.3
+22.2844 	EXP 	nback_stim: height = 0.3
+22.2844 	EXP 	nback_stim: height = 0.3
+22.2844 	EXP 	nback_stim: text = 'R'
+23.7866 	INFO 	Keyboard events cleared
+23.7865 	EXP 	nback_stim: autoDraw = True
+24.7713 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'letter': 'K', 'correct': None, 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+24.7786 	EXP 	nback_stim: autoDraw = False
+24.7786 	EXP 	nback_stim: autoDraw = False
+24.7786 	EXP 	nback_stim: height = 0.3
+24.7786 	EXP 	nback_stim: height = 0.3
+24.7786 	EXP 	nback_stim: height = 0.3
+24.7786 	EXP 	nback_stim: text = 'K'
+26.2953 	INFO 	Keyboard events cleared
+26.2953 	EXP 	nback_stim: autoDraw = True
+27.2806 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'letter': 'A', 'correct': 'space', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+27.2839 	EXP 	nback_stim: autoDraw = False
+27.2839 	EXP 	nback_stim: autoDraw = False
+27.2839 	EXP 	nback_stim: height = 0.3
+27.2839 	EXP 	nback_stim: height = 0.3
+27.2839 	EXP 	nback_stim: height = 0.3
+27.2839 	EXP 	nback_stim: text = 'A'
+28.7953 	INFO 	Keyboard events cleared
+28.7953 	EXP 	nback_stim: autoDraw = True
+29.7843 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'letter': 'R', 'correct': 'space', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+29.7953 	EXP 	nback_stim: autoDraw = False
+29.7953 	EXP 	nback_stim: autoDraw = False
+29.7953 	EXP 	nback_stim: height = 0.3
+29.7953 	EXP 	nback_stim: height = 0.3
+29.7953 	EXP 	nback_stim: height = 0.3
+29.7953 	EXP 	nback_stim: text = 'R'
+31.2867 	INFO 	Keyboard events cleared
+31.2867 	EXP 	nback_stim: autoDraw = True
+32.2844 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'letter': 'B', 'correct': None, 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+32.2953 	EXP 	nback_stim: autoDraw = False
+32.2953 	EXP 	nback_stim: autoDraw = False
+32.2953 	EXP 	nback_stim: height = 0.3
+32.2953 	EXP 	nback_stim: height = 0.3
+32.2953 	EXP 	nback_stim: height = 0.3
+32.2953 	EXP 	nback_stim: text = 'B'
+33.7965 	INFO 	Keyboard events cleared
+33.7965 	EXP 	nback_stim: autoDraw = True
+34.7823 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'letter': 'N', 'correct': None, 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+34.7969 	EXP 	nback_stim: autoDraw = False
+34.7969 	EXP 	nback_stim: autoDraw = False
+34.7969 	EXP 	nback_stim: height = 0.3
+34.7969 	EXP 	nback_stim: height = 0.3
+34.7969 	EXP 	nback_stim: height = 0.3
+34.7969 	EXP 	nback_stim: text = 'N'
+36.2953 	INFO 	Keyboard events cleared
+36.2953 	EXP 	nback_stim: autoDraw = True
+37.2861 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'letter': 'T', 'correct': None, 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+37.2954 	EXP 	nback_stim: autoDraw = False
+37.2954 	EXP 	nback_stim: autoDraw = False
+37.2954 	EXP 	nback_stim: height = 0.3
+37.2954 	EXP 	nback_stim: height = 0.3
+37.2954 	EXP 	nback_stim: height = 0.3
+37.2954 	EXP 	nback_stim: text = 'T'
+38.7969 	INFO 	Keyboard events cleared
+38.7967 	EXP 	nback_stim: autoDraw = True
+39.7864 	EXP 	New trial (rep=0, index=15): <Trial 15 (15 in rep 0) data={'letter': 'T', 'correct': None, 'thisN': 15, 'thisTrialN': 15, 'thisRepN': 0}>
+39.7956 	EXP 	nback_stim: autoDraw = False
+39.7956 	EXP 	nback_stim: autoDraw = False
+39.7956 	EXP 	nback_stim: text = 'T'
+41.2976 	INFO 	Keyboard events cleared
+41.2974 	EXP 	nback_stim: autoDraw = True
+42.2840 	EXP 	New trial (rep=0, index=16): <Trial 16 (16 in rep 0) data={'letter': 'N', 'correct': 'space', 'thisN': 16, 'thisTrialN': 16, 'thisRepN': 0}>
+42.2953 	EXP 	nback_stim: autoDraw = False
+42.2953 	EXP 	nback_stim: autoDraw = False
+42.2953 	EXP 	nback_stim: height = 0.3
+42.2953 	EXP 	nback_stim: height = 0.3
+42.2953 	EXP 	nback_stim: height = 0.3
+42.2953 	EXP 	nback_stim: text = 'N'
+43.7953 	INFO 	Keyboard events cleared
+43.7953 	EXP 	nback_stim: autoDraw = True
+44.7855 	EXP 	New trial (rep=0, index=17): <Trial 17 (17 in rep 0) data={'letter': 'Y', 'correct': None, 'thisN': 17, 'thisTrialN': 17, 'thisRepN': 0}>
+44.7889 	EXP 	nback_stim: autoDraw = False
+44.7889 	EXP 	nback_stim: autoDraw = False
+44.7889 	EXP 	nback_stim: height = 0.3
+44.7889 	EXP 	nback_stim: height = 0.3
+44.7889 	EXP 	nback_stim: height = 0.3
+44.7889 	EXP 	nback_stim: text = 'Y'
+46.2967 	INFO 	Keyboard events cleared
+46.2965 	EXP 	nback_stim: autoDraw = True
+47.2848 	EXP 	New trial (rep=0, index=18): <Trial 18 (18 in rep 0) data={'letter': 'S', 'correct': None, 'thisN': 18, 'thisTrialN': 18, 'thisRepN': 0}>
+47.2954 	EXP 	nback_stim: autoDraw = False
+47.2954 	EXP 	nback_stim: autoDraw = False
+47.2954 	EXP 	nback_stim: height = 0.3
+47.2954 	EXP 	nback_stim: height = 0.3
+47.2954 	EXP 	nback_stim: height = 0.3
+47.2954 	EXP 	nback_stim: text = 'S'
+48.7970 	INFO 	Keyboard events cleared
+48.7968 	EXP 	nback_stim: autoDraw = True
+49.7845 	EXP 	New trial (rep=0, index=19): <Trial 19 (19 in rep 0) data={'letter': 'R', 'correct': None, 'thisN': 19, 'thisTrialN': 19, 'thisRepN': 0}>
+49.7876 	EXP 	nback_stim: autoDraw = False
+49.7876 	EXP 	nback_stim: autoDraw = False
+49.7876 	EXP 	nback_stim: height = 0.3
+49.7876 	EXP 	nback_stim: height = 0.3
+49.7876 	EXP 	nback_stim: height = 0.3
+49.7876 	EXP 	nback_stim: text = 'R'
+51.2881 	INFO 	Keyboard events cleared
+51.2880 	EXP 	nback_stim: autoDraw = True
+52.2805 	EXP 	New trial (rep=0, index=20): <Trial 20 (20 in rep 0) data={'letter': 'Y', 'correct': 'space', 'thisN': 20, 'thisTrialN': 20, 'thisRepN': 0}>
+52.2833 	EXP 	nback_stim: autoDraw = False
+52.2833 	EXP 	nback_stim: autoDraw = False
+52.2833 	EXP 	nback_stim: height = 0.3
+52.2833 	EXP 	nback_stim: height = 0.3
+52.2833 	EXP 	nback_stim: height = 0.3
+52.2833 	EXP 	nback_stim: text = 'Y'
+53.7865 	INFO 	Keyboard events cleared
+53.7864 	EXP 	nback_stim: autoDraw = True
+54.7841 	EXP 	New trial (rep=0, index=21): <Trial 21 (21 in rep 0) data={'letter': 'F', 'correct': None, 'thisN': 21, 'thisTrialN': 21, 'thisRepN': 0}>
+54.7954 	EXP 	nback_stim: autoDraw = False
+54.7954 	EXP 	nback_stim: autoDraw = False
+54.7954 	EXP 	nback_stim: height = 0.3
+54.7954 	EXP 	nback_stim: height = 0.3
+54.7954 	EXP 	nback_stim: height = 0.3
+54.7954 	EXP 	nback_stim: text = 'F'
+56.2953 	INFO 	Keyboard events cleared
+56.2953 	EXP 	nback_stim: autoDraw = True
+57.2805 	EXP 	New trial (rep=0, index=22): <Trial 22 (22 in rep 0) data={'letter': 'R', 'correct': 'space', 'thisN': 22, 'thisTrialN': 22, 'thisRepN': 0}>
+57.2837 	EXP 	nback_stim: autoDraw = False
+57.2837 	EXP 	nback_stim: autoDraw = False
+57.2837 	EXP 	nback_stim: height = 0.3
+57.2837 	EXP 	nback_stim: height = 0.3
+57.2837 	EXP 	nback_stim: height = 0.3
+57.2837 	EXP 	nback_stim: text = 'R'
+58.7953 	INFO 	Keyboard events cleared
+58.7953 	EXP 	nback_stim: autoDraw = True
+59.7826 	EXP 	New trial (rep=0, index=23): <Trial 23 (23 in rep 0) data={'letter': 'A', 'correct': None, 'thisN': 23, 'thisTrialN': 23, 'thisRepN': 0}>
+59.7858 	EXP 	nback_stim: autoDraw = False
+59.7858 	EXP 	nback_stim: autoDraw = False
+59.7858 	EXP 	nback_stim: height = 0.3
+59.7858 	EXP 	nback_stim: height = 0.3
+59.7858 	EXP 	nback_stim: height = 0.3
+59.7858 	EXP 	nback_stim: text = 'A'
+61.2953 	INFO 	Keyboard events cleared
+61.2953 	EXP 	nback_stim: autoDraw = True
+62.2844 	EXP 	New trial (rep=0, index=24): <Trial 24 (24 in rep 0) data={'letter': 'K', 'correct': None, 'thisN': 24, 'thisTrialN': 24, 'thisRepN': 0}>
+62.2953 	EXP 	nback_stim: autoDraw = False
+62.2953 	EXP 	nback_stim: autoDraw = False
+62.2953 	EXP 	nback_stim: height = 0.3
+62.2953 	EXP 	nback_stim: height = 0.3
+62.2953 	EXP 	nback_stim: height = 0.3
+62.2953 	EXP 	nback_stim: text = 'K'
+63.7968 	INFO 	Keyboard events cleared
+63.7966 	EXP 	nback_stim: autoDraw = True
+64.7847 	EXP 	New trial (rep=0, index=25): <Trial 25 (25 in rep 0) data={'letter': 'F', 'correct': None, 'thisN': 25, 'thisTrialN': 25, 'thisRepN': 0}>
+64.7882 	EXP 	nback_stim: autoDraw = False
+64.7882 	EXP 	nback_stim: autoDraw = False
+64.7882 	EXP 	nback_stim: height = 0.3
+64.7882 	EXP 	nback_stim: height = 0.3
+64.7882 	EXP 	nback_stim: height = 0.3
+64.7882 	EXP 	nback_stim: text = 'F'
+66.2953 	INFO 	Keyboard events cleared
+66.2953 	EXP 	nback_stim: autoDraw = True
+67.2844 	EXP 	New trial (rep=0, index=26): <Trial 26 (26 in rep 0) data={'letter': 'B', 'correct': None, 'thisN': 26, 'thisTrialN': 26, 'thisRepN': 0}>
+67.2879 	EXP 	nback_stim: autoDraw = False
+67.2879 	EXP 	nback_stim: autoDraw = False
+67.2879 	EXP 	nback_stim: height = 0.3
+67.2879 	EXP 	nback_stim: height = 0.3
+67.2879 	EXP 	nback_stim: height = 0.3
+67.2879 	EXP 	nback_stim: text = 'B'
+68.7875 	INFO 	Keyboard events cleared
+68.7875 	EXP 	nback_stim: autoDraw = True
+69.7853 	EXP 	New trial (rep=0, index=27): <Trial 27 (27 in rep 0) data={'letter': 'K', 'correct': 'space', 'thisN': 27, 'thisTrialN': 27, 'thisRepN': 0}>
+69.7887 	EXP 	nback_stim: autoDraw = False
+69.7887 	EXP 	nback_stim: autoDraw = False
+69.7887 	EXP 	nback_stim: height = 0.3
+69.7887 	EXP 	nback_stim: height = 0.3
+69.7887 	EXP 	nback_stim: height = 0.3
+69.7887 	EXP 	nback_stim: text = 'K'
+71.2870 	INFO 	Keyboard events cleared
+71.2870 	EXP 	nback_stim: autoDraw = True
+72.2806 	EXP 	New trial (rep=0, index=28): <Trial 28 (28 in rep 0) data={'letter': 'A', 'correct': None, 'thisN': 28, 'thisTrialN': 28, 'thisRepN': 0}>
+72.2836 	EXP 	nback_stim: autoDraw = False
+72.2836 	EXP 	nback_stim: autoDraw = False
+72.2836 	EXP 	nback_stim: height = 0.3
+72.2836 	EXP 	nback_stim: height = 0.3
+72.2836 	EXP 	nback_stim: height = 0.3
+72.2836 	EXP 	nback_stim: text = 'A'
+73.7954 	INFO 	Keyboard events cleared
+73.7953 	EXP 	nback_stim: autoDraw = True
+74.7917 	EXP 	nback_stim: autoDraw = False
+74.7917 	EXP 	nback_stim: autoDraw = False
+74.7917 	EXP 	inst_text: autoDraw = True
+75.7953 	INFO 	Keyboard events cleared
+76.6085 	DEBUG 	Read excel file with openpyxl: Block.xlsx
+76.6087 	EXP 	Imported Block.xlsx as conditions, 2 conditions, 1 params
+76.6088 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'selectblock': 'Block1.xlsx', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+76.6114 	DATA 	Keypress: space
+76.6151 	EXP 	inst_text: autoDraw = False
+76.6151 	EXP 	text_6: autoDraw = True
+78.6070 	DEBUG 	Read excel file with openpyxl: Block1.xlsx
+78.6092 	EXP 	Imported Block1.xlsx as conditions, 2 conditions, 6 params
+78.6094 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 'Example', 'Stimulus': '( 3 - 1 ) × 2 = 4', 'Response': 'right', 'Letter': 'D', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+78.6192 	EXP 	text_6: autoDraw = False
+78.6192 	EXP 	text_6: autoDraw = False
+78.6192 	EXP 	text: height = 0.1
+78.6192 	EXP 	text: height = 0.1
+78.6192 	EXP 	text: height = 0.1
+78.6192 	EXP 	text: text = '( 3 - 1 ) × 2 = 4'
+78.8994 	INFO 	Keyboard events cleared
+78.8994 	EXP 	text: autoDraw = True
+82.9962 	DATA 	Keypress: right
+82.9970 	DATA 	Keypress: up
+82.9995 	EXP 	text: autoDraw = False
+82.9995 	EXP 	text_2: height = 0.3
+82.9995 	EXP 	text_2: height = 0.3
+82.9995 	EXP 	text_2: height = 0.3
+82.9995 	EXP 	text_2: text = 'D'
+82.9995 	EXP 	text_2: autoDraw = True
+83.0824 	DATA 	Keypress: left
+83.1822 	DATA 	Keypress: right
+83.1830 	DATA 	Keypress: down
+83.3359 	DATA 	Keypress: right
+83.3489 	DATA 	Keypress: down
+83.4489 	DATA 	Keypress: left
+83.5156 	DATA 	Keypress: right
+83.6026 	DATA 	Keypress: left
+83.6821 	DATA 	Keypress: right
+83.6869 	DATA 	Keypress: down
+83.8695 	DATA 	Keypress: right
+83.9321 	DATA 	Keypress: left
+83.9805 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 'Example', 'Stimulus': '( 3 + 6 ) × 2 = 16', 'Response': 'left', 'Letter': 'T', 'corrResp': ['d', 't'], 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+83.9856 	EXP 	text_2: autoDraw = False
+83.9856 	EXP 	text: height = 0.1
+83.9856 	EXP 	text: height = 0.1
+83.9856 	EXP 	text: height = 0.1
+83.9856 	EXP 	text: text = '( 3 + 6 ) × 2 = 16'
+84.0193 	DATA 	Keypress: right
+84.1689 	DATA 	Keypress: right
+84.2490 	DATA 	Keypress: left
+84.2620 	INFO 	Keyboard events cleared
+84.2619 	EXP 	text: autoDraw = True
+84.3343 	DATA 	Keypress: right
+84.3361 	EXP 	text: autoDraw = False
+84.3361 	EXP 	text_2: height = 0.3
+84.3361 	EXP 	text_2: height = 0.3
+84.3361 	EXP 	text_2: height = 0.3
+84.3361 	EXP 	text_2: text = 'T'
+84.3361 	EXP 	text_2: autoDraw = True
+84.4155 	DATA 	Keypress: left
+84.7490 	DATA 	Keypress: down
+84.7541 	DATA 	Keypress: right
+84.8655 	DATA 	Keypress: left
+84.9344 	DATA 	Keypress: right
+84.9402 	DATA 	Keypress: down
+85.0819 	DATA 	Keypress: left
+85.1377 	DATA 	Keypress: right
+85.1528 	DATA 	Keypress: down
+85.2371 	DATA 	Keypress: left
+85.3347 	INFO 	Keyboard events cleared
+85.3346 	EXP 	text_2: autoDraw = False
+85.3346 	EXP 	text_2: autoDraw = False
+85.3346 	EXP 	text_3: autoDraw = True
+85.3494 	DATA 	Keypress: right
+85.3501 	DATA 	Keypress: down
+85.4703 	DATA 	Keypress: left
+85.5695 	DATA 	Keypress: right
+85.5860 	DATA 	Keypress: down
+85.6857 	DATA 	Keypress: left
+85.7661 	DATA 	Keypress: down
+85.7667 	DATA 	Keypress: right
+85.8287 	INFO 	Keyboard events cleared
+85.8821 	DATA 	Keypress: left
+85.9692 	DATA 	Keypress: down
+85.9699 	DATA 	Keypress: right
+86.0655 	DATA 	Keypress: left
+86.3545 	DATA 	Keypress: left
+86.4323 	DATA 	Keypress: down
+86.4377 	DATA 	Keypress: right
+86.5690 	DATA 	Keypress: left
+86.6699 	DATA 	Keypress: down
+86.6822 	DATA 	Keypress: right
+86.8193 	DATA 	Keypress: left
+86.9318 	DATA 	Keypress: right
+86.9822 	DATA 	Keypress: down
+87.0526 	DATA 	Keypress: left
+87.1486 	DATA 	Keypress: right
+87.1493 	DATA 	Keypress: down
+87.5323 	DATA 	Keypress: left
+87.6527 	DATA 	Keypress: right
+87.6858 	DATA 	Keypress: down
+89.7699 	DATA 	Keypress: n
+91.0030 	DATA 	Keypress: d
+91.1489 	DATA 	Keypress: d
+91.6025 	DATA 	Keypress: up
+91.8026 	DATA 	Keypress: left
+92.0210 	DATA 	Keypress: down
+92.4358 	DATA 	Keypress: m
+92.4523 	DATA 	Keypress: n
+92.5364 	DATA 	Keypress: comma
+92.7038 	DATA 	Keypress: n
+92.8192 	DATA 	Keypress: j
+92.9028 	DATA 	Keypress: g
+92.9828 	DATA 	Keypress: u
+93.0861 	DATA 	Keypress: t
+93.1491 	DATA 	Keypress: u
+93.2698 	DATA 	Keypress: t
+93.5499 	DATA 	Keypress: y
+93.6032 	DATA 	Keypress: h
+93.6160 	DATA 	Keypress: u
+93.6825 	DATA 	Keypress: j
+93.6888 	DATA 	Keypress: i
+93.8155 	DATA 	Keypress: k
+93.9027 	DATA 	Keypress: o
+94.0992 	DATA 	Keypress: m
+94.1660 	DATA 	Keypress: n
+94.2992 	DATA 	Keypress: b
+94.3658 	DATA 	Keypress: v
+94.4323 	DATA 	Keypress: c
+94.5159 	DATA 	Keypress: x
+94.5861 	DATA 	Keypress: s
+94.7195 	DATA 	Keypress: w
+94.9325 	DATA 	Keypress: e
+95.0159 	DATA 	Keypress: r
+95.0699 	DATA 	Keypress: t
+95.1324 	DATA 	Keypress: y
+95.2028 	DATA 	Keypress: u
+95.2655 	DATA 	Keypress: i
+95.3325 	DATA 	Keypress: o
+96.0684 	DATA 	Keypress: up
+96.2695 	DATA 	Keypress: up
+96.9323 	DATA 	Keypress: 1
+96.9992 	DATA 	Keypress: 2
+97.3002 	DATA 	Keypress: 3
+97.3159 	DATA 	Keypress: 4
+97.5031 	DATA 	Keypress: 5
+97.6028 	DATA 	Keypress: 6
+98.1039 	DATA 	Keypress: return
+98.8168 	DATA 	Keypress: m
+98.8177 	DATA 	Keypress: k
+99.0491 	DATA 	Keypress: i
+99.0501 	DATA 	Keypress: o
+99.2364 	DATA 	Keypress: o
+99.4529 	DATA 	Keypress: i
+99.4700 	DATA 	Keypress: o
+99.5699 	DATA 	Keypress: u
+99.7697 	DATA 	Keypress: y
+99.8536 	DATA 	Keypress: i
+99.8546 	DATA 	Keypress: u
+99.9209 	DATA 	Keypress: y
+99.9655 	DATA 	Keypress: t
+100.0029 	DATA 	Keypress: y
+100.0492 	DATA 	Keypress: u
+100.2532 	DATA 	Keypress: b
+100.3821 	DATA 	Keypress: v
+100.4532 	DATA 	Keypress: b
+100.4664 	DATA 	Keypress: n
+100.5866 	DATA 	Keypress: v
+100.6699 	DATA 	Keypress: n
+100.6870 	DATA 	Keypress: b
+100.8326 	DATA 	Keypress: b
+100.8385 	DATA 	Keypress: n
+101.1664 	DATA 	Keypress: n
+101.2497 	DATA 	Keypress: m
+101.3862 	DATA 	Keypress: n
+101.4198 	DATA 	Keypress: m
+101.9495 	DATA 	Keypress: g
+102.1159 	DATA 	Keypress: h
+102.1169 	DATA 	Keypress: g
+102.7382 	DATA 	Keypress: left
+102.7498 	DATA 	Keypress: up
+102.9162 	DATA 	Keypress: up
+102.9169 	DATA 	Keypress: left
+103.2705 	DATA 	Keypress: left
+103.2711 	DATA 	Keypress: down
+103.2717 	DATA 	Keypress: up
+103.4868 	DATA 	Keypress: up
+103.6360 	DATA 	Keypress: up
+103.9152 	DATA 	Keypress: roption
+104.0697 	DATA 	Keypress: down
+104.2530 	DATA 	Keypress: down
+104.3030 	DATA 	Keypress: right
+118.9531 	DATA 	Mouse: Left button down, pos=(281,252)
+119.0519 	DATA 	Mouse:  Left button up, pos=(281,252)
+119.5494 	DATA 	Keypress: left
+119.8199 	DATA 	Keypress: right
+120.0660 	DATA 	Keypress: left
+120.1365 	DATA 	Keypress: right
+120.3698 	DATA 	Keypress: right
+120.3705 	DATA 	Keypress: left
+120.5494 	DATA 	Keypress: left
+120.5697 	DATA 	Keypress: right
+120.6993 	DATA 	Keypress: left
+120.7530 	DATA 	Keypress: right
+120.9364 	DATA 	Keypress: left
+120.9371 	DATA 	Keypress: down
+120.9545 	DATA 	Keypress: right
+121.1324 	DATA 	Keypress: left
+121.1530 	DATA 	Keypress: right
+121.1658 	DATA 	Keypress: down
+121.2987 	DATA 	Keypress: left
+121.3530 	DATA 	Keypress: right
+121.3698 	DATA 	Keypress: down
+121.4695 	DATA 	Keypress: left
+121.5492 	DATA 	Keypress: right
+121.5698 	DATA 	Keypress: down
+121.6495 	DATA 	Keypress: left
+121.8530 	DATA 	Keypress: right
+121.8699 	DATA 	Keypress: down
+121.9661 	DATA 	Keypress: left
+122.0487 	DATA 	Keypress: right
+122.2030 	DATA 	Keypress: down
+122.2321 	DATA 	Keypress: left
+132.7535 	DATA 	Mouse: Left button down, pos=(467,243)
+132.8522 	DATA 	Mouse:  Left button up, pos=(467,244)
+133.3189 	EXP 	Sound  stopped
+133.3190 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'selectblock': 'Block2.xlsx', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+133.3207 	DATA 	Keypress: space
+133.3227 	EXP 	text_3: autoDraw = False
+133.3227 	EXP 	text_6: autoDraw = True
+134.3047 	DATA 	Keypress: space
+135.3245 	DEBUG 	Read excel file with openpyxl: Block2.xlsx
+135.3273 	EXP 	Imported Block2.xlsx as conditions, 2 conditions, 6 params
+135.3275 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 'Example', 'Stimulus': '( 5 - 2 ) × 2 = 3', 'Response': 'left', 'Letter': 'R', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+135.3322 	EXP 	text_6: autoDraw = False
+135.3322 	EXP 	text_6: autoDraw = False
+135.3322 	EXP 	text: height = 0.1
+135.3322 	EXP 	text: height = 0.1
+135.3322 	EXP 	text: height = 0.1
+135.3322 	EXP 	text: text = '( 5 - 2 ) × 2 = 3'
+135.4529 	DATA 	Keypress: space
+135.6159 	INFO 	Keyboard events cleared
+135.6158 	EXP 	text: autoDraw = True
+137.6342 	DATA 	Keypress: right
+137.6360 	EXP 	text: autoDraw = False
+137.6360 	EXP 	text_2: height = 0.3
+137.6360 	EXP 	text_2: height = 0.3
+137.6360 	EXP 	text_2: height = 0.3
+137.6360 	EXP 	text_2: text = 'R'
+137.6360 	EXP 	text_2: autoDraw = True
+138.3055 	DATA 	Keypress: right
+138.5535 	DATA 	Keypress: left
+138.6326 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 'Example', 'Stimulus': '( 4 + 1 ) × 1 = 5', 'Response': 'right', 'Letter': 'V', 'corrResp': ['r', 'v'], 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+138.6367 	EXP 	text_2: autoDraw = False
+138.6367 	EXP 	text: height = 0.1
+138.6367 	EXP 	text: height = 0.1
+138.6367 	EXP 	text: height = 0.1
+138.6367 	EXP 	text: text = '( 4 + 1 ) × 1 = 5'
+138.9196 	INFO 	Keyboard events cleared
+138.9196 	EXP 	text: autoDraw = True
+139.4221 	DATA 	Keypress: left
+139.4289 	EXP 	text: autoDraw = False
+139.4289 	EXP 	text_2: height = 0.3
+139.4289 	EXP 	text_2: height = 0.3
+139.4289 	EXP 	text_2: height = 0.3
+139.4289 	EXP 	text_2: text = 'V'
+139.4289 	EXP 	text_2: autoDraw = True
+140.4176 	INFO 	Keyboard events cleared
+140.4175 	EXP 	text_2: autoDraw = False
+140.4175 	EXP 	text_2: autoDraw = False
+140.4175 	EXP 	text_3: autoDraw = True
+140.9192 	INFO 	Keyboard events cleared
+140.9991 	DATA 	Keypress: right
+141.2867 	DATA 	Keypress: left
+141.5043 	DATA 	Keypress: left
+141.8987 	DATA 	Keypress: right
+142.1380 	DATA 	Keypress: left
+142.4334 	DATA 	Keypress: left
+142.8357 	DATA 	Keypress: down
+144.6705 	DATA 	Keypress: r
+144.8363 	DATA 	Keypress: v
+145.0987 	DATA 	Keypress: return
+145.4156 	DATA 	Keypress: return
+146.1781 	DEBUG 	Read excel file with openpyxl: Block.xlsx
+146.1783 	EXP 	Imported Block.xlsx as conditions, 3 conditions, 1 params
+146.1784 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'selectblock': 'Block1.xlsx', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+146.1822 	DATA 	Keypress: space
+146.1839 	EXP 	text_3: autoDraw = False
+146.1839 	EXP 	text_5: autoDraw = True
+146.7858 	DATA 	Keypress: r
+146.9528 	DATA 	Keypress: v
+147.4356 	DATA 	Keypress: return
+148.6758 	DEBUG 	Read excel file with openpyxl: Block1.xlsx
+148.6781 	EXP 	Imported Block1.xlsx as conditions, 2 conditions, 6 params
+148.6782 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 2, 'Stimulus': '( 4 - 1 ) × 1 = 6', 'Response': 'left', 'Letter': 'S', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+148.6820 	EXP 	text_5: autoDraw = False
+148.6820 	EXP 	text_5: autoDraw = False
+148.6820 	EXP 	text: height = 0.1
+148.6820 	EXP 	text: height = 0.1
+148.6820 	EXP 	text: height = 0.1
+148.6820 	EXP 	text: text = '( 4 - 1 ) × 1 = 6'
+148.9658 	INFO 	Keyboard events cleared
+148.9657 	EXP 	text: autoDraw = True
+151.0506 	DATA 	Keypress: left
+151.0524 	EXP 	text: autoDraw = False
+151.0524 	EXP 	text_2: height = 0.3
+151.0524 	EXP 	text_2: height = 0.3
+151.0524 	EXP 	text_2: height = 0.3
+151.0524 	EXP 	text_2: text = 'S'
+151.0524 	EXP 	text_2: autoDraw = True
+151.4021 	DATA 	Keypress: right
+151.6529 	DATA 	Keypress: right
+151.7863 	DATA 	Keypress: left
+152.0359 	DATA 	Keypress: left
+152.0475 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 2, 'Stimulus': '( 3 + 1 ) × 3 = 12', 'Response': 'right', 'Letter': 'B', 'corrResp': ['s', 'b'], 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+152.0514 	EXP 	text_2: autoDraw = False
+152.0514 	EXP 	text_2: autoDraw = False
+152.0514 	EXP 	text: height = 0.1
+152.0514 	EXP 	text: height = 0.1
+152.0514 	EXP 	text: height = 0.1
+152.0514 	EXP 	text: text = '( 3 + 1 ) × 3 = 12'
+152.0984 	DATA 	Keypress: right
+152.2843 	DATA 	Keypress: right
+152.3460 	INFO 	Keyboard events cleared
+152.3458 	EXP 	text: autoDraw = True
+152.5044 	DATA 	Keypress: right
+152.5121 	EXP 	text: autoDraw = False
+152.5121 	EXP 	text_2: height = 0.3
+152.5121 	EXP 	text_2: height = 0.3
+152.5121 	EXP 	text_2: height = 0.3
+152.5121 	EXP 	text_2: text = 'B'
+152.5121 	EXP 	text_2: autoDraw = True
+152.5528 	DATA 	Keypress: up
+152.6505 	DATA 	Keypress: left
+152.7348 	DATA 	Keypress: right
+152.9820 	DATA 	Keypress: right
+153.1064 	DATA 	Keypress: left
+153.2355 	DATA 	Keypress: right
+153.3212 	DATA 	Keypress: left
+153.4158 	DATA 	Keypress: right
+153.4848 	DATA 	Keypress: left
+153.5020 	INFO 	Keyboard events cleared
+153.5019 	EXP 	text_2: autoDraw = False
+153.5019 	EXP 	text_2: autoDraw = False
+153.5019 	EXP 	text_3: autoDraw = True
+153.6208 	DATA 	Keypress: right
+153.7157 	DATA 	Keypress: left
+153.9193 	DATA 	Keypress: left
+153.9957 	INFO 	Keyboard events cleared
+154.0485 	DATA 	Keypress: right
+154.5510 	DATA 	Keypress: r
+154.6388 	DATA 	Keypress: v
+154.8182 	DATA 	Keypress: return
+155.2866 	DATA 	Keypress: return
+155.4916 	DATA 	Keypress: return
+155.8850 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'selectblock': 'Block2.xlsx', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+155.8869 	DATA 	Keypress: space
+155.8890 	EXP 	text_3: autoDraw = False
+155.8890 	EXP 	text_5: autoDraw = True
+158.3891 	DEBUG 	Read excel file with openpyxl: Block2.xlsx
+158.3920 	EXP 	Imported Block2.xlsx as conditions, 2 conditions, 6 params
+158.3922 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 2, 'Stimulus': '( 4 - 2 ) × 2 = 6', 'Response': 'left', 'Letter': 'T', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+158.3989 	EXP 	text_5: autoDraw = False
+158.3989 	EXP 	text_5: autoDraw = False
+158.3989 	EXP 	text: height = 0.1
+158.3989 	EXP 	text: height = 0.1
+158.3989 	EXP 	text: height = 0.1
+158.3989 	EXP 	text: text = '( 4 - 2 ) × 2 = 6'
+158.6965 	INFO 	Keyboard events cleared
+158.6965 	EXP 	text: autoDraw = True
+159.2533 	DATA 	Keypress: r
+159.3592 	DATA 	Keypress: v
+159.4360 	DATA 	Keypress: left
+159.4378 	EXP 	text: autoDraw = False
+159.4378 	EXP 	text_2: height = 0.3
+159.4378 	EXP 	text_2: height = 0.3
+159.4378 	EXP 	text_2: height = 0.3
+159.4378 	EXP 	text_2: text = 'T'
+159.4378 	EXP 	text_2: autoDraw = True
+159.4996 	DATA 	Keypress: r
+159.5054 	DATA 	Keypress: right
+159.6360 	DATA 	Keypress: v
+159.6994 	DATA 	Keypress: right
+159.7156 	DATA 	Keypress: up
+159.8158 	DATA 	Keypress: v
+159.8168 	DATA 	Keypress: left
+159.8822 	DATA 	Keypress: right
+159.9196 	DATA 	Keypress: up
+159.9361 	DATA 	Keypress: r
+159.9827 	DATA 	Keypress: left
+160.0027 	DATA 	Keypress: v
+160.0824 	DATA 	Keypress: right
+160.1191 	DATA 	Keypress: r
+160.1826 	DATA 	Keypress: left
+160.1838 	DATA 	Keypress: v
+160.2857 	DATA 	Keypress: right
+160.3157 	DATA 	Keypress: r
+160.3166 	DATA 	Keypress: up
+160.3658 	DATA 	Keypress: left
+160.4309 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 2, 'Stimulus': '( 4 - 1 ) × 4 = 12', 'Response': 'right', 'Letter': 'N', 'corrResp': ['t', 'n'], 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+160.4343 	DATA 	Keypress: v
+160.4363 	EXP 	text_2: autoDraw = False
+160.4363 	EXP 	text_2: autoDraw = False
+160.4363 	EXP 	text: height = 0.1
+160.4363 	EXP 	text: height = 0.1
+160.4363 	EXP 	text: height = 0.1
+160.4363 	EXP 	text: text = '( 4 - 1 ) × 4 = 12'
+160.4488 	DATA 	Keypress: right
+160.5527 	DATA 	Keypress: left
+160.6029 	DATA 	Keypress: right
+160.6985 	DATA 	Keypress: left
+160.7326 	INFO 	Keyboard events cleared
+160.7326 	EXP 	text: autoDraw = True
+160.7830 	DATA 	Keypress: v
+160.8008 	DATA 	Keypress: left
+160.8028 	EXP 	text: autoDraw = False
+160.8028 	EXP 	text_2: height = 0.3
+160.8028 	EXP 	text_2: height = 0.3
+160.8028 	EXP 	text_2: height = 0.3
+160.8028 	EXP 	text_2: text = 'N'
+160.8028 	EXP 	text_2: autoDraw = True
+160.8657 	DATA 	Keypress: right
+160.9042 	DATA 	Keypress: r
+160.9659 	DATA 	Keypress: left
+160.9825 	DATA 	Keypress: v
+161.0192 	DATA 	Keypress: right
+161.0859 	DATA 	Keypress: r
+161.1156 	DATA 	Keypress: left
+161.1860 	DATA 	Keypress: v
+161.1995 	DATA 	Keypress: right
+161.2660 	DATA 	Keypress: right
+161.2821 	DATA 	Keypress: left
+161.2830 	DATA 	Keypress: r
+161.3530 	DATA 	Keypress: v
+161.5033 	DATA 	Keypress: r
+161.5694 	DATA 	Keypress: up
+161.7692 	DATA 	Keypress: left
+161.7699 	DATA 	Keypress: right
+161.8007 	INFO 	Keyboard events cleared
+161.8006 	EXP 	text_2: autoDraw = False
+161.8006 	EXP 	text_2: autoDraw = False
+161.8006 	EXP 	text_3: autoDraw = True
+161.8488 	DATA 	Keypress: v
+161.8993 	DATA 	Keypress: r
+161.9872 	DATA 	Keypress: v
+162.0324 	DATA 	Keypress: right
+162.0698 	DATA 	Keypress: r
+162.0987 	DATA 	Keypress: left
+162.1369 	DATA 	Keypress: v
+162.2321 	DATA 	Keypress: right
+162.2491 	DATA 	Keypress: r
+162.2657 	DATA 	Keypress: left
+162.2663 	DATA 	Keypress: up
+162.2954 	INFO 	Keyboard events cleared
+162.3201 	DATA 	Keypress: v
+162.3652 	DATA 	Keypress: right
+162.4653 	DATA 	Keypress: up
+162.5651 	DATA 	Keypress: left
+162.6654 	DATA 	Keypress: r
+162.6864 	DATA 	Keypress: left
+162.6992 	DATA 	Keypress: v
+162.7825 	DATA 	Keypress: right
+162.8487 	DATA 	Keypress: r
+162.8693 	DATA 	Keypress: left
+162.8992 	DATA 	Keypress: v
+163.0199 	DATA 	Keypress: r
+163.0210 	DATA 	Keypress: right
+163.0999 	DATA 	Keypress: left
+163.1052 	DATA 	Keypress: v
+163.1699 	DATA 	Keypress: right
+163.2029 	DATA 	Keypress: r
+163.2491 	DATA 	Keypress: left
+163.2824 	DATA 	Keypress: v
+163.3160 	DATA 	Keypress: right
+163.3707 	DATA 	Keypress: r
+163.4027 	DATA 	Keypress: right
+163.4035 	DATA 	Keypress: left
+163.4488 	DATA 	Keypress: v
+163.5658 	DATA 	Keypress: right
+163.5668 	DATA 	Keypress: r
+163.6360 	DATA 	Keypress: left
+163.6492 	DATA 	Keypress: v
+163.7662 	DATA 	Keypress: r
+163.7989 	DATA 	Keypress: left
+163.8659 	DATA 	Keypress: v
+163.9323 	DATA 	Keypress: right
+163.9656 	DATA 	Keypress: r
+164.0528 	DATA 	Keypress: left
+164.0659 	DATA 	Keypress: v
+164.1658 	DATA 	Keypress: r
+164.2662 	DATA 	Keypress: v
+164.3160 	DATA 	Keypress: up
+164.3660 	DATA 	Keypress: r
+164.3718 	DATA 	Keypress: right
+164.3989 	DATA 	Keypress: left
+164.4493 	DATA 	Keypress: v
+164.4503 	DATA 	Keypress: right
+165.1824 	DATA 	Keypress: right
+165.2530 	DATA 	Keypress: left
+165.3491 	DATA 	Keypress: right
+165.6545 	DATA 	Keypress: right
+165.6654 	DATA 	Keypress: left
+165.6822 	DATA 	Keypress: v
+165.7861 	DATA 	Keypress: r
+165.8323 	DATA 	Keypress: left
+165.8488 	DATA 	Keypress: v
+165.9027 	DATA 	Keypress: right
+165.9697 	DATA 	Keypress: r
+166.0028 	DATA 	Keypress: left
+166.0493 	DATA 	Keypress: v
+166.1532 	DATA 	Keypress: r
+166.2493 	DATA 	Keypress: v
+166.3494 	DATA 	Keypress: r
+166.4158 	DATA 	Keypress: v
+166.4658 	DATA 	Keypress: return
+166.5658 	DATA 	Keypress: r
+166.5826 	DATA 	Keypress: v
+166.7029 	DATA 	Keypress: r
+166.7861 	DATA 	Keypress: v
+166.9156 	DATA 	Keypress: r
+166.9361 	DATA 	Keypress: return
+166.9828 	DATA 	Keypress: v
+167.1159 	DATA 	Keypress: r
+167.1494 	DATA 	Keypress: f
+167.4657 	DATA 	Keypress: return
+167.6819 	DATA 	Keypress: return
+167.7203 	DATA 	Keypress: f
+168.0037 	DATA 	Keypress: r
+168.1495 	DATA 	Keypress: f
+168.3492 	DATA 	Keypress: return
+169.0148 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'selectblock': 'Block3.xlsx', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+169.0170 	EXP 	text_3: autoDraw = False
+169.0170 	EXP 	text_5: autoDraw = True
+169.0206 	DATA 	Keypress: space
+170.0360 	DATA 	Keypress: down
+170.0529 	DATA 	Keypress: right
+170.1003 	DATA 	Keypress: left
+170.1822 	DATA 	Keypress: f
+170.2157 	DATA 	Keypress: right
+170.2659 	DATA 	Keypress: r
+170.2824 	DATA 	Keypress: left
+170.3529 	DATA 	Keypress: f
+170.4657 	DATA 	Keypress: left
+170.4822 	DATA 	Keypress: right
+170.5040 	DATA 	Keypress: r
+170.5821 	DATA 	Keypress: f
+170.7822 	DATA 	Keypress: r
+170.8193 	DATA 	Keypress: right
+170.8324 	DATA 	Keypress: down
+170.8824 	DATA 	Keypress: left
+170.8833 	DATA 	Keypress: f
+171.0156 	DATA 	Keypress: r
+171.1028 	DATA 	Keypress: left
+171.2490 	DATA 	Keypress: right
+171.2696 	DATA 	Keypress: down
+171.2824 	DATA 	Keypress: left
+171.4526 	DATA 	Keypress: right
+171.5074 	DEBUG 	Read excel file with openpyxl: Block3.xlsx
+171.5095 	EXP 	Imported Block3.xlsx as conditions, 2 conditions, 6 params
+171.5097 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 2, 'Stimulus': '( 3 + 6 ) × 4 = 36', 'Response': 'right', 'Letter': 'P', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+171.5143 	DATA 	Keypress: left
+171.5158 	EXP 	text_5: autoDraw = False
+171.5158 	EXP 	text_5: autoDraw = False
+171.5158 	EXP 	text: height = 0.1
+171.5158 	EXP 	text: height = 0.1
+171.5158 	EXP 	text: height = 0.1
+171.5158 	EXP 	text: text = '( 3 + 6 ) × 4 = 36'
+171.6693 	DATA 	Keypress: right
+171.6700 	DATA 	Keypress: left
+171.8121 	INFO 	Keyboard events cleared
+171.8121 	EXP 	text: autoDraw = True
+171.8672 	DATA 	Keypress: right
+171.8691 	EXP 	text: autoDraw = False
+171.8691 	EXP 	text_2: height = 0.3
+171.8691 	EXP 	text_2: height = 0.3
+171.8691 	EXP 	text_2: height = 0.3
+171.8691 	EXP 	text_2: text = 'P'
+171.8691 	EXP 	text_2: autoDraw = True
+172.0153 	DATA 	Keypress: left
+172.0493 	DATA 	Keypress: right
+172.1986 	DATA 	Keypress: left
+172.2037 	DATA 	Keypress: right
+172.3159 	DATA 	Keypress: left
+172.3691 	DATA 	Keypress: right
+172.4655 	DATA 	Keypress: left
+172.4662 	DATA 	Keypress: right
+172.6024 	DATA 	Keypress: left
+172.7192 	DATA 	Keypress: right
+172.7359 	DATA 	Keypress: up
+172.8378 	DATA 	Keypress: left
+172.8640 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 2, 'Stimulus': '( 5 - 1 ) × 1 = 6', 'Response': 'left', 'Letter': 'R', 'corrResp': ['p', 'r'], 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+172.8680 	EXP 	text_2: autoDraw = False
+172.8680 	EXP 	text_2: autoDraw = False
+172.8680 	EXP 	text: height = 0.1
+172.8680 	EXP 	text: height = 0.1
+172.8680 	EXP 	text: height = 0.1
+172.8680 	EXP 	text: text = '( 5 - 1 ) × 1 = 6'
+172.9326 	DATA 	Keypress: right
+173.0168 	DATA 	Keypress: left
+173.1490 	DATA 	Keypress: left
+173.1619 	INFO 	Keyboard events cleared
+173.1619 	EXP 	text: autoDraw = True
+173.3014 	EXP 	text: autoDraw = False
+173.3014 	EXP 	text_2: height = 0.3
+173.3014 	EXP 	text_2: height = 0.3
+173.3014 	EXP 	text_2: height = 0.3
+173.3014 	EXP 	text_2: text = 'R'
+173.3014 	EXP 	text_2: autoDraw = True
+173.3047 	DATA 	Keypress: right
+173.3656 	DATA 	Keypress: left
+173.4824 	DATA 	Keypress: right
+173.6153 	DATA 	Keypress: left
+173.7323 	DATA 	Keypress: right
+173.7826 	DATA 	Keypress: left
+173.8824 	DATA 	Keypress: right
+173.9656 	DATA 	Keypress: left
+174.1193 	DATA 	Keypress: right
+174.3011 	INFO 	Keyboard events cleared
+174.3010 	EXP 	text_2: autoDraw = False
+174.3010 	EXP 	text_2: autoDraw = False
+174.3010 	EXP 	text_3: autoDraw = True
+174.5819 	DATA 	Keypress: left
+174.6491 	DATA 	Keypress: up
+174.7874 	INFO 	Keyboard events cleared
+174.8518 	DATA 	Keypress: left
+175.0694 	DATA 	Keypress: left
+175.2556 	DATA 	Keypress: left
+175.4846 	DATA 	Keypress: right
+175.6181 	DATA 	Keypress: left
+175.6712 	DATA 	Keypress: right
+175.7821 	DATA 	Keypress: left
+175.8487 	DATA 	Keypress: right
+176.1363 	DATA 	Keypress: right
+176.1690 	DATA 	Keypress: f
+176.2681 	DATA 	Keypress: e
+176.2870 	DATA 	Keypress: r
+176.3660 	DATA 	Keypress: f
+176.4864 	DATA 	Keypress: s
+176.5516 	DATA 	Keypress: d
+176.6198 	DATA 	Keypress: f
+176.6995 	DATA 	Keypress: s
+176.7159 	DATA 	Keypress: d
+176.8207 	DATA 	Keypress: f
+176.8991 	DATA 	Keypress: s
+176.9320 	DATA 	Keypress: e
+176.9687 	DEBUG 	Read excel file with openpyxl: Block.xlsx
+176.9688 	EXP 	Imported Block.xlsx as conditions, 3 conditions, 1 params
+176.9690 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'selectblock': 'Block1.xlsx', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+176.9706 	DATA 	Keypress: space
+176.9726 	EXP 	text_3: autoDraw = False
+176.9726 	EXP 	text_5: autoDraw = True
+177.1324 	DATA 	Keypress: space
+177.6154 	DATA 	Keypress: right
+177.8004 	DATA 	Keypress: right
+177.9819 	DATA 	Keypress: left
+177.9990 	DATA 	Keypress: right
+178.1532 	DATA 	Keypress: right
+178.1690 	DATA 	Keypress: left
+178.3697 	DATA 	Keypress: left
+178.6020 	DATA 	Keypress: right
+178.6192 	DATA 	Keypress: up
+178.6657 	DATA 	Keypress: left
+179.4734 	DEBUG 	Read excel file with openpyxl: Block1.xlsx
+179.4756 	EXP 	Imported Block1.xlsx as conditions, 3 conditions, 6 params
+179.4759 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 3, 'Stimulus': '( 4 + 2 ) × 2 = 8', 'Response': 'left', 'Letter': 'C', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+179.4808 	EXP 	text_5: autoDraw = False
+179.4808 	EXP 	text: height = 0.1
+179.4808 	EXP 	text: height = 0.1
+179.4808 	EXP 	text: height = 0.1
+179.4808 	EXP 	text: text = '( 4 + 2 ) × 2 = 8'
+179.7357 	DATA 	Keypress: right
+179.7621 	INFO 	Keyboard events cleared
+179.7621 	EXP 	text: autoDraw = True
+180.1686 	DATA 	Keypress: right
+180.1700 	EXP 	text: autoDraw = False
+180.1700 	EXP 	text_2: height = 0.3
+180.1700 	EXP 	text_2: height = 0.3
+180.1700 	EXP 	text_2: height = 0.3
+180.1700 	EXP 	text_2: text = 'C'
+180.1700 	EXP 	text_2: autoDraw = True
+180.2323 	DATA 	Keypress: left
+180.3988 	DATA 	Keypress: right
+180.4155 	DATA 	Keypress: up
+180.4824 	DATA 	Keypress: left
+180.5824 	DATA 	Keypress: right
+180.6357 	DATA 	Keypress: left
+180.7823 	DATA 	Keypress: up
+180.8194 	DATA 	Keypress: left
+180.9678 	DATA 	Keypress: right
+181.1029 	DATA 	Keypress: left
+181.1642 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 3, 'Stimulus': '( 3 - 1 ) × 3 = 5', 'Response': 'left', 'Letter': 'L', 'corrResp': None, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+181.1690 	EXP 	text_2: autoDraw = False
+181.1690 	EXP 	text_2: autoDraw = False
+181.1690 	EXP 	text: height = 0.1
+181.1690 	EXP 	text: height = 0.1
+181.1690 	EXP 	text: height = 0.1
+181.1690 	EXP 	text: text = '( 3 - 1 ) × 3 = 5'
+181.1724 	DATA 	Keypress: right
+181.2696 	DATA 	Keypress: left
+181.3152 	DATA 	Keypress: right
+181.4320 	DATA 	Keypress: left
+181.4532 	INFO 	Keyboard events cleared
+181.4532 	EXP 	text: autoDraw = True
+181.4674 	DATA 	Keypress: right
+181.4691 	EXP 	text: autoDraw = False
+181.4691 	EXP 	text_2: height = 0.3
+181.4691 	EXP 	text_2: height = 0.3
+181.4691 	EXP 	text_2: height = 0.3
+181.4691 	EXP 	text_2: text = 'L'
+181.4691 	EXP 	text_2: autoDraw = True
+181.5857 	DATA 	Keypress: right
+181.6848 	DATA 	Keypress: left
+181.7654 	DATA 	Keypress: right
+181.9526 	DATA 	Keypress: right
+182.1024 	DATA 	Keypress: left
+182.1823 	DATA 	Keypress: right
+182.3177 	DATA 	Keypress: left
+182.3684 	DATA 	Keypress: right
+182.4546 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'Type': 'Operation', 'Span': 3, 'Stimulus': '( 5 - 1 ) × 5 = 20', 'Response': 'right', 'Letter': 'G', 'corrResp': ['c', 'l', 'g'], 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+182.4621 	EXP 	text_2: autoDraw = False
+182.4621 	EXP 	text_2: autoDraw = False
+182.4621 	EXP 	text: height = 0.1
+182.4621 	EXP 	text: height = 0.1
+182.4621 	EXP 	text: height = 0.1
+182.4621 	EXP 	text: text = '( 5 - 1 ) × 5 = 20'
+182.4822 	DATA 	Keypress: left
+182.5151 	DATA 	Keypress: right
+182.6317 	DATA 	Keypress: left
+182.7022 	DATA 	Keypress: right
+182.7633 	INFO 	Keyboard events cleared
+182.7630 	EXP 	text: autoDraw = True
+182.8885 	DATA 	Keypress: right
+182.8955 	EXP 	text: autoDraw = False
+182.8955 	EXP 	text_2: height = 0.3
+182.8955 	EXP 	text_2: height = 0.3
+182.8955 	EXP 	text_2: height = 0.3
+182.8955 	EXP 	text_2: text = 'G'
+182.8955 	EXP 	text_2: autoDraw = True
+182.9030 	DATA 	Keypress: down
+183.0861 	DATA 	Keypress: right
+183.0994 	DATA 	Keypress: left
+183.3359 	DATA 	Keypress: right
+183.5192 	DATA 	Keypress: right
+183.5321 	DATA 	Keypress: left
+183.6526 	DATA 	Keypress: left
+183.7026 	DATA 	Keypress: right
+183.8691 	DATA 	Keypress: left
+183.8840 	INFO 	Keyboard events cleared
+183.8840 	EXP 	text_2: autoDraw = False
+183.8840 	EXP 	text_2: autoDraw = False
+183.8840 	EXP 	text_3: autoDraw = True
+184.1010 	DATA 	Keypress: left
+184.2358 	DATA 	Keypress: right
+184.3574 	DATA 	Keypress: left
+184.3823 	INFO 	Keyboard events cleared
+184.4687 	DATA 	Keypress: right
+184.5364 	DATA 	Keypress: d
+184.6021 	DATA 	Keypress: left
+184.6690 	DATA 	Keypress: right
+184.7332 	DATA 	Keypress: down
+184.7882 	DATA 	Keypress: left
+184.8320 	DATA 	Keypress: f
+184.8993 	DATA 	Keypress: right
+184.9321 	DATA 	Keypress: s
+184.9823 	DATA 	Keypress: left
+184.9832 	DATA 	Keypress: d
+185.0493 	DATA 	Keypress: f
+185.0863 	DATA 	Keypress: right
+185.1026 	DATA 	Keypress: down
+185.1705 	DATA 	Keypress: d
+185.1714 	DATA 	Keypress: s
+185.2537 	DATA 	Keypress: f
+185.3700 	DATA 	Keypress: d
+185.3710 	DATA 	Keypress: s
+185.4700 	DATA 	Keypress: f
+185.5825 	DATA 	Keypress: s
+185.5887 	DATA 	Keypress: d
+185.7361 	DATA 	Keypress: g
+185.7825 	DATA 	Keypress: e
+185.7994 	DATA 	Keypress: s
+185.8979 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'selectblock': 'Block2.xlsx', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+185.8998 	EXP 	text_3: autoDraw = False
+185.8998 	EXP 	text_5: autoDraw = True
+185.9031 	DATA 	Keypress: space
+186.4193 	DATA 	Keypress: right
+186.5366 	DATA 	Keypress: left
+186.5656 	DATA 	Keypress: right
+186.7152 	DATA 	Keypress: right
+186.8692 	DATA 	Keypress: left
+186.8985 	DATA 	Keypress: right
+187.0323 	DATA 	Keypress: left
+187.2320 	DATA 	Keypress: right
+187.3713 	DATA 	Keypress: left
+187.4195 	DATA 	Keypress: right
+187.5158 	DATA 	Keypress: left
+187.6989 	DATA 	Keypress: right
+187.7039 	DATA 	Keypress: left
+187.8865 	DATA 	Keypress: right
+187.8872 	DATA 	Keypress: left
+188.0653 	DATA 	Keypress: left
+188.2650 	DATA 	Keypress: right
+188.3893 	DEBUG 	Read excel file with openpyxl: Block2.xlsx
+188.3921 	EXP 	Imported Block2.xlsx as conditions, 3 conditions, 6 params
+188.3924 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 3, 'Stimulus': '( 4 - 2 ) × 3 = 9', 'Response': 'left', 'Letter': 'J', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+188.3982 	EXP 	text_5: autoDraw = False
+188.3982 	EXP 	text_5: autoDraw = False
+188.3982 	EXP 	text: height = 0.1
+188.3982 	EXP 	text: height = 0.1
+188.3982 	EXP 	text: height = 0.1
+188.3982 	EXP 	text: text = '( 4 - 2 ) × 3 = 9'
+188.5325 	DATA 	Keypress: right
+188.6821 	DATA 	Keypress: left
+188.6954 	INFO 	Keyboard events cleared
+188.6954 	EXP 	text: autoDraw = True
+188.7219 	DATA 	Keypress: right
+188.7288 	EXP 	text: autoDraw = False
+188.7288 	EXP 	text_2: height = 0.3
+188.7288 	EXP 	text_2: height = 0.3
+188.7288 	EXP 	text_2: height = 0.3
+188.7288 	EXP 	text_2: text = 'J'
+188.7288 	EXP 	text_2: autoDraw = True
+189.0673 	DATA 	Keypress: right
+189.1344 	DATA 	Keypress: left
+189.2748 	DATA 	Keypress: right
+189.3025 	DATA 	Keypress: left
+189.4704 	DATA 	Keypress: right
+189.5025 	DATA 	Keypress: left
+189.6693 	DATA 	Keypress: right
+189.7141 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 3, 'Stimulus': '( 3 + 8 ) × 5 = 53', 'Response': 'left', 'Letter': 'M', 'corrResp': None, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+189.7180 	EXP 	text_2: autoDraw = False
+189.7180 	EXP 	text_2: autoDraw = False
+189.7180 	EXP 	text: height = 0.1
+189.7180 	EXP 	text: height = 0.1
+189.7180 	EXP 	text: height = 0.1
+189.7180 	EXP 	text: text = '( 3 + 8 ) × 5 = 53'
+189.8549 	DATA 	Keypress: left
+189.8555 	DATA 	Keypress: right
+190.0122 	INFO 	Keyboard events cleared
+190.0121 	EXP 	text: autoDraw = True
+190.0153 	DATA 	Keypress: left
+190.0340 	DATA 	Keypress: right
+190.0357 	EXP 	text: autoDraw = False
+190.0357 	EXP 	text_2: height = 0.3
+190.0357 	EXP 	text_2: height = 0.3
+190.0357 	EXP 	text_2: height = 0.3
+190.0357 	EXP 	text_2: text = 'M'
+190.0357 	EXP 	text_2: autoDraw = True
+190.1527 	DATA 	Keypress: left
+190.2174 	DATA 	Keypress: right
+190.3493 	DATA 	Keypress: left
+190.4192 	DATA 	Keypress: right
+190.4364 	DATA 	Keypress: down
+190.5826 	DATA 	Keypress: left
+190.5833 	DATA 	Keypress: right
+190.6863 	DATA 	Keypress: left
+190.8192 	DATA 	Keypress: right
+190.9651 	DATA 	Keypress: left
+191.0307 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'Type': 'Operation', 'Span': 3, 'Stimulus': '( 4 + 7 ) × 2 = 22', 'Response': 'right', 'Letter': 'B', 'corrResp': ['j', 'm', 'b'], 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+191.0356 	EXP 	text_2: autoDraw = False
+191.0356 	EXP 	text_2: autoDraw = False
+191.0356 	EXP 	text: height = 0.1
+191.0356 	EXP 	text: height = 0.1
+191.0356 	EXP 	text: height = 0.1
+191.0356 	EXP 	text: text = '( 4 + 7 ) × 2 = 22'
+191.0390 	DATA 	Keypress: right
+191.1984 	DATA 	Keypress: left
+191.2523 	DATA 	Keypress: right
+191.3287 	INFO 	Keyboard events cleared
+191.3286 	EXP 	text: autoDraw = True
+191.3674 	DATA 	Keypress: left
+191.3691 	EXP 	text: autoDraw = False
+191.3691 	EXP 	text_2: height = 0.3
+191.3691 	EXP 	text_2: height = 0.3
+191.3691 	EXP 	text_2: height = 0.3
+191.3691 	EXP 	text_2: text = 'B'
+191.3691 	EXP 	text_2: autoDraw = True
+191.4822 	DATA 	Keypress: right
+191.6156 	DATA 	Keypress: left
+191.7503 	DATA 	Keypress: right
+191.8860 	DATA 	Keypress: left
+191.9400 	DATA 	Keypress: right
+192.0485 	DATA 	Keypress: left
+192.2202 	DATA 	Keypress: right
+192.3788 	INFO 	Keyboard events cleared
+192.3787 	EXP 	text_2: autoDraw = False
+192.3787 	EXP 	text_3: autoDraw = True
+192.4209 	DATA 	Keypress: right
+192.6354 	DATA 	Keypress: right
+192.7875 	DATA 	Keypress: left
+192.8518 	DATA 	Keypress: right
+192.8537 	INFO 	Keyboard events cleared
+193.0359 	DATA 	Keypress: right
+193.1031 	DATA 	Keypress: left
+193.2192 	DATA 	Keypress: right
+193.3681 	DATA 	Keypress: left
+193.4528 	DATA 	Keypress: right
+193.5027 	DATA 	Keypress: right
+193.6858 	DATA 	Keypress: left
+193.8864 	DATA 	Keypress: left
+193.8918 	DATA 	Keypress: right
+194.0365 	DATA 	Keypress: left
+194.1697 	DATA 	Keypress: s
+194.3040 	DATA 	Keypress: c
+194.3859 	DATA 	Keypress: s
+194.3992 	DATA 	Keypress: d
+194.4696 	DATA 	Keypress: f
+194.5696 	DATA 	Keypress: a
+194.6659 	DATA 	Keypress: f
+194.7698 	DATA 	Keypress: a
+194.7864 	DATA 	Keypress: s
+194.8035 	DATA 	Keypress: d
+194.8646 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'selectblock': 'Block3.xlsx', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+194.8662 	DATA 	Keypress: space
+194.8680 	EXP 	text_3: autoDraw = False
+194.8680 	EXP 	text_5: autoDraw = True
+195.4519 	DATA 	Keypress: left
+195.6490 	DATA 	Keypress: left
+195.6857 	DATA 	Keypress: right
+195.8502 	DATA 	Keypress: right
+195.8509 	DATA 	Keypress: left
+196.0350 	DATA 	Keypress: right
+196.0357 	DATA 	Keypress: left
+196.2322 	DATA 	Keypress: left
+196.2525 	DATA 	Keypress: right
+196.4199 	DATA 	Keypress: right
+196.4525 	DATA 	Keypress: left
+196.6039 	DATA 	Keypress: left
+196.6319 	DATA 	Keypress: right
+196.8192 	DATA 	Keypress: left
+197.0175 	DATA 	Keypress: right
+197.0183 	DATA 	Keypress: left
+197.2081 	DATA 	Keypress: left
+197.3721 	DEBUG 	Read excel file with openpyxl: Block3.xlsx
+197.3743 	EXP 	Imported Block3.xlsx as conditions, 3 conditions, 6 params
+197.3745 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 3, 'Stimulus': '( 3 + 6 ) × 5 = 43', 'Response': 'right', 'Letter': 'Z', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+197.3807 	DATA 	Keypress: left
+197.3822 	EXP 	text_5: autoDraw = False
+197.3822 	EXP 	text: height = 0.1
+197.3822 	EXP 	text: height = 0.1
+197.3822 	EXP 	text: height = 0.1
+197.3822 	EXP 	text: text = '( 3 + 6 ) × 5 = 43'
+197.5322 	DATA 	Keypress: left
+197.6621 	INFO 	Keyboard events cleared
+197.6620 	EXP 	text: autoDraw = True
+197.6855 	EXP 	text: autoDraw = False
+197.6855 	EXP 	text_2: height = 0.3
+197.6855 	EXP 	text_2: height = 0.3
+197.6855 	EXP 	text_2: height = 0.3
+197.6855 	EXP 	text_2: text = 'Z'
+197.6855 	EXP 	text_2: autoDraw = True
+197.6890 	DATA 	Keypress: left
+197.8653 	DATA 	Keypress: left
+198.0697 	DATA 	Keypress: left
+198.2382 	DATA 	Keypress: left
+198.4024 	DATA 	Keypress: left
+198.6051 	DATA 	Keypress: left
+198.6809 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 3, 'Stimulus': '( 6 - 1 ) × 3 = 19', 'Response': 'right', 'Letter': 'F', 'corrResp': None, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+198.6848 	EXP 	text_2: autoDraw = False
+198.6848 	EXP 	text_2: autoDraw = False
+198.6848 	EXP 	text: height = 0.1
+198.6848 	EXP 	text: height = 0.1
+198.6848 	EXP 	text: height = 0.1
+198.6848 	EXP 	text: text = '( 6 - 1 ) × 3 = 19'
+198.8040 	DATA 	Keypress: left
+198.9816 	INFO 	Keyboard events cleared
+198.9815 	EXP 	text: autoDraw = True
+198.9848 	DATA 	Keypress: left
+199.1887 	DATA 	Keypress: left
+199.1906 	EXP 	text: autoDraw = False
+199.1906 	EXP 	text_2: height = 0.3
+199.1906 	EXP 	text_2: height = 0.3
+199.1906 	EXP 	text_2: height = 0.3
+199.1906 	EXP 	text_2: text = 'F'
+199.1906 	EXP 	text_2: autoDraw = True
+199.3987 	DATA 	Keypress: left
+199.5990 	DATA 	Keypress: left
+199.7824 	DATA 	Keypress: left
+199.9652 	DATA 	Keypress: left
+200.1713 	DATA 	Keypress: left
+200.1808 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'Type': 'Operation', 'Span': 3, 'Stimulus': '( 4 + 2 ) × 4 = 23', 'Response': 'right', 'Letter': 'T', 'corrResp': ['z', 'f', 't'], 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+200.1850 	EXP 	text_2: autoDraw = False
+200.1850 	EXP 	text_2: autoDraw = False
+200.1850 	EXP 	text: height = 0.1
+200.1850 	EXP 	text: height = 0.1
+200.1850 	EXP 	text: height = 0.1
+200.1850 	EXP 	text: text = '( 4 + 2 ) × 4 = 23'
+200.3696 	DATA 	Keypress: left
+200.4881 	INFO 	Keyboard events cleared
+200.4880 	EXP 	text: autoDraw = True
+200.5672 	DATA 	Keypress: left
+200.5690 	EXP 	text: autoDraw = False
+200.5690 	EXP 	text_2: height = 0.3
+200.5690 	EXP 	text_2: height = 0.3
+200.5690 	EXP 	text_2: height = 0.3
+200.5690 	EXP 	text_2: text = 'T'
+200.5690 	EXP 	text_2: autoDraw = True
+200.7859 	DATA 	Keypress: left
+200.9856 	DATA 	Keypress: left
+201.2192 	DATA 	Keypress: left
+201.4319 	DATA 	Keypress: left
+201.5623 	INFO 	Keyboard events cleared
+201.5622 	EXP 	text_2: autoDraw = False
+201.5622 	EXP 	text_2: autoDraw = False
+201.5622 	EXP 	text_3: autoDraw = True
+202.0626 	INFO 	Keyboard events cleared
+202.4319 	DATA 	Keypress: left
+202.6154 	DATA 	Keypress: left
+202.8236 	DATA 	Keypress: left
+203.0329 	DATA 	Keypress: left
+203.2014 	DATA 	Keypress: f
+203.2198 	DATA 	Keypress: left
+203.3198 	DATA 	Keypress: s
+203.3329 	DATA 	Keypress: d
+203.4028 	DATA 	Keypress: f
+203.5158 	DATA 	Keypress: d
+203.5220 	DATA 	Keypress: s
+203.6324 	DATA 	Keypress: f
+203.7337 	DATA 	Keypress: a
+203.7346 	DATA 	Keypress: s
+203.8518 	DEBUG 	Read excel file with openpyxl: Block.xlsx
+203.8519 	EXP 	Imported Block.xlsx as conditions, 3 conditions, 1 params
+203.8521 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'selectblock': 'Block1.xlsx', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+203.8543 	DATA 	Keypress: space
+203.8564 	EXP 	text_3: autoDraw = False
+203.8564 	EXP 	text_5: autoDraw = True
+204.7388 	DATA 	Keypress: left
+204.9490 	DATA 	Keypress: left
+205.1490 	DATA 	Keypress: left
+205.3357 	DATA 	Keypress: left
+205.5194 	DATA 	Keypress: right
+205.7320 	DATA 	Keypress: left
+205.7653 	DATA 	Keypress: right
+205.9008 	DATA 	Keypress: left
+206.3557 	DEBUG 	Read excel file with openpyxl: Block1.xlsx
+206.3578 	EXP 	Imported Block1.xlsx as conditions, 4 conditions, 6 params
+206.3581 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 4, 'Stimulus': '( 6 + 2 ) × 1 = 8', 'Response': 'right', 'Letter': 'D', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+206.3623 	EXP 	text_5: autoDraw = False
+206.3623 	EXP 	text: height = 0.1
+206.3623 	EXP 	text: height = 0.1
+206.3623 	EXP 	text: height = 0.1
+206.3623 	EXP 	text: text = '( 6 + 2 ) × 1 = 8'
+206.6454 	INFO 	Keyboard events cleared
+206.6454 	EXP 	text: autoDraw = True
+206.7696 	DATA 	Keypress: left
+206.7715 	EXP 	text: autoDraw = False
+206.7715 	EXP 	text_2: height = 0.3
+206.7715 	EXP 	text_2: height = 0.3
+206.7715 	EXP 	text_2: height = 0.3
+206.7715 	EXP 	text_2: text = 'D'
+206.7715 	EXP 	text_2: autoDraw = True
+206.8193 	DATA 	Keypress: up
+206.9358 	DATA 	Keypress: left
+206.9689 	DATA 	Keypress: right
+207.1489 	DATA 	Keypress: left
+207.1538 	DATA 	Keypress: right
+207.3195 	DATA 	Keypress: right
+207.3203 	DATA 	Keypress: left
+207.4991 	DATA 	Keypress: left
+207.4997 	DATA 	Keypress: right
+207.6990 	DATA 	Keypress: left
+207.7040 	DATA 	Keypress: right
+207.7647 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 4, 'Stimulus': '( 4 - 3 ) × 5 = 5', 'Response': 'left', 'Letter': 'V', 'corrResp': None, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+207.7692 	EXP 	text_2: autoDraw = False
+207.7692 	EXP 	text_2: autoDraw = False
+207.7692 	EXP 	text: height = 0.1
+207.7692 	EXP 	text: height = 0.1
+207.7692 	EXP 	text: height = 0.1
+207.7692 	EXP 	text: text = '( 4 - 3 ) × 5 = 5'
+207.8854 	DATA 	Keypress: left
+208.0621 	INFO 	Keyboard events cleared
+208.0621 	EXP 	text: autoDraw = True
+208.0876 	DATA 	Keypress: right
+208.0882 	DATA 	Keypress: left
+208.0954 	EXP 	text: autoDraw = False
+208.0954 	EXP 	text_2: height = 0.3
+208.0954 	EXP 	text_2: height = 0.3
+208.0954 	EXP 	text_2: height = 0.3
+208.0954 	EXP 	text_2: text = 'V'
+208.0954 	EXP 	text_2: autoDraw = True
+208.4677 	DATA 	Keypress: right
+208.4823 	DATA 	Keypress: left
+208.6822 	DATA 	Keypress: right
+208.6829 	DATA 	Keypress: left
+208.8325 	DATA 	Keypress: left
+208.8332 	DATA 	Keypress: right
+208.9865 	DATA 	Keypress: right
+209.0031 	DATA 	Keypress: left
+209.0814 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'Type': 'Operation', 'Span': 4, 'Stimulus': '( 3 - 1 ) × 5 = 10', 'Response': 'left', 'Letter': 'M', 'corrResp': None, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+209.0857 	EXP 	text_2: autoDraw = False
+209.0857 	EXP 	text_2: autoDraw = False
+209.0857 	EXP 	text: height = 0.1
+209.0857 	EXP 	text: height = 0.1
+209.0857 	EXP 	text: height = 0.1
+209.0857 	EXP 	text: text = '( 3 - 1 ) × 5 = 10'
+209.1897 	DATA 	Keypress: right
+209.2150 	DATA 	Keypress: left
+209.3872 	INFO 	Keyboard events cleared
+209.3871 	EXP 	text: autoDraw = True
+209.3928 	DATA 	Keypress: right
+209.3952 	EXP 	text: autoDraw = False
+209.3952 	EXP 	text_2: height = 0.3
+209.3952 	EXP 	text_2: height = 0.3
+209.3952 	EXP 	text_2: height = 0.3
+209.3952 	EXP 	text_2: text = 'M'
+209.3952 	EXP 	text_2: autoDraw = True
+209.4024 	DATA 	Keypress: left
+209.6490 	DATA 	Keypress: left
+209.6498 	DATA 	Keypress: right
+209.8153 	DATA 	Keypress: right
+209.8323 	DATA 	Keypress: left
+210.0191 	DATA 	Keypress: left
+210.0323 	DATA 	Keypress: right
+210.2323 	DATA 	Keypress: right
+210.2487 	DATA 	Keypress: left
+210.3829 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'Type': 'Operation', 'Span': 4, 'Stimulus': '( 6 - 1 ) × 1 = 6', 'Response': 'left', 'Letter': 'P', 'corrResp': ['d', 'v', 'm', 'p'], 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+210.3868 	EXP 	text_2: autoDraw = False
+210.3868 	EXP 	text_2: autoDraw = False
+210.3868 	EXP 	text: height = 0.1
+210.3868 	EXP 	text: height = 0.1
+210.3868 	EXP 	text: height = 0.1
+210.3868 	EXP 	text: text = '( 6 - 1 ) × 1 = 6'
+210.4492 	DATA 	Keypress: right
+210.4498 	DATA 	Keypress: left
+210.6823 	DATA 	Keypress: right
+210.6830 	DATA 	Keypress: left
+210.6848 	INFO 	Keyboard events cleared
+210.6848 	EXP 	text: autoDraw = True
+210.8900 	DATA 	Keypress: left
+210.8906 	DATA 	Keypress: right
+210.8953 	EXP 	text: autoDraw = False
+210.8953 	EXP 	text_2: height = 0.3
+210.8953 	EXP 	text_2: height = 0.3
+210.8953 	EXP 	text_2: height = 0.3
+210.8953 	EXP 	text_2: text = 'P'
+210.8953 	EXP 	text_2: autoDraw = True
+211.1009 	DATA 	Keypress: right
+211.1199 	DATA 	Keypress: left
+211.3486 	DATA 	Keypress: right
+211.7211 	DATA 	Keypress: left
+211.7219 	DATA 	Keypress: right
+211.8844 	INFO 	Keyboard events cleared
+211.8843 	EXP 	text_2: autoDraw = False
+211.8843 	EXP 	text_2: autoDraw = False
+211.8843 	EXP 	text_3: autoDraw = True
+212.3011 	DATA 	Keypress: right
+212.3823 	INFO 	Keyboard events cleared
+212.4014 	DATA 	Keypress: right
+212.4531 	DATA 	Keypress: left
+212.6028 	DATA 	Keypress: left
+212.6157 	DATA 	Keypress: right
+212.8187 	DATA 	Keypress: left
+212.8318 	DATA 	Keypress: right
+213.0490 	DATA 	Keypress: right
+213.0652 	DATA 	Keypress: left
+213.2695 	DATA 	Keypress: right
+213.2702 	DATA 	Keypress: left
+213.4533 	DATA 	Keypress: left
+213.4590 	DATA 	Keypress: right
+213.6206 	DATA 	Keypress: left
+213.6330 	DATA 	Keypress: right
+213.8259 	DATA 	Keypress: right
+213.8320 	DATA 	Keypress: left
+214.1697 	DATA 	Keypress: j
+214.1865 	DATA 	Keypress: k
+214.3322 	DATA 	Keypress: h
+214.3332 	DATA 	Keypress: j
+214.5158 	DATA 	Keypress: i
+214.5167 	DATA 	Keypress: g
+214.6361 	DATA 	Keypress: o
+214.6659 	DATA 	Keypress: g
+214.8326 	DATA 	Keypress: g
+214.8697 	DATA 	Keypress: j
+214.9992 	DATA 	Keypress: g
+215.0981 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'selectblock': 'Block2.xlsx', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+215.1008 	EXP 	text_3: autoDraw = False
+215.1008 	EXP 	text_5: autoDraw = True
+215.1045 	DATA 	Keypress: space
+217.2657 	DATA 	Keypress: left
+217.2713 	DATA 	Keypress: right
+217.3194 	DATA 	Keypress: down
+217.5212 	DATA 	Keypress: right
+217.6020 	DEBUG 	Read excel file with openpyxl: Block2.xlsx
+217.6047 	EXP 	Imported Block2.xlsx as conditions, 4 conditions, 6 params
+217.6050 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 4, 'Stimulus': '( 3 - 2 ) × 1 = 1', 'Response': 'right', 'Letter': 'G', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+217.6091 	EXP 	text_5: autoDraw = False
+217.6091 	EXP 	text_5: autoDraw = False
+217.6091 	EXP 	text: height = 0.1
+217.6091 	EXP 	text: height = 0.1
+217.6091 	EXP 	text: height = 0.1
+217.6091 	EXP 	text: text = '( 3 - 2 ) × 1 = 1'
+217.7652 	DATA 	Keypress: right
+217.8955 	INFO 	Keyboard events cleared
+217.8954 	EXP 	text: autoDraw = True
+217.9840 	DATA 	Keypress: right
+217.9858 	EXP 	text: autoDraw = False
+217.9858 	EXP 	text_2: height = 0.3
+217.9858 	EXP 	text_2: height = 0.3
+217.9858 	EXP 	text_2: height = 0.3
+217.9858 	EXP 	text_2: text = 'G'
+217.9858 	EXP 	text_2: autoDraw = True
+218.0726 	DATA 	Keypress: left
+218.1697 	DATA 	Keypress: right
+218.2691 	DATA 	Keypress: left
+218.5360 	DATA 	Keypress: right
+218.6657 	DATA 	Keypress: left
+218.8158 	DATA 	Keypress: left
+218.9529 	DATA 	Keypress: right
+218.9657 	DATA 	Keypress: left
+218.9809 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 4, 'Stimulus': '( 4 + 9 ) × 2 = 26', 'Response': 'right', 'Letter': 'B', 'corrResp': None, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+218.9848 	EXP 	text_2: autoDraw = False
+218.9848 	EXP 	text_2: autoDraw = False
+218.9848 	EXP 	text: height = 0.1
+218.9848 	EXP 	text: height = 0.1
+218.9848 	EXP 	text: height = 0.1
+218.9848 	EXP 	text: text = '( 4 + 9 ) × 2 = 26'
+219.1022 	DATA 	Keypress: left
+219.1862 	DATA 	Keypress: right
+219.2805 	INFO 	Keyboard events cleared
+219.2800 	EXP 	text: autoDraw = True
+219.2857 	DATA 	Keypress: left
+219.3562 	DATA 	Keypress: right
+219.3618 	EXP 	text: autoDraw = False
+219.3618 	EXP 	text_2: height = 0.3
+219.3618 	EXP 	text_2: height = 0.3
+219.3618 	EXP 	text_2: height = 0.3
+219.3618 	EXP 	text_2: text = 'B'
+219.3618 	EXP 	text_2: autoDraw = True
+219.4343 	DATA 	Keypress: left
+219.5198 	DATA 	Keypress: right
+219.5859 	DATA 	Keypress: left
+219.6863 	DATA 	Keypress: right
+219.8514 	DATA 	Keypress: left
+219.9364 	DATA 	Keypress: right
+220.0076 	DATA 	Keypress: left
+220.1525 	DATA 	Keypress: left
+220.2825 	DATA 	Keypress: right
+220.2986 	DATA 	Keypress: left
+220.3475 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'Type': 'Operation', 'Span': 4, 'Stimulus': '( 3 + 9 ) × 1 = 12', 'Response': 'right', 'Letter': 'Q', 'corrResp': None, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+220.3513 	EXP 	text_2: autoDraw = False
+220.3513 	EXP 	text_2: autoDraw = False
+220.3513 	EXP 	text: height = 0.1
+220.3513 	EXP 	text: height = 0.1
+220.3513 	EXP 	text: height = 0.1
+220.3513 	EXP 	text: text = '( 3 + 9 ) × 1 = 12'
+220.4691 	DATA 	Keypress: right
+220.6320 	DATA 	Keypress: right
+220.6493 	INFO 	Keyboard events cleared
+220.6493 	EXP 	text: autoDraw = True
+220.8349 	DATA 	Keypress: left
+220.8365 	EXP 	text: autoDraw = False
+220.8365 	EXP 	text_2: height = 0.3
+220.8365 	EXP 	text_2: height = 0.3
+220.8365 	EXP 	text_2: height = 0.3
+220.8365 	EXP 	text_2: text = 'Q'
+220.8365 	EXP 	text_2: autoDraw = True
+220.8486 	DATA 	Keypress: right
+221.0318 	DATA 	Keypress: left
+221.0489 	DATA 	Keypress: right
+221.2026 	DATA 	Keypress: left
+221.3543 	DATA 	Keypress: left
+221.3661 	DATA 	Keypress: right
+221.5363 	DATA 	Keypress: right
+221.5522 	DATA 	Keypress: left
+221.7015 	DATA 	Keypress: left
+221.7023 	DATA 	Keypress: right
+221.8308 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'Type': 'Operation', 'Span': 4, 'Stimulus': '( 6 + 2 ) × 2 = 16', 'Response': 'right', 'Letter': 'R', 'corrResp': ['g', 'b', 'q', 'r'], 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+221.8347 	EXP 	text_2: autoDraw = False
+221.8347 	EXP 	text_2: autoDraw = False
+221.8347 	EXP 	text: height = 0.1
+221.8347 	EXP 	text: height = 0.1
+221.8347 	EXP 	text: height = 0.1
+221.8347 	EXP 	text: text = '( 6 + 2 ) × 2 = 16'
+221.8863 	DATA 	Keypress: left
+221.8988 	DATA 	Keypress: right
+222.0691 	DATA 	Keypress: left
+222.1003 	DATA 	Keypress: right
+222.1176 	INFO 	Keyboard events cleared
+222.1175 	EXP 	text: autoDraw = True
+222.2585 	DATA 	Keypress: left
+222.2592 	DATA 	Keypress: right
+222.2619 	EXP 	text: autoDraw = False
+222.2619 	EXP 	text_2: height = 0.3
+222.2619 	EXP 	text_2: height = 0.3
+222.2619 	EXP 	text_2: height = 0.3
+222.2619 	EXP 	text_2: text = 'R'
+222.2619 	EXP 	text_2: autoDraw = True
+222.4702 	DATA 	Keypress: right
+222.4709 	DATA 	Keypress: left
+222.6526 	DATA 	Keypress: left
+222.6692 	DATA 	Keypress: right
+222.8156 	DATA 	Keypress: left
+222.8322 	DATA 	Keypress: right
+223.0026 	DATA 	Keypress: left
+223.0034 	DATA 	Keypress: right
+223.1721 	DATA 	Keypress: left
+223.1824 	DATA 	Keypress: right
+223.2522 	INFO 	Keyboard events cleared
+223.2522 	EXP 	text_2: autoDraw = False
+223.2522 	EXP 	text_2: autoDraw = False
+223.2522 	EXP 	text_3: autoDraw = True
+223.4049 	DATA 	Keypress: right
+223.4056 	DATA 	Keypress: left
+223.5823 	DATA 	Keypress: left
+223.5990 	DATA 	Keypress: right
+223.7490 	INFO 	Keyboard events cleared
+223.8031 	DATA 	Keypress: left
+223.8038 	DATA 	Keypress: right
+224.0197 	DATA 	Keypress: right
+224.0205 	DATA 	Keypress: left
+224.2026 	DATA 	Keypress: left
+224.2158 	DATA 	Keypress: right
+224.3989 	DATA 	Keypress: left
+224.4039 	DATA 	Keypress: right
+224.5490 	DATA 	Keypress: left
+224.5655 	DATA 	Keypress: right
+225.1162 	DATA 	Keypress: h
+225.1217 	DATA 	Keypress: j
+225.1224 	DATA 	Keypress: v
+225.2656 	DATA 	Keypress: h
+225.2712 	DATA 	Keypress: j
+225.4327 	DATA 	Keypress: f
+225.4531 	DATA 	Keypress: y
+225.6492 	DATA 	Keypress: k
+225.7313 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'selectblock': 'Block3.xlsx', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+225.7328 	DATA 	Keypress: space
+225.7347 	EXP 	text_3: autoDraw = False
+225.7347 	EXP 	text_5: autoDraw = True
+226.6032 	DATA 	Keypress: left
+226.6505 	DATA 	Keypress: right
+226.8685 	DATA 	Keypress: right
+227.1174 	DATA 	Keypress: left
+227.1653 	DATA 	Keypress: right
+227.3193 	DATA 	Keypress: left
+227.5725 	DATA 	Keypress: right
+227.9006 	DATA 	Keypress: left
+228.1347 	DATA 	Keypress: left
+228.2180 	DATA 	Keypress: left
+228.2356 	DEBUG 	Read excel file with openpyxl: Block3.xlsx
+228.2377 	EXP 	Imported Block3.xlsx as conditions, 4 conditions, 6 params
+228.2381 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 4, 'Stimulus': '( 4 + 8 ) × 1 = 11', 'Response': 'right', 'Letter': 'S', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+228.2427 	EXP 	text_5: autoDraw = False
+228.2427 	EXP 	text_5: autoDraw = False
+228.2427 	EXP 	text: height = 0.1
+228.2427 	EXP 	text: height = 0.1
+228.2427 	EXP 	text: height = 0.1
+228.2427 	EXP 	text: text = '( 4 + 8 ) × 1 = 11'
+228.4690 	DATA 	Keypress: left
+228.5303 	INFO 	Keyboard events cleared
+228.5303 	EXP 	text: autoDraw = True
+228.6875 	DATA 	Keypress: left
+228.6955 	EXP 	text: autoDraw = False
+228.6955 	EXP 	text_2: height = 0.3
+228.6955 	EXP 	text_2: height = 0.3
+228.6955 	EXP 	text_2: height = 0.3
+228.6955 	EXP 	text_2: text = 'S'
+228.6955 	EXP 	text_2: autoDraw = True
+228.8487 	DATA 	Keypress: left
+229.0224 	DATA 	Keypress: left
+229.2045 	DATA 	Keypress: left
+229.4352 	DATA 	Keypress: left
+229.6687 	DATA 	Keypress: left
+229.6812 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 4, 'Stimulus': '( 3 - 2 ) × 1 = 4', 'Response': 'right', 'Letter': 'J', 'corrResp': None, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+229.6851 	EXP 	text_2: autoDraw = False
+229.6851 	EXP 	text_2: autoDraw = False
+229.6851 	EXP 	text: height = 0.1
+229.6851 	EXP 	text: height = 0.1
+229.6851 	EXP 	text: height = 0.1
+229.6851 	EXP 	text: text = '( 3 - 2 ) × 1 = 4'
+229.8578 	DATA 	Keypress: left
+229.9865 	INFO 	Keyboard events cleared
+229.9864 	EXP 	text: autoDraw = True
+230.0672 	DATA 	Keypress: left
+230.0690 	EXP 	text: autoDraw = False
+230.0690 	EXP 	text_2: height = 0.3
+230.0690 	EXP 	text_2: height = 0.3
+230.0690 	EXP 	text_2: height = 0.3
+230.0690 	EXP 	text_2: text = 'J'
+230.0690 	EXP 	text_2: autoDraw = True
+230.2735 	DATA 	Keypress: left
+230.4237 	DATA 	Keypress: left
+230.5853 	DATA 	Keypress: left
+230.8027 	DATA 	Keypress: left
+231.0193 	DATA 	Keypress: left
+231.0679 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'Type': 'Operation', 'Span': 4, 'Stimulus': '( 1 + 4 ) × 2 = 10', 'Response': 'right', 'Letter': 'N', 'corrResp': None, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+231.0789 	EXP 	text_2: autoDraw = False
+231.0789 	EXP 	text: height = 0.1
+231.0789 	EXP 	text: height = 0.1
+231.0789 	EXP 	text: height = 0.1
+231.0789 	EXP 	text: text = '( 1 + 4 ) × 2 = 10'
+231.2200 	DATA 	Keypress: left
+231.3638 	INFO 	Keyboard events cleared
+231.3636 	EXP 	text: autoDraw = True
+231.3845 	EXP 	text: autoDraw = False
+231.3845 	EXP 	text_2: height = 0.3
+231.3845 	EXP 	text_2: height = 0.3
+231.3845 	EXP 	text_2: height = 0.3
+231.3845 	EXP 	text_2: text = 'N'
+231.3845 	EXP 	text_2: autoDraw = True
+231.3880 	DATA 	Keypress: left
+231.6359 	DATA 	Keypress: left
+231.8034 	DATA 	Keypress: left
+232.0704 	DATA 	Keypress: left
+232.2876 	DATA 	Keypress: left
+232.3705 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'Type': 'Operation', 'Span': 4, 'Stimulus': '( 3 + 7 ) × 1 = 10', 'Response': 'left', 'Letter': 'T', 'corrResp': ['s', 'j', 'n', 't'], 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+232.3788 	EXP 	text_2: autoDraw = False
+232.3788 	EXP 	text_2: autoDraw = False
+232.3788 	EXP 	text: height = 0.1
+232.3788 	EXP 	text: height = 0.1
+232.3788 	EXP 	text: height = 0.1
+232.3788 	EXP 	text: text = '( 3 + 7 ) × 1 = 10'
+232.5318 	DATA 	Keypress: left
+232.6810 	INFO 	Keyboard events cleared
+232.6808 	EXP 	text: autoDraw = True
+232.7676 	DATA 	Keypress: left
+232.7693 	EXP 	text: autoDraw = False
+232.7693 	EXP 	text_2: height = 0.3
+232.7693 	EXP 	text_2: height = 0.3
+232.7693 	EXP 	text_2: height = 0.3
+232.7693 	EXP 	text_2: text = 'T'
+232.7693 	EXP 	text_2: autoDraw = True
+232.9660 	DATA 	Keypress: left
+233.2156 	DATA 	Keypress: left
+233.3695 	DATA 	Keypress: left
+233.6008 	DATA 	Keypress: left
+233.7715 	INFO 	Keyboard events cleared
+233.7715 	EXP 	text_2: autoDraw = False
+233.7715 	EXP 	text_3: autoDraw = True
+233.8500 	DATA 	Keypress: left
+234.0528 	DATA 	Keypress: left
+234.2514 	INFO 	Keyboard events cleared
+234.2853 	DATA 	Keypress: left
+234.5493 	DATA 	Keypress: left
+234.7486 	DATA 	Keypress: left
+234.9321 	DATA 	Keypress: left
+235.3360 	DATA 	Keypress: left
+235.7886 	DATA 	Keypress: g
+235.8495 	DATA 	Keypress: f
+235.8988 	DATA 	Keypress: h
+236.0159 	DATA 	Keypress: j
+236.0825 	DATA 	Keypress: k
+236.1492 	DATA 	Keypress: l
+236.3392 	DEBUG 	Read excel file with openpyxl: Block.xlsx
+236.3393 	EXP 	Imported Block.xlsx as conditions, 3 conditions, 1 params
+236.3395 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'selectblock': 'Block1.xlsx', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+236.3413 	DATA 	Keypress: space
+236.3453 	EXP 	text_3: autoDraw = False
+236.3453 	EXP 	text_5: autoDraw = True
+238.8352 	DEBUG 	Read excel file with openpyxl: Block1.xlsx
+238.8374 	EXP 	Imported Block1.xlsx as conditions, 5 conditions, 6 params
+238.8376 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 5, 'Stimulus': '( 5 - 2 ) × 3 = 9', 'Response': 'right', 'Letter': 'L', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+238.8420 	EXP 	text_5: autoDraw = False
+238.8420 	EXP 	text_5: autoDraw = False
+238.8420 	EXP 	text: height = 0.1
+238.8420 	EXP 	text: height = 0.1
+238.8420 	EXP 	text: height = 0.1
+238.8420 	EXP 	text: text = '( 5 - 2 ) × 3 = 9'
+239.1288 	INFO 	Keyboard events cleared
+239.1287 	EXP 	text: autoDraw = True
+240.5342 	DATA 	Keypress: left
+240.5360 	EXP 	text: autoDraw = False
+240.5360 	EXP 	text_2: height = 0.3
+240.5360 	EXP 	text_2: height = 0.3
+240.5360 	EXP 	text_2: height = 0.3
+240.5360 	EXP 	text_2: text = 'L'
+240.5360 	EXP 	text_2: autoDraw = True
+240.6027 	DATA 	Keypress: right
+241.4195 	DATA 	Keypress: left
+241.4654 	DATA 	Keypress: right
+241.5224 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 5, 'Stimulus': '( 3 + 2 ) × 1 = 5', 'Response': 'right', 'Letter': 'V', 'corrResp': None, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+241.5285 	EXP 	text_2: autoDraw = False
+241.5285 	EXP 	text_2: autoDraw = False
+241.5285 	EXP 	text: height = 0.1
+241.5285 	EXP 	text: height = 0.1
+241.5285 	EXP 	text: height = 0.1
+241.5285 	EXP 	text: text = '( 3 + 2 ) × 1 = 5'
+241.7207 	DATA 	Keypress: left
+241.7216 	DATA 	Keypress: right
+241.8288 	INFO 	Keyboard events cleared
+241.8288 	EXP 	text: autoDraw = True
+241.9361 	DATA 	Keypress: right
+241.9369 	DATA 	Keypress: left
+241.9387 	EXP 	text: autoDraw = False
+241.9387 	EXP 	text_2: height = 0.3
+241.9387 	EXP 	text_2: height = 0.3
+241.9387 	EXP 	text_2: height = 0.3
+241.9387 	EXP 	text_2: text = 'V'
+241.9387 	EXP 	text_2: autoDraw = True
+242.1657 	DATA 	Keypress: left
+242.1664 	DATA 	Keypress: right
+242.3657 	DATA 	Keypress: left
+242.3663 	DATA 	Keypress: right
+242.6656 	DATA 	Keypress: left
+242.8859 	DATA 	Keypress: left
+242.9344 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'Type': 'Operation', 'Span': 5, 'Stimulus': '( 3 + 9 ) × 3 = 36', 'Response': 'right', 'Letter': 'X', 'corrResp': None, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+242.9455 	EXP 	text_2: autoDraw = False
+242.9455 	EXP 	text: height = 0.1
+242.9455 	EXP 	text: height = 0.1
+242.9455 	EXP 	text: height = 0.1
+242.9455 	EXP 	text: text = '( 3 + 9 ) × 3 = 36'
+243.0700 	DATA 	Keypress: left
+243.2288 	INFO 	Keyboard events cleared
+243.2287 	EXP 	text: autoDraw = True
+243.2597 	DATA 	Keypress: left
+243.2620 	EXP 	text: autoDraw = False
+243.2620 	EXP 	text_2: height = 0.3
+243.2620 	EXP 	text_2: height = 0.3
+243.2620 	EXP 	text_2: height = 0.3
+243.2620 	EXP 	text_2: text = 'X'
+243.2620 	EXP 	text_2: autoDraw = True
+243.4987 	DATA 	Keypress: left
+243.7360 	DATA 	Keypress: left
+243.9486 	DATA 	Keypress: left
+244.2156 	DATA 	Keypress: left
+244.2480 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'Type': 'Operation', 'Span': 5, 'Stimulus': '( 5 + 3 ) × 1 = 8', 'Response': 'right', 'Letter': 'P', 'corrResp': None, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+244.2522 	EXP 	text_2: autoDraw = False
+244.2522 	EXP 	text_2: autoDraw = False
+244.2522 	EXP 	text: height = 0.1
+244.2522 	EXP 	text: height = 0.1
+244.2522 	EXP 	text: height = 0.1
+244.2522 	EXP 	text: text = '( 5 + 3 ) × 1 = 8'
+244.3912 	DATA 	Keypress: left
+244.5545 	INFO 	Keyboard events cleared
+244.5545 	EXP 	text: autoDraw = True
+244.6203 	DATA 	Keypress: left
+244.6288 	EXP 	text: autoDraw = False
+244.6288 	EXP 	text_2: height = 0.3
+244.6288 	EXP 	text_2: height = 0.3
+244.6288 	EXP 	text_2: height = 0.3
+244.6288 	EXP 	text_2: text = 'P'
+244.6288 	EXP 	text_2: autoDraw = True
+244.8213 	DATA 	Keypress: left
+245.6179 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'Type': 'Operation', 'Span': 5, 'Stimulus': '( 3 + 2 ) × 2 = 11', 'Response': 'left', 'Letter': 'C', 'corrResp': ['l', 'v', 'x', 'p', 'c'], 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+245.6223 	EXP 	text_2: autoDraw = False
+245.6223 	EXP 	text: height = 0.1
+245.6223 	EXP 	text: height = 0.1
+245.6223 	EXP 	text: height = 0.1
+245.6223 	EXP 	text: text = '( 3 + 2 ) × 2 = 11'
+245.9309 	INFO 	Keyboard events cleared
+245.9308 	EXP 	text: autoDraw = True
+250.9174 	DATA 	Keypress: left
+250.9192 	EXP 	text: autoDraw = False
+250.9192 	EXP 	text_2: height = 0.3
+250.9192 	EXP 	text_2: height = 0.3
+250.9192 	EXP 	text_2: height = 0.3
+250.9192 	EXP 	text_2: text = 'C'
+250.9192 	EXP 	text_2: autoDraw = True
+251.0525 	DATA 	Keypress: left
+251.2325 	DATA 	Keypress: left
+251.4159 	DATA 	Keypress: left
+251.5851 	DATA 	Keypress: left
+251.7711 	DATA 	Keypress: left
+251.9031 	DATA 	Keypress: left
+251.9213 	INFO 	Keyboard events cleared
+251.9213 	EXP 	text_2: autoDraw = False
+251.9213 	EXP 	text_3: autoDraw = True
+252.1660 	DATA 	Keypress: left
+252.3170 	DATA 	Keypress: left
+252.4045 	INFO 	Keyboard events cleared
+252.9530 	DATA 	Keypress: d
+253.0660 	DATA 	Keypress: f
+253.1033 	DATA 	Keypress: g
+253.1655 	DATA 	Keypress: h
+253.1863 	DATA 	Keypress: j
+253.2326 	DATA 	Keypress: k
+253.2696 	DATA 	Keypress: l
+253.4814 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'selectblock': 'Block2.xlsx', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+253.4832 	EXP 	text_3: autoDraw = False
+253.4832 	EXP 	text_5: autoDraw = True
+253.4866 	DATA 	Keypress: space
+255.9758 	DEBUG 	Read excel file with openpyxl: Block2.xlsx
+255.9787 	EXP 	Imported Block2.xlsx as conditions, 5 conditions, 6 params
+255.9790 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 5, 'Stimulus': '( 5 + 3 ) × 2 = 20', 'Response': 'left', 'Letter': 'R', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+255.9828 	EXP 	text_5: autoDraw = False
+255.9828 	EXP 	text_5: autoDraw = False
+255.9828 	EXP 	text: height = 0.1
+255.9828 	EXP 	text: height = 0.1
+255.9828 	EXP 	text: height = 0.1
+255.9828 	EXP 	text: text = '( 5 + 3 ) × 2 = 20'
+256.0490 	DATA 	Keypress: left
+256.2789 	INFO 	Keyboard events cleared
+256.2789 	EXP 	text: autoDraw = True
+256.3455 	EXP 	text: autoDraw = False
+256.3455 	EXP 	text_2: height = 0.3
+256.3455 	EXP 	text_2: height = 0.3
+256.3455 	EXP 	text_2: height = 0.3
+256.3455 	EXP 	text_2: text = 'R'
+256.3455 	EXP 	text_2: autoDraw = True
+256.3490 	DATA 	Keypress: left
+256.6022 	DATA 	Keypress: left
+256.7990 	DATA 	Keypress: left
+257.0700 	DATA 	Keypress: left
+257.2532 	DATA 	Keypress: left
+257.3352 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 5, 'Stimulus': '( 4 - 2 ) × 4 = 8', 'Response': 'right', 'Letter': 'M', 'corrResp': None, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+257.3455 	EXP 	text_2: autoDraw = False
+257.3455 	EXP 	text: height = 0.1
+257.3455 	EXP 	text: height = 0.1
+257.3455 	EXP 	text: height = 0.1
+257.3455 	EXP 	text: text = '( 4 - 2 ) × 4 = 8'
+257.5176 	DATA 	Keypress: left
+257.6475 	INFO 	Keyboard events cleared
+257.6472 	EXP 	text: autoDraw = True
+257.8719 	DATA 	Keypress: left
+257.8789 	EXP 	text: autoDraw = False
+257.8789 	EXP 	text_2: height = 0.3
+257.8789 	EXP 	text_2: height = 0.3
+257.8789 	EXP 	text_2: height = 0.3
+257.8789 	EXP 	text_2: text = 'M'
+257.8789 	EXP 	text_2: autoDraw = True
+258.3543 	DATA 	Keypress: left
+258.6320 	DATA 	Keypress: left
+258.8682 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'Type': 'Operation', 'Span': 5, 'Stimulus': '( 4 + 8 ) × 4 = 48', 'Response': 'right', 'Letter': 'T', 'corrResp': None, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+258.8721 	EXP 	text_2: autoDraw = False
+258.8721 	EXP 	text_2: autoDraw = False
+258.8721 	EXP 	text: height = 0.1
+258.8721 	EXP 	text: height = 0.1
+258.8721 	EXP 	text: height = 0.1
+258.8721 	EXP 	text: text = '( 4 + 8 ) × 4 = 48'
+258.8988 	DATA 	Keypress: left
+259.1661 	INFO 	Keyboard events cleared
+259.1661 	EXP 	text: autoDraw = True
+259.2270 	DATA 	Keypress: left
+259.2289 	EXP 	text: autoDraw = False
+259.2289 	EXP 	text_2: height = 0.3
+259.2289 	EXP 	text_2: height = 0.3
+259.2289 	EXP 	text_2: height = 0.3
+259.2289 	EXP 	text_2: text = 'T'
+259.2289 	EXP 	text_2: autoDraw = True
+259.4491 	DATA 	Keypress: left
+259.6694 	DATA 	Keypress: left
+259.9387 	DATA 	Keypress: left
+260.1528 	DATA 	Keypress: left
+260.2142 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'Type': 'Operation', 'Span': 5, 'Stimulus': '( 5 - 5 ) × 3 = 4', 'Response': 'left', 'Letter': 'Z', 'corrResp': None, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+260.2182 	EXP 	text_2: autoDraw = False
+260.2182 	EXP 	text_2: autoDraw = False
+260.2182 	EXP 	text: height = 0.1
+260.2182 	EXP 	text: height = 0.1
+260.2182 	EXP 	text: height = 0.1
+260.2182 	EXP 	text: text = '( 5 - 5 ) × 3 = 4'
+260.3819 	DATA 	Keypress: left
+260.5159 	INFO 	Keyboard events cleared
+260.5158 	EXP 	text: autoDraw = True
+260.6382 	DATA 	Keypress: left
+260.6456 	EXP 	text: autoDraw = False
+260.6456 	EXP 	text_2: height = 0.3
+260.6456 	EXP 	text_2: height = 0.3
+260.6456 	EXP 	text_2: height = 0.3
+260.6456 	EXP 	text_2: text = 'Z'
+260.6456 	EXP 	text_2: autoDraw = True
+260.8842 	DATA 	Keypress: left
+261.1344 	DATA 	Keypress: left
+261.3658 	DATA 	Keypress: left
+261.5987 	DATA 	Keypress: left
+261.6309 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'Type': 'Operation', 'Span': 5, 'Stimulus': '( 3 - 2 ) × 4 = 6', 'Response': 'left', 'Letter': 'B', 'corrResp': ['r', 'm', 't', 'z', 'b'], 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+261.6347 	EXP 	text_2: autoDraw = False
+261.6347 	EXP 	text_2: autoDraw = False
+261.6347 	EXP 	text: height = 0.1
+261.6347 	EXP 	text: height = 0.1
+261.6347 	EXP 	text: height = 0.1
+261.6347 	EXP 	text: text = '( 3 - 2 ) × 4 = 6'
+261.8190 	DATA 	Keypress: left
+261.9288 	INFO 	Keyboard events cleared
+261.9287 	EXP 	text: autoDraw = True
+262.0204 	DATA 	Keypress: left
+262.0222 	EXP 	text: autoDraw = False
+262.0222 	EXP 	text_2: height = 0.3
+262.0222 	EXP 	text_2: height = 0.3
+262.0222 	EXP 	text_2: height = 0.3
+262.0222 	EXP 	text_2: text = 'B'
+262.0222 	EXP 	text_2: autoDraw = True
+262.2324 	DATA 	Keypress: left
+262.4323 	DATA 	Keypress: left
+262.6657 	DATA 	Keypress: left
+262.8660 	DATA 	Keypress: left
+263.0189 	INFO 	Keyboard events cleared
+263.0188 	EXP 	text_2: autoDraw = False
+263.0188 	EXP 	text_2: autoDraw = False
+263.0188 	EXP 	text_3: autoDraw = True
+263.1184 	DATA 	Keypress: left
+263.3525 	DATA 	Keypress: left
+263.5121 	INFO 	Keyboard events cleared
+263.5702 	DATA 	Keypress: left
+263.7659 	DATA 	Keypress: left
+263.9681 	DATA 	Keypress: left
+264.1372 	DATA 	Keypress: left
+264.3531 	DATA 	Keypress: left
+264.5529 	DATA 	Keypress: left
+265.1365 	DATA 	Keypress: d
+265.1660 	DATA 	Keypress: f
+265.2035 	DATA 	Keypress: g
+265.2491 	DATA 	Keypress: h
+265.2829 	DATA 	Keypress: j
+265.3199 	DATA 	Keypress: k
+265.3661 	DATA 	Keypress: l
+265.6016 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'selectblock': 'Block3.xlsx', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+265.6031 	DATA 	Keypress: space
+265.6122 	EXP 	text_3: autoDraw = False
+265.6122 	EXP 	text_5: autoDraw = True
+266.0530 	DATA 	Keypress: left
+266.7513 	DATA 	Keypress: left
+267.7697 	DATA 	Keypress: left
+268.1057 	DEBUG 	Read excel file with openpyxl: Block3.xlsx
+268.1079 	EXP 	Imported Block3.xlsx as conditions, 5 conditions, 6 params
+268.1083 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 5, 'Stimulus': '( 5 + 5 ) × 2 = 21', 'Response': 'left', 'Letter': 'N', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+268.1125 	EXP 	text_5: autoDraw = False
+268.1125 	EXP 	text_5: autoDraw = False
+268.1125 	EXP 	text: height = 0.1
+268.1125 	EXP 	text: height = 0.1
+268.1125 	EXP 	text: height = 0.1
+268.1125 	EXP 	text: text = '( 5 + 5 ) × 2 = 21'
+268.3193 	DATA 	Keypress: left
+268.3993 	INFO 	Keyboard events cleared
+268.3993 	EXP 	text: autoDraw = True
+268.5716 	DATA 	Keypress: left
+268.5737 	EXP 	text: autoDraw = False
+268.5737 	EXP 	text_2: height = 0.3
+268.5737 	EXP 	text_2: height = 0.3
+268.5737 	EXP 	text_2: height = 0.3
+268.5737 	EXP 	text_2: text = 'N'
+268.5737 	EXP 	text_2: autoDraw = True
+268.7858 	DATA 	Keypress: left
+269.0208 	DATA 	Keypress: left
+269.2173 	DATA 	Keypress: left
+269.4028 	DATA 	Keypress: left
+269.5641 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 5, 'Stimulus': '( 4 - 3 ) × 1 = 1', 'Response': 'right', 'Letter': 'G', 'corrResp': None, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+269.5682 	EXP 	text_2: autoDraw = False
+269.5682 	EXP 	text_2: autoDraw = False
+269.5682 	EXP 	text: height = 0.1
+269.5682 	EXP 	text: height = 0.1
+269.5682 	EXP 	text: height = 0.1
+269.5682 	EXP 	text: text = '( 4 - 3 ) × 1 = 1'
+269.6193 	DATA 	Keypress: left
+269.7991 	DATA 	Keypress: left
+269.8703 	INFO 	Keyboard events cleared
+269.8702 	EXP 	text: autoDraw = True
+270.0225 	DATA 	Keypress: left
+270.0243 	EXP 	text: autoDraw = False
+270.0243 	EXP 	text_2: height = 0.3
+270.0243 	EXP 	text_2: height = 0.3
+270.0243 	EXP 	text_2: height = 0.3
+270.0243 	EXP 	text_2: text = 'G'
+270.0243 	EXP 	text_2: autoDraw = True
+270.2157 	DATA 	Keypress: left
+270.4020 	DATA 	Keypress: left
+270.6193 	DATA 	Keypress: left
+270.8403 	DATA 	Keypress: left
+271.0142 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'Type': 'Operation', 'Span': 5, 'Stimulus': '( 3 - 2 ) × 5 = 5', 'Response': 'right', 'Letter': 'V', 'corrResp': None, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+271.0182 	EXP 	text_2: autoDraw = False
+271.0182 	EXP 	text_2: autoDraw = False
+271.0182 	EXP 	text: height = 0.1
+271.0182 	EXP 	text: height = 0.1
+271.0182 	EXP 	text: height = 0.1
+271.0182 	EXP 	text: text = '( 3 - 2 ) × 5 = 5'
+271.0566 	DATA 	Keypress: left
+271.3020 	DATA 	Keypress: left
+271.3122 	INFO 	Keyboard events cleared
+271.3121 	EXP 	text: autoDraw = True
+271.5008 	DATA 	Keypress: left
+271.5026 	EXP 	text: autoDraw = False
+271.5026 	EXP 	text_2: height = 0.3
+271.5026 	EXP 	text_2: height = 0.3
+271.5026 	EXP 	text_2: height = 0.3
+271.5026 	EXP 	text_2: text = 'V'
+271.5026 	EXP 	text_2: autoDraw = True
+271.7201 	DATA 	Keypress: left
+271.8988 	DATA 	Keypress: left
+272.0339 	DATA 	Keypress: left
+272.2008 	DATA 	Keypress: left
+272.4491 	DATA 	Keypress: left
+272.5006 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'Type': 'Operation', 'Span': 5, 'Stimulus': '( 3 + 8 ) × 2 = 17', 'Response': 'left', 'Letter': 'X', 'corrResp': None, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+272.5050 	EXP 	text_2: autoDraw = False
+272.5050 	EXP 	text: height = 0.1
+272.5050 	EXP 	text: height = 0.1
+272.5050 	EXP 	text: height = 0.1
+272.5050 	EXP 	text: text = '( 3 + 8 ) × 2 = 17'
+272.6235 	DATA 	Keypress: left
+272.7880 	INFO 	Keyboard events cleared
+272.7879 	EXP 	text: autoDraw = True
+272.8552 	DATA 	Keypress: left
+272.8570 	EXP 	text: autoDraw = False
+272.8570 	EXP 	text_2: height = 0.3
+272.8570 	EXP 	text_2: height = 0.3
+272.8570 	EXP 	text_2: height = 0.3
+272.8570 	EXP 	text_2: text = 'X'
+272.8570 	EXP 	text_2: autoDraw = True
+273.0825 	DATA 	Keypress: left
+273.2660 	DATA 	Keypress: left
+273.4704 	DATA 	Keypress: left
+273.6866 	DATA 	Keypress: left
+273.8475 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'Type': 'Operation', 'Span': 5, 'Stimulus': '( 5 - 5 ) × 1 = 0', 'Response': 'right', 'Letter': 'S', 'corrResp': ['n', 'g', 'v', 'x', 's'], 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+273.8514 	EXP 	text_2: autoDraw = False
+273.8514 	EXP 	text_2: autoDraw = False
+273.8514 	EXP 	text: height = 0.1
+273.8514 	EXP 	text: height = 0.1
+273.8514 	EXP 	text: height = 0.1
+273.8514 	EXP 	text: text = '( 5 - 5 ) × 1 = 0'
+273.9322 	DATA 	Keypress: left
+274.1622 	INFO 	Keyboard events cleared
+274.1622 	EXP 	text: autoDraw = True
+274.2673 	DATA 	Keypress: left
+274.2691 	EXP 	text: autoDraw = False
+274.2691 	EXP 	text_2: height = 0.3
+274.2691 	EXP 	text_2: height = 0.3
+274.2691 	EXP 	text_2: height = 0.3
+274.2691 	EXP 	text_2: text = 'S'
+274.2691 	EXP 	text_2: autoDraw = True
+274.4544 	DATA 	Keypress: left
+274.6825 	DATA 	Keypress: left
+274.9545 	DATA 	Keypress: left
+275.2155 	DATA 	Keypress: left
+275.2680 	INFO 	Keyboard events cleared
+275.2680 	EXP 	text_2: autoDraw = False
+275.2680 	EXP 	text_2: autoDraw = False
+275.2680 	EXP 	text_3: autoDraw = True
+275.4695 	DATA 	Keypress: left
+275.7549 	DATA 	Keypress: left
+275.7619 	INFO 	Keyboard events cleared
+276.0840 	DATA 	Keypress: left
+276.3867 	DATA 	Keypress: left
+276.6072 	DATA 	Keypress: left
+276.8059 	DATA 	Keypress: left
+277.4894 	DATA 	Keypress: d
+277.5870 	DATA 	Keypress: f
+277.6329 	DATA 	Keypress: g
+277.6827 	DATA 	Keypress: h
+277.7197 	DATA 	Keypress: j
+277.7660 	DATA 	Keypress: k
+277.7992 	DATA 	Keypress: l
+278.0522 	DEBUG 	Read excel file with openpyxl: Block.xlsx
+278.0523 	EXP 	Imported Block.xlsx as conditions, 3 conditions, 1 params
+278.0525 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'selectblock': 'Block1.xlsx', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+278.0544 	DATA 	Keypress: space
+278.0563 	EXP 	text_3: autoDraw = False
+278.0563 	EXP 	text_5: autoDraw = True
+278.4324 	DATA 	Keypress: left
+278.6588 	DATA 	Keypress: left
+279.0680 	DATA 	Keypress: left
+279.4351 	DATA 	Keypress: left
+279.6995 	DATA 	Keypress: left
+279.9695 	DATA 	Keypress: left
+280.2366 	DATA 	Keypress: left
+280.4890 	DATA 	Keypress: left
+280.5522 	DEBUG 	Read excel file with openpyxl: Block1.xlsx
+280.5544 	EXP 	Imported Block1.xlsx as conditions, 6 conditions, 6 params
+280.5546 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 6, 'Stimulus': '( 5 + 4 ) × 5 = 45', 'Response': 'right', 'Letter': 'J', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+280.5589 	EXP 	text_5: autoDraw = False
+280.5589 	EXP 	text_5: autoDraw = False
+280.5589 	EXP 	text: height = 0.1
+280.5589 	EXP 	text: height = 0.1
+280.5589 	EXP 	text: height = 0.1
+280.5589 	EXP 	text: text = '( 5 + 4 ) × 5 = 45'
+280.7672 	DATA 	Keypress: left
+280.8460 	INFO 	Keyboard events cleared
+280.8458 	EXP 	text: autoDraw = True
+281.0263 	DATA 	Keypress: left
+281.0286 	EXP 	text: autoDraw = False
+281.0286 	EXP 	text_2: height = 0.3
+281.0286 	EXP 	text_2: height = 0.3
+281.0286 	EXP 	text_2: height = 0.3
+281.0286 	EXP 	text_2: text = 'J'
+281.0286 	EXP 	text_2: autoDraw = True
+281.2825 	DATA 	Keypress: left
+281.4724 	DATA 	Keypress: left
+281.8056 	DATA 	Keypress: left
+282.0143 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 6, 'Stimulus': '( 3 - 3 ) × 2 = 0', 'Response': 'right', 'Letter': 'P', 'corrResp': None, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+282.0182 	EXP 	text_2: autoDraw = False
+282.0182 	EXP 	text_2: autoDraw = False
+282.0182 	EXP 	text: height = 0.1
+282.0182 	EXP 	text: height = 0.1
+282.0182 	EXP 	text: height = 0.1
+282.0182 	EXP 	text: text = '( 3 - 3 ) × 2 = 0'
+282.0486 	DATA 	Keypress: left
+282.2193 	DATA 	Keypress: left
+282.3303 	INFO 	Keyboard events cleared
+282.3303 	EXP 	text: autoDraw = True
+282.5182 	EXP 	text: autoDraw = False
+282.5182 	EXP 	text_2: height = 0.3
+282.5182 	EXP 	text_2: height = 0.3
+282.5182 	EXP 	text_2: height = 0.3
+282.5182 	EXP 	text_2: text = 'P'
+282.5182 	EXP 	text_2: autoDraw = True
+282.5218 	DATA 	Keypress: left
+282.7036 	DATA 	Keypress: left
+283.1325 	DATA 	Keypress: left
+283.3488 	DATA 	Keypress: left
+283.5174 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'Type': 'Operation', 'Span': 6, 'Stimulus': '( 4 - 3 ) × 3 = 3', 'Response': 'right', 'Letter': 'K', 'corrResp': None, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+283.5213 	EXP 	text_2: autoDraw = False
+283.5213 	EXP 	text: height = 0.1
+283.5213 	EXP 	text: height = 0.1
+283.5213 	EXP 	text: height = 0.1
+283.5213 	EXP 	text: text = '( 4 - 3 ) × 3 = 3'
+283.5491 	DATA 	Keypress: left
+283.7568 	DATA 	Keypress: left
+283.8135 	INFO 	Keyboard events cleared
+283.8134 	EXP 	text: autoDraw = True
+283.9509 	DATA 	Keypress: left
+283.9526 	EXP 	text: autoDraw = False
+283.9526 	EXP 	text_2: height = 0.3
+283.9526 	EXP 	text_2: height = 0.3
+283.9526 	EXP 	text_2: height = 0.3
+283.9526 	EXP 	text_2: text = 'K'
+283.9526 	EXP 	text_2: autoDraw = True
+284.1686 	DATA 	Keypress: left
+284.3859 	DATA 	Keypress: left
+284.5911 	DATA 	Keypress: left
+284.8196 	DATA 	Keypress: left
+284.9477 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'Type': 'Operation', 'Span': 6, 'Stimulus': '( 3 + 7 ) × 5 = 50', 'Response': 'right', 'Letter': 'L', 'corrResp': None, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+284.9516 	EXP 	text_2: autoDraw = False
+284.9516 	EXP 	text_2: autoDraw = False
+284.9516 	EXP 	text: height = 0.1
+284.9516 	EXP 	text: height = 0.1
+284.9516 	EXP 	text: height = 0.1
+284.9516 	EXP 	text: text = '( 3 + 7 ) × 5 = 50'
+285.0657 	DATA 	Keypress: left
+285.2455 	INFO 	Keyboard events cleared
+285.2455 	EXP 	text: autoDraw = True
+285.3056 	DATA 	Keypress: left
+285.3075 	EXP 	text: autoDraw = False
+285.3075 	EXP 	text_2: height = 0.3
+285.3075 	EXP 	text_2: height = 0.3
+285.3075 	EXP 	text_2: height = 0.3
+285.3075 	EXP 	text_2: text = 'L'
+285.3075 	EXP 	text_2: autoDraw = True
+285.5520 	DATA 	Keypress: left
+285.7225 	DATA 	Keypress: left
+285.9653 	DATA 	Keypress: left
+286.2325 	DATA 	Keypress: left
+286.2980 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'Type': 'Operation', 'Span': 6, 'Stimulus': '( 4 + 7 ) × 3 = 30', 'Response': 'left', 'Letter': 'T', 'corrResp': None, 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+286.3024 	EXP 	text_2: autoDraw = False
+286.3024 	EXP 	text_2: autoDraw = False
+286.3024 	EXP 	text: height = 0.1
+286.3024 	EXP 	text: height = 0.1
+286.3024 	EXP 	text: height = 0.1
+286.3024 	EXP 	text: text = '( 4 + 7 ) × 3 = 30'
+286.4486 	DATA 	Keypress: left
+286.5956 	INFO 	Keyboard events cleared
+286.5955 	EXP 	text: autoDraw = True
+286.6681 	EXP 	text: autoDraw = False
+286.6681 	EXP 	text_2: height = 0.3
+286.6681 	EXP 	text_2: height = 0.3
+286.6681 	EXP 	text_2: height = 0.3
+286.6681 	EXP 	text_2: text = 'T'
+286.6681 	EXP 	text_2: autoDraw = True
+286.6716 	DATA 	Keypress: left
+286.8542 	DATA 	Keypress: left
+287.0839 	DATA 	Keypress: left
+287.2693 	DATA 	Keypress: left
+287.5562 	DATA 	Keypress: left
+287.6642 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'Type': 'Operation', 'Span': 6, 'Stimulus': '( 5 - 4 ) × 4 = 4', 'Response': 'right', 'Letter': 'D', 'corrResp': ['j', 'p', 'k', 'l', 't', 'd'], 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+287.6680 	EXP 	text_2: autoDraw = False
+287.6680 	EXP 	text_2: autoDraw = False
+287.6680 	EXP 	text: height = 0.1
+287.6680 	EXP 	text: height = 0.1
+287.6680 	EXP 	text: height = 0.1
+287.6680 	EXP 	text: text = '( 5 - 4 ) × 4 = 4'
+287.7878 	DATA 	Keypress: left
+287.9622 	INFO 	Keyboard events cleared
+287.9622 	EXP 	text: autoDraw = True
+288.0360 	DATA 	Keypress: left
+288.0457 	EXP 	text: autoDraw = False
+288.0457 	EXP 	text_2: height = 0.3
+288.0457 	EXP 	text_2: height = 0.3
+288.0457 	EXP 	text_2: height = 0.3
+288.0457 	EXP 	text_2: text = 'D'
+288.0457 	EXP 	text_2: autoDraw = True
+288.2324 	DATA 	Keypress: left
+288.4655 	DATA 	Keypress: left
+288.6654 	DATA 	Keypress: left
+288.9189 	DATA 	Keypress: left
+289.0348 	INFO 	Keyboard events cleared
+289.0348 	EXP 	text_2: autoDraw = False
+289.0348 	EXP 	text_2: autoDraw = False
+289.0348 	EXP 	text_3: autoDraw = True
+289.1320 	DATA 	Keypress: left
+289.3493 	DATA 	Keypress: left
+289.5288 	INFO 	Keyboard events cleared
+289.5657 	DATA 	Keypress: left
+289.8155 	DATA 	Keypress: left
+290.4658 	DATA 	Keypress: d
+290.5369 	DATA 	Keypress: f
+290.5864 	DATA 	Keypress: g
+290.6331 	DATA 	Keypress: h
+290.6702 	DATA 	Keypress: j
+290.7033 	DATA 	Keypress: k
+290.7535 	DATA 	Keypress: l
+291.0015 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'selectblock': 'Block2.xlsx', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+291.0122 	EXP 	text_3: autoDraw = False
+291.0122 	EXP 	text_5: autoDraw = True
+291.0158 	DATA 	Keypress: space
+291.4325 	DATA 	Keypress: left
+291.6692 	DATA 	Keypress: left
+291.8674 	DATA 	Keypress: left
+292.1660 	DATA 	Keypress: right
+292.4327 	DATA 	Keypress: right
+292.7158 	DATA 	Keypress: left
+292.7564 	DATA 	Keypress: right
+292.9992 	DATA 	Keypress: right
+293.0045 	DATA 	Keypress: left
+293.3035 	DATA 	Keypress: left
+293.5022 	DEBUG 	Read excel file with openpyxl: Block2.xlsx
+293.5050 	EXP 	Imported Block2.xlsx as conditions, 6 conditions, 6 params
+293.5053 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 6, 'Stimulus': '( 3 + 3 ) × 3 = 15', 'Response': 'left', 'Letter': 'C', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+293.5096 	EXP 	text_5: autoDraw = False
+293.5096 	EXP 	text_5: autoDraw = False
+293.5096 	EXP 	text: height = 0.1
+293.5096 	EXP 	text: height = 0.1
+293.5096 	EXP 	text: height = 0.1
+293.5096 	EXP 	text: text = '( 3 + 3 ) × 3 = 15'
+293.6323 	DATA 	Keypress: right
+293.7956 	INFO 	Keyboard events cleared
+293.7955 	EXP 	text: autoDraw = True
+293.8288 	EXP 	text: autoDraw = False
+293.8288 	EXP 	text_2: height = 0.3
+293.8288 	EXP 	text_2: height = 0.3
+293.8288 	EXP 	text_2: height = 0.3
+293.8288 	EXP 	text_2: text = 'C'
+293.8288 	EXP 	text_2: autoDraw = True
+293.8321 	DATA 	Keypress: right
+294.0993 	DATA 	Keypress: left
+294.1158 	DATA 	Keypress: right
+294.3527 	DATA 	Keypress: left
+294.5514 	DATA 	Keypress: right
+294.5521 	DATA 	Keypress: left
+294.7570 	DATA 	Keypress: right
+294.7825 	DATA 	Keypress: left
+294.8147 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 6, 'Stimulus': '( 3 + 9 ) × 4 = 48', 'Response': 'right', 'Letter': 'M', 'corrResp': None, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+294.8186 	EXP 	text_2: autoDraw = False
+294.8186 	EXP 	text_2: autoDraw = False
+294.8186 	EXP 	text: height = 0.1
+294.8186 	EXP 	text: height = 0.1
+294.8186 	EXP 	text: height = 0.1
+294.8186 	EXP 	text: text = '( 3 + 9 ) × 4 = 48'
+294.9652 	DATA 	Keypress: right
+294.9819 	DATA 	Keypress: left
+295.1189 	INFO 	Keyboard events cleared
+295.1188 	EXP 	text: autoDraw = True
+295.1848 	EXP 	text: autoDraw = False
+295.1848 	EXP 	text_2: height = 0.3
+295.1848 	EXP 	text_2: height = 0.3
+295.1848 	EXP 	text_2: height = 0.3
+295.1848 	EXP 	text_2: text = 'M'
+295.1848 	EXP 	text_2: autoDraw = True
+295.1883 	DATA 	Keypress: right
+295.2028 	DATA 	Keypress: left
+295.4154 	DATA 	Keypress: right
+295.4161 	DATA 	Keypress: left
+295.6090 	DATA 	Keypress: left
+295.6098 	DATA 	Keypress: right
+295.8488 	DATA 	Keypress: right
+295.8494 	DATA 	Keypress: left
+296.0694 	DATA 	Keypress: left
+296.0824 	DATA 	Keypress: right
+296.1810 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'Type': 'Operation', 'Span': 6, 'Stimulus': '( 3 - 3 ) × 5 = 1', 'Response': 'left', 'Letter': 'B', 'corrResp': None, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+296.1849 	EXP 	text_2: autoDraw = False
+296.1849 	EXP 	text_2: autoDraw = False
+296.1849 	EXP 	text: height = 0.1
+296.1849 	EXP 	text: height = 0.1
+296.1849 	EXP 	text: height = 0.1
+296.1849 	EXP 	text: text = '( 3 - 3 ) × 5 = 1'
+296.2534 	DATA 	Keypress: left
+296.2828 	DATA 	Keypress: right
+296.4526 	DATA 	Keypress: left
+296.4790 	INFO 	Keyboard events cleared
+296.4789 	EXP 	text: autoDraw = True
+296.4821 	DATA 	Keypress: right
+296.6508 	DATA 	Keypress: right
+296.6526 	EXP 	text: autoDraw = False
+296.6526 	EXP 	text_2: height = 0.3
+296.6526 	EXP 	text_2: height = 0.3
+296.6526 	EXP 	text_2: height = 0.3
+296.6526 	EXP 	text_2: text = 'B'
+296.6526 	EXP 	text_2: autoDraw = True
+296.6559 	DATA 	Keypress: left
+296.8361 	DATA 	Keypress: left
+296.8527 	DATA 	Keypress: right
+297.0324 	DATA 	Keypress: left
+297.0486 	DATA 	Keypress: right
+297.2654 	DATA 	Keypress: left
+297.4496 	DATA 	Keypress: left
+297.4846 	DATA 	Keypress: right
+297.6503 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'Type': 'Operation', 'Span': 6, 'Stimulus': '( 4 - 3 ) × 3 = 6', 'Response': 'left', 'Letter': 'R', 'corrResp': None, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+297.6543 	EXP 	text_2: autoDraw = False
+297.6543 	EXP 	text: height = 0.1
+297.6543 	EXP 	text: height = 0.1
+297.6543 	EXP 	text: height = 0.1
+297.6543 	EXP 	text: text = '( 4 - 3 ) × 3 = 6'
+297.9471 	INFO 	Keyboard events cleared
+297.9469 	EXP 	text: autoDraw = True
+298.1009 	DATA 	Keypress: left
+298.1027 	EXP 	text: autoDraw = False
+298.1027 	EXP 	text_2: height = 0.3
+298.1027 	EXP 	text_2: height = 0.3
+298.1027 	EXP 	text_2: height = 0.3
+298.1027 	EXP 	text_2: text = 'R'
+298.1027 	EXP 	text_2: autoDraw = True
+298.5199 	DATA 	Keypress: left
+298.5253 	DATA 	Keypress: right
+298.7363 	DATA 	Keypress: left
+298.7526 	DATA 	Keypress: right
+298.9363 	DATA 	Keypress: left
+299.0976 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'Type': 'Operation', 'Span': 6, 'Stimulus': '( 3 + 4 ) × 2 = 14', 'Response': 'right', 'Letter': 'Q', 'corrResp': None, 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+299.1015 	EXP 	text_2: autoDraw = False
+299.1015 	EXP 	text_2: autoDraw = False
+299.1015 	EXP 	text: height = 0.1
+299.1015 	EXP 	text: height = 0.1
+299.1015 	EXP 	text: height = 0.1
+299.1015 	EXP 	text: text = '( 3 + 4 ) × 2 = 14'
+299.1323 	DATA 	Keypress: left
+299.3696 	DATA 	Keypress: left
+299.3956 	INFO 	Keyboard events cleared
+299.3955 	EXP 	text: autoDraw = True
+299.5204 	DATA 	Keypress: left
+299.5290 	EXP 	text: autoDraw = False
+299.5290 	EXP 	text_2: height = 0.3
+299.5290 	EXP 	text_2: height = 0.3
+299.5290 	EXP 	text_2: height = 0.3
+299.5290 	EXP 	text_2: text = 'Q'
+299.5290 	EXP 	text_2: autoDraw = True
+299.7325 	DATA 	Keypress: left
+299.9061 	DATA 	Keypress: left
+300.1323 	DATA 	Keypress: left
+300.3532 	DATA 	Keypress: left
+300.5172 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'Type': 'Operation', 'Span': 6, 'Stimulus': '( 4 + 3 ) × 4 = 28', 'Response': 'right', 'Letter': 'S', 'corrResp': ['c', 'm', 'b', 'r', 'q', 's'], 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+300.5211 	EXP 	text_2: autoDraw = False
+300.5211 	EXP 	text_2: autoDraw = False
+300.5211 	EXP 	text: height = 0.1
+300.5211 	EXP 	text: height = 0.1
+300.5211 	EXP 	text: height = 0.1
+300.5211 	EXP 	text: text = '( 4 + 3 ) × 4 = 28'
+300.5838 	DATA 	Keypress: left
+300.7859 	DATA 	Keypress: left
+300.8178 	INFO 	Keyboard events cleared
+300.8177 	EXP 	text: autoDraw = True
+300.9880 	DATA 	Keypress: left
+300.9956 	EXP 	text: autoDraw = False
+300.9956 	EXP 	text_2: height = 0.3
+300.9956 	EXP 	text_2: height = 0.3
+300.9956 	EXP 	text_2: height = 0.3
+300.9956 	EXP 	text_2: text = 'S'
+300.9956 	EXP 	text_2: autoDraw = True
+301.2154 	DATA 	Keypress: left
+301.4006 	DATA 	Keypress: left
+301.6529 	DATA 	Keypress: left
+301.8870 	DATA 	Keypress: left
+301.9888 	INFO 	Keyboard events cleared
+301.9888 	EXP 	text_2: autoDraw = False
+301.9888 	EXP 	text_2: autoDraw = False
+301.9888 	EXP 	text_3: autoDraw = True
+302.1324 	DATA 	Keypress: left
+302.4858 	INFO 	Keyboard events cleared
+302.7391 	DATA 	Keypress: left
+302.9382 	DATA 	Keypress: left
+303.1379 	DATA 	Keypress: left
+303.3696 	DATA 	Keypress: left
+303.5585 	DATA 	Keypress: left
+303.7825 	DATA 	Keypress: left
+303.9991 	DATA 	Keypress: left
+304.2361 	DATA 	Keypress: left
+304.4215 	DATA 	Keypress: left
+304.6364 	DATA 	Keypress: left
+305.2492 	DATA 	Keypress: f
+305.3014 	DATA 	Keypress: g
+305.3498 	DATA 	Keypress: h
+305.3997 	DATA 	Keypress: j
+305.4362 	DATA 	Keypress: k
+305.5163 	DATA 	Keypress: l
+305.6814 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'selectblock': 'Block3.xlsx', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+305.6833 	EXP 	text_3: autoDraw = False
+305.6833 	EXP 	text_5: autoDraw = True
+305.6866 	DATA 	Keypress: space
+306.3176 	DATA 	Keypress: left
+306.5354 	DATA 	Keypress: left
+306.7737 	DATA 	Keypress: left
+306.9826 	DATA 	Keypress: left
+307.2654 	DATA 	Keypress: left
+307.5032 	DATA 	Keypress: left
+307.8202 	DATA 	Keypress: left
+308.0180 	DATA 	Keypress: left
+308.1729 	DEBUG 	Read excel file with openpyxl: Block3.xlsx
+308.1752 	EXP 	Imported Block3.xlsx as conditions, 6 conditions, 6 params
+308.1755 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Type': 'Operation', 'Span': 6, 'Stimulus': '( 5 - 4 ) × 1 = 5', 'Response': 'left', 'Letter': 'F', 'corrResp': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+308.1956 	EXP 	text_5: autoDraw = False
+308.1956 	EXP 	text_5: autoDraw = False
+308.1956 	EXP 	text: height = 0.1
+308.1956 	EXP 	text: height = 0.1
+308.1956 	EXP 	text: height = 0.1
+308.1956 	EXP 	text: text = '( 5 - 4 ) × 1 = 5'
+308.3525 	DATA 	Keypress: left
+308.4789 	INFO 	Keyboard events cleared
+308.4788 	EXP 	text: autoDraw = True
+308.5691 	DATA 	Keypress: left
+308.5710 	EXP 	text: autoDraw = False
+308.5710 	EXP 	text_2: height = 0.3
+308.5710 	EXP 	text_2: height = 0.3
+308.5710 	EXP 	text_2: height = 0.3
+308.5710 	EXP 	text_2: text = 'F'
+308.5710 	EXP 	text_2: autoDraw = True
+308.8212 	DATA 	Keypress: left
+309.0383 	DATA 	Keypress: left
+309.2993 	DATA 	Keypress: left
+309.5643 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Type': 'Operation', 'Span': 6, 'Stimulus': '( 3 + 4 ) × 4 = 23', 'Response': 'left', 'Letter': 'V', 'corrResp': None, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+309.5683 	EXP 	text_2: autoDraw = False
+309.5683 	EXP 	text_2: autoDraw = False
+309.5683 	EXP 	text: height = 0.1
+309.5683 	EXP 	text: height = 0.1
+309.5683 	EXP 	text: height = 0.1
+309.5683 	EXP 	text: text = '( 3 + 4 ) × 4 = 23'
+309.6526 	DATA 	Keypress: left
+309.8624 	INFO 	Keyboard events cleared
+309.8623 	EXP 	text: autoDraw = True
+309.9288 	EXP 	text: autoDraw = False
+309.9288 	EXP 	text_2: height = 0.3
+309.9288 	EXP 	text_2: height = 0.3
+309.9288 	EXP 	text_2: height = 0.3
+309.9288 	EXP 	text_2: text = 'V'
+309.9288 	EXP 	text_2: autoDraw = True
+309.9325 	DATA 	Keypress: left
+310.1679 	DATA 	Keypress: left
+310.4368 	DATA 	Keypress: left
+310.6821 	DATA 	Keypress: left
+310.9197 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'Type': 'Operation', 'Span': 6, 'Stimulus': '( 1 + 1 ) × 3 = 4', 'Response': 'left', 'Letter': 'Z', 'corrResp': None, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+310.9236 	DATA 	Keypress: left
+310.9289 	EXP 	text_2: autoDraw = False
+310.9289 	EXP 	text: height = 0.1
+310.9289 	EXP 	text: height = 0.1
+310.9289 	EXP 	text: height = 0.1
+310.9289 	EXP 	text: text = '( 1 + 1 ) × 3 = 4'
+311.2289 	INFO 	Keyboard events cleared
+311.2289 	EXP 	text: autoDraw = True
+311.2359 	DATA 	Keypress: left
+311.3216 	DATA 	Keypress: right
+311.3236 	EXP 	text: autoDraw = False
+311.3236 	EXP 	text_2: height = 0.3
+311.3236 	EXP 	text_2: height = 0.3
+311.3236 	EXP 	text_2: height = 0.3
+311.3236 	EXP 	text_2: text = 'Z'
+311.3236 	EXP 	text_2: autoDraw = True
+311.4860 	DATA 	Keypress: left
+311.6320 	DATA 	Keypress: right
+311.9367 	DATA 	Keypress: right
+312.2325 	DATA 	Keypress: right
+312.3142 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'Type': 'Operation', 'Span': 6, 'Stimulus': '( 9 - 4 ) × 2 = 10', 'Response': 'right', 'Letter': 'N', 'corrResp': None, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+312.3180 	EXP 	text_2: autoDraw = False
+312.3180 	EXP 	text_2: autoDraw = False
+312.3180 	EXP 	text: height = 0.1
+312.3180 	EXP 	text: height = 0.1
+312.3180 	EXP 	text: height = 0.1
+312.3180 	EXP 	text: text = '( 9 - 4 ) × 2 = 10'
+312.4856 	DATA 	Keypress: right
+312.6204 	INFO 	Keyboard events cleared
+312.6203 	EXP 	text: autoDraw = True
+313.5713 	DATA 	Keypress: right
+313.5788 	EXP 	text: autoDraw = False
+313.5788 	EXP 	text_2: height = 0.3
+313.5788 	EXP 	text_2: height = 0.3
+313.5788 	EXP 	text_2: height = 0.3
+313.5788 	EXP 	text_2: text = 'N'
+313.5788 	EXP 	text_2: autoDraw = True
+313.8379 	DATA 	Keypress: right
+313.9991 	DATA 	Keypress: left
+314.1864 	DATA 	Keypress: left
+314.3196 	DATA 	Keypress: left
+314.5361 	DATA 	Keypress: left
+314.5642 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'Type': 'Operation', 'Span': 6, 'Stimulus': '( 3 + 5 ) × 1 = 3', 'Response': 'left', 'Letter': 'P', 'corrResp': None, 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+314.5681 	EXP 	text_2: autoDraw = False
+314.5681 	EXP 	text_2: autoDraw = False
+314.5681 	EXP 	text: height = 0.1
+314.5681 	EXP 	text: height = 0.1
+314.5681 	EXP 	text: height = 0.1
+314.5681 	EXP 	text: text = '( 3 + 5 ) × 1 = 3'
+314.8622 	INFO 	Keyboard events cleared
+314.8622 	EXP 	text: autoDraw = True
+316.7386 	DATA 	Keypress: left
+316.7405 	EXP 	text: autoDraw = False
+316.7405 	EXP 	text_2: height = 0.3
+316.7405 	EXP 	text_2: height = 0.3
+316.7405 	EXP 	text_2: height = 0.3
+316.7405 	EXP 	text_2: text = 'P'
+316.7405 	EXP 	text_2: autoDraw = True
+316.9692 	DATA 	Keypress: right
+317.1844 	DATA 	Keypress: right
+317.4034 	DATA 	Keypress: right
+317.4195 	DATA 	Keypress: left
+317.5825 	DATA 	Keypress: left
+317.5874 	DATA 	Keypress: right
+317.7309 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'Type': 'Operation', 'Span': 6, 'Stimulus': '( 5 + 3 ) × 3 = 24', 'Response': 'right', 'Letter': 'X', 'corrResp': ['f', 'v', 'z', 'n', 'p', 'x'], 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+317.7349 	EXP 	text_2: autoDraw = False
+317.7349 	EXP 	text_2: autoDraw = False
+317.7349 	EXP 	text: height = 0.1
+317.7349 	EXP 	text: height = 0.1
+317.7349 	EXP 	text: height = 0.1
+317.7349 	EXP 	text: text = '( 5 + 3 ) × 3 = 24'
+318.0377 	INFO 	Keyboard events cleared
+318.0377 	EXP 	text: autoDraw = True
+319.4288 	EXP 	text: autoDraw = False
+319.4288 	EXP 	text_2: height = 0.3
+319.4288 	EXP 	text_2: height = 0.3
+319.4288 	EXP 	text_2: height = 0.3
+319.4288 	EXP 	text_2: text = 'X'
+319.4288 	EXP 	text_2: autoDraw = True
+319.4325 	DATA 	Keypress: right
+319.6361 	DATA 	Keypress: left
+319.8753 	DATA 	Keypress: left
+319.8822 	DATA 	Keypress: right
+320.0492 	DATA 	Keypress: right
+320.3402 	DATA 	Keypress: right
+320.3692 	DATA 	Keypress: left
+320.4289 	INFO 	Keyboard events cleared
+320.4288 	EXP 	text_2: autoDraw = False
+320.4288 	EXP 	text_3: autoDraw = True
+320.5714 	DATA 	Keypress: left
+320.9123 	INFO 	Keyboard events cleared
+320.9741 	DATA 	Keypress: right
+321.1574 	DATA 	Keypress: left
+321.3692 	DATA 	Keypress: right
+321.3748 	DATA 	Keypress: left
+321.5689 	DATA 	Keypress: right
+321.5741 	DATA 	Keypress: left
+322.2033 	DATA 	Keypress: d
+322.2496 	DATA 	Keypress: f
+322.2864 	DATA 	Keypress: g
+322.3336 	DATA 	Keypress: h
+322.3666 	DATA 	Keypress: j
+322.4034 	DATA 	Keypress: k
+322.4493 	DATA 	Keypress: l
+322.6989 	EXP 	New trial (rep=1, index=0): <Trial 1 (0 in rep 1) data={'thisN': 1, 'thisTrialN': 0, 'thisRepN': 1}>
+323.1202 	EXP 	Sound  reached end of file
+323.1203 	EXP 	Sound  started
+323.1230 	DATA 	Keypress: space
+323.1259 	EXP 	text_3: autoDraw = False
+323.1259 	EXP 	nback_inst: autoDraw = True
+323.6158 	INFO 	Keyboard events cleared
+324.2962 	DEBUG 	Read excel file with openpyxl: letters1.xlsx
+324.2972 	EXP 	Imported letters1.xlsx as conditions, 29 conditions, 2 params
+324.2976 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'letter': 'M', 'correct': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+324.3007 	DATA 	Keypress: space
+324.3027 	EXP 	nback_inst: autoDraw = False
+324.3027 	EXP 	nback_stim: height = 0.3
+324.3027 	EXP 	nback_stim: height = 0.3
+324.3027 	EXP 	nback_stim: height = 0.3
+324.3027 	EXP 	nback_stim: text = 'M'
+325.7828 	INFO 	Keyboard events cleared
+325.7827 	EXP 	nback_stim: autoDraw = True
+326.7715 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'letter': 'O', 'correct': None, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+326.7788 	EXP 	nback_stim: autoDraw = False
+326.7788 	EXP 	nback_stim: autoDraw = False
+326.7788 	EXP 	nback_stim: height = 0.3
+326.7788 	EXP 	nback_stim: height = 0.3
+326.7788 	EXP 	nback_stim: height = 0.3
+326.7788 	EXP 	nback_stim: text = 'O'
+326.9989 	DATA 	Keypress: space
+328.2867 	INFO 	Keyboard events cleared
+328.2866 	EXP 	nback_stim: autoDraw = True
+328.9216 	DATA 	Keypress: space
+329.2721 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'letter': 'X', 'correct': None, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+329.2788 	EXP 	nback_stim: autoDraw = False
+329.2788 	EXP 	nback_stim: autoDraw = False
+329.2788 	EXP 	nback_stim: height = 0.3
+329.2788 	EXP 	nback_stim: height = 0.3
+329.2788 	EXP 	nback_stim: height = 0.3
+329.2788 	EXP 	nback_stim: text = 'X'
+330.7827 	INFO 	Keyboard events cleared
+330.7827 	EXP 	nback_stim: autoDraw = True
+331.7692 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'letter': 'P', 'correct': None, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+331.7727 	EXP 	nback_stim: autoDraw = False
+331.7727 	EXP 	nback_stim: autoDraw = False
+331.7727 	EXP 	nback_stim: height = 0.3
+331.7727 	EXP 	nback_stim: height = 0.3
+331.7727 	EXP 	nback_stim: height = 0.3
+331.7727 	EXP 	nback_stim: text = 'P'
+333.2752 	INFO 	Keyboard events cleared
+333.2752 	EXP 	nback_stim: autoDraw = True
+334.2619 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'letter': 'X', 'correct': None, 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+334.2652 	EXP 	nback_stim: autoDraw = False
+334.2652 	EXP 	nback_stim: autoDraw = False
+334.2652 	EXP 	nback_stim: height = 0.3
+334.2652 	EXP 	nback_stim: height = 0.3
+334.2652 	EXP 	nback_stim: height = 0.3
+334.2652 	EXP 	nback_stim: text = 'X'
+335.0333 	DATA 	Keypress: escape
+335.1479 	EXP 	OperationSpanTask: status = STOPPED
+335.1514 	EXP 	OperationSpanTask: status = STOPPED
+335.1928 	INFO 	saved data to '/Users/liuhaojie/Desktop/ospan_副本/ospan/data/123_OperationSpanTask_2025-05-10_13h52.27.660.csv'
+335.1944 	INFO 	saved data to /Users/liuhaojie/Desktop/ospan_副本/ospan/data/123_OperationSpanTask_2025-05-10_13h52.27.660.psydat
+335.3388 	DEBUG 	Saving data for OperationSpanTask ExperimentHandler
+335.3401 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+335.3402 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+335.3402 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+335.3403 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+335.3403 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+335.3403 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+335.3403 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
